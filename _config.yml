@@ -5,8 +5,8 @@ repository: fdelbrayelle/fdelbrayelle.github.io
 # Personal info
 name: François Delbrayelle
 title: Développeur full-stack
-#email: brett.h@email.co.uk
-#website: www.github.com/sproogen/resume-theme
+#email: fdelbrayelle@gmail.fr
+#website: www.francois-delbrayelle.fr
 
 # Social links
 twitter_username: fdelbrayelle
@@ -21,7 +21,7 @@ linkedin_username: fdelbrayelle
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: À propos
+about_title: À propos
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Bonjour, je suis <strong>développeur full-stack senior, tech lead et formateur</strong>. Je tente également d'appliquer les règles du software craftsmanship au quotidien dans mon travail. Je me passionne pour le développement depuis la fin des années 90 et j'ai <strong>près de 10 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et SUPINFO Lille. De <a href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank">personnalité INFJ-T</a>, je suis particulièrement sensible aux moyens d'expression telle que la communication non violente.
@@ -33,22 +33,19 @@ about_content: | # this will include new lines to allow paragraphs
   Je cherche à développer mes compétences dans : les <mark>micro-services</mark>, les <mark>containers</mark> et le <mark>cloud</mark>
 
 # Projects Section
-# projects_title: Projets
+projects_title: Projets
 
 # Experience Section
-# experience_title: Expérience
+experience_title: Expérience
 
 # Education Section
-# educaton_title: Formation
+educaton_title: Formation
 
 # More Section
-# more_title: En savoir plus sur moi
+more_title: En savoir plus sur moi
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  À venir !
+   - TODO
 
 # Footer
 footer_show_references: false

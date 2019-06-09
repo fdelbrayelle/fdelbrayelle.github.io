@@ -29,8 +29,10 @@ about_content: | # this will include new lines to allow paragraphs
   Je suis plutôt orienté développement backend à la base mais depuis quelques années je m'intéresse également du frontend et notamment à Angular et Vue. Je suis également utilisateur de GNU/Linux et je tente d'avoir des connaissances larges tout en approfondissant mes connaissances back (T-shaped). J'ai travaillé pour plusieurs ESN, en centre de services, en régie, dans différents contextes, modes d'organisations, pour des durées variées et dans divers domaines fonctionnels.
 
   Mes domaines d'expertise principaux sont : <mark>Spring</mark>, <mark>Angular</mark> et <mark>Vue</mark>
+
+  Je me retrouve beaucoup dans la notion de ["métarchitecte"](https://www.youtube.com/watch?v=sEK68arLUq0), je remets constamment mes connaissances en question ("Tu sais tout quand tu sais que tu ne sais rien" disait Socrate) et je suis en veille quotidienne en essayant de m'intéresser aux nouveautés et de tester certaines frameworks.
   
-  Je cherche à développer mes compétences dans : les <mark>micro-services</mark>, les <mark>containers</mark> et le <mark>cloud</mark>
+  Je cherche à développer mes compétences en particulier dans : les <mark>micro-services</mark>, les <mark>containers</mark>, la <mark>programmation réactive</mark> et le <mark>cloud</mark>
 
 # Projects Section
 projects_title: Projets

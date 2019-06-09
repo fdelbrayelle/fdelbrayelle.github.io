@@ -1,8 +1,29 @@
 - layout: left
-  name: À venir
-  dates: À venir
-  qualification: À venir
-  quote: >
-    À venir
+  name: SUPINFO
+  dates: 2008 - 2011
+  qualification: MSc Computer Science
   description: | # this will include new lines to allow paragraphs
-    À venir
+    Obtention du Master of Science in Computer Science (équivalent au Master 2 d'informatique - 5ème année). Rédaction d'un mémoire de fin d'études en lien avec le stage de fin d'études sur le thème suivant : "Comment le développeur peut-il améliorer la qualité logicielle au sein d'un centre de services ?"
+
+    Stages de 71 semaines au total (en partenariat, forme d'alternance, durant l'année et en stages de fin d'année) :
+      - En 2009 (2 jours par semaine de janvier à juin puis 3 mois en fin d'année) chez Compario devenu [Sparkow](http://sparkow.com/fr/), société éditrice d'une solution de merchandising : gestion du site d'un client exportateur de biens vers le Japon, développements en <mark>.NET</mark> et en JavaScript (TreeMap, <mark>JQuery</mark>).
+      - En 2010 (2 jours par semaine de mars à juin puis 3 mois en fin d'année) chez Odimat, agence de référencement web : développements de nouveaux modules en <mark>Python</mark> pour OpenERP devenu [Odoo](https://www.odoo.com/fr_FR/), apprentissage des notions principales liées au référencement naturel <mark>SEO</mark>.
+      - En 2011 (6 mois en fin d'études) chez [Norsys](https://www.norsys.fr/) : tierce maintenance applicative (évolutions et corrections d'anomalies) pour l'application frontoffice de gestion des commandes courrier et téléphone du groupe [3 Suisses](https://www.3suisses.fr/). Développements et tests en Java EE (<mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark>) et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge).
+
+    Obtention de la certification "Mandriva Certified Administrator" et membre du Laboratoire Java de 2008 à 2010 (réalisations de projets individuels ou de groupe, présentations de sujets).
+
+- layout: left
+  name: Université d'Artois
+  dates: 2005 - 2008
+  qualification: DUT informatique
+  description: | # this will include new lines to allow paragraphs
+    Stage de 10 semaines en 2007 chez [Idea7](https://www.idea7.fr) en développement Java EE (<mark>API Servlet</mark>, <mark>JSP</mark>, <mark>JQuery</mark>).
+    
+    Président du BDE du département informatique de l'IUT de Lens de 2006 à 2007.
+
+- layout: left
+  name: Lycée de Gondecourt
+  dates: 2005
+  qualification: Baccalauréat série scientifique
+  description: | # this will include new lines to allow paragraphs
+    Spécialité mathématiques

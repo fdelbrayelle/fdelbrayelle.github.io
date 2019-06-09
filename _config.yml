@@ -17,16 +17,16 @@ github_username:  fdelbrayelle
 #instagram_username: chillwildlife
 linkedin_username: fdelbrayelle
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 about_title: À propos
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Bonjour, je suis <strong>développeur full-stack senior, tech lead et formateur</strong>. Je tente également d'appliquer les règles du software craftsmanship au quotidien dans mon travail. Je me passionne pour le développement depuis la fin des années 90 et j'ai <strong>près de 10 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et SUPINFO Lille. De <a href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank">personnalité INFJ-T</a>, je suis particulièrement sensible aux moyens d'expression telle que la communication non violente.
+  Je suis <strong>développeur full-stack senior, tech lead et formateur</strong>. Je tente également d'appliquer les règles du software craftsmanship au quotidien dans mon travail. Je me passionne pour le développement depuis la fin des années 90 et j'ai <strong>près de 10 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et SUPINFO Lille. De <a href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression telle que la communication non violente.
 
-   Je suis plutôt orienté développement backend à la base mais depuis quelques années je m'intéresse également du frontend et notamment à Angular et Vue. Je suis également utilisateur de GNU/Linux et je tente d'avoir des connaissances larges tout en approfondissant mes connaissances back (T-shaped). J'ai travaillé pour plusieurs ESN, dans différents contextes, modes d'organisations, pour des durées variées et dans divers domaines fonctionnels.
+  Je suis plutôt orienté développement backend à la base mais depuis quelques années je m'intéresse également du frontend et notamment à Angular et Vue. Je suis également utilisateur de GNU/Linux et je tente d'avoir des connaissances larges tout en approfondissant mes connaissances back (T-shaped). J'ai travaillé pour plusieurs ESN, en centre de services, en régie, dans différents contextes, modes d'organisations, pour des durées variées et dans divers domaines fonctionnels.
 
   Mes domaines d'expertise principaux sont : <mark>Spring</mark>, <mark>Angular</mark> et <mark>Vue</mark>
   
@@ -39,16 +39,28 @@ projects_title: Projets
 experience_title: Expérience
 
 # Education Section
-educaton_title: Formation
+education_title: Formation
 
 # More Section
 more_title: En savoir plus sur moi
 more_content: | # this will include new lines to allow paragraphs
-  À venir !
-   - TODO
+  Je pratique plusieurs langues à différentes fréquences :
+   - <strong>Français</strong> - Langue maternelle
+   - <strong>Anglais</strong> - Niveau intermédiaire avancé : 840 points au TOEIC en mars 2011
+   - <strong>Japonais</strong> - Niveau intermédiaire avancé : école de l'école japonaise du Nord Pas-de-Calais en 2008/2009 et 2010/2011, Kanji Kentei niveau 5 (漢字検定5級) en janvier 2010 et Japanese Language Proficiency Test N2 (日本語能力試験2級) en février 2014
+   - <strong>Espagnol</strong> - Niveau scolaire lycée (LV2), révisions régulières
+
+  Quand on me demande ce que je fais dans la vie j'ai souvent tendance à parler de mes centres d'intérêt et passions :
+   - Le <strong>Japon et la langue japonaise</strong> : voyages en octobre 2010, mai 2013 et janvier 2017 et [blog sur la culture nippone](http://www.francois-delbrayelle.fr/blog-japon/) où j'y expose mes récits de voyages
+   - La découverte et le perfectionnement de langues étrangères : notion en espagnol, allemand, arabe et langue des signes français (LSF)
+   - La pratique de plusieurs <strong>sports</strong> régulièrement (natation, aikido, randonnée, cyclisme)
+   - La <strong>lecture</strong> de romans de science-fiction, steampunk et fantasy mais aussi de classiques, livres d'histoire et essais divers
+   - La <strong>botanique</strong> que j'ai notamment découverte via le [MOOC Botanique](https://mooc.tela-botanica.org/course/view.php?id=3) de Tela Botanica en 2018
+
+  J'ai suivi également la <strong>formation SST</strong> (sauveteur-secouriste du travail) le 22 octobre 2018 et la formation incendie.
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme

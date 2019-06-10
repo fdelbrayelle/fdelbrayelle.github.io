@@ -3,21 +3,21 @@
   dates: 2008 - 2011
   qualification: MSc Computer Science
   description: | # this will include new lines to allow paragraphs
-    Obtention du Master of Science in Computer Science (équivalent au Master 2 d'informatique - 5ème année) à l'école supérieure d'informatique de Lille. Rédaction d'un mémoire de fin d'études en lien avec le stage de fin d'études sur le thème suivant : "Comment le développeur peut-il améliorer la qualité logicielle au sein d'un centre de services ?"
+    Obtention du Master of Science in Computer Science (<strong>équivalent au Master 2 d'informatique</strong> - 5ème année) à l'école supérieure d'informatique de Lille. Rédaction d'un mémoire en lien avec le stage de fin d'études sur le thème suivant : "Comment le développeur peut-il améliorer la qualité logicielle au sein d'un centre de services ?"
 
-    Stages de 71 semaines au total (en partenariat, forme d'alternance, durant l'année et en stages de fin d'année) :
-      - En 2009 (2 jours par semaine de janvier à juin puis 3 mois en fin d'année) chez Compario devenu [Sparkow](http://sparkow.com/fr/), société éditrice d'une solution de merchandising : gestion du site d'un client exportateur de biens vers le Japon, développements en <mark>.NET</mark> et en JavaScript (TreeMap, <mark>JQuery</mark>).
-      - En 2010 (2 jours par semaine de mars à juin puis 3 mois en fin d'année) chez Odimat, agence de référencement web : développements de nouveaux modules en <mark>Python</mark> pour OpenERP devenu [Odoo](https://www.odoo.com/fr_FR/), apprentissage des notions principales liées au référencement naturel <mark>SEO</mark>.
-      - En 2011 (6 mois en fin d'études) chez [Norsys](https://www.norsys.fr/) : tierce maintenance applicative (évolutions et corrections d'anomalies) pour l'application frontoffice de gestion des commandes courrier et téléphone du groupe [3 Suisses](https://www.3suisses.fr/). Développements et tests en Java EE (<mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark>) et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge).
+    Obtention de la <strong>certification "Mandriva Certified Administrator"</strong> et <strong>membre du Laboratoire Java</strong> de 2008 à 2010 (réalisations de projets individuels ou de groupe, présentations de sujets).
 
-    Obtention de la certification "Mandriva Certified Administrator" et membre du Laboratoire Java de 2008 à 2010 (réalisations de projets individuels ou de groupe, présentations de sujets).
+    <strong>71 semaines de stages</strong> au total (en partenariat, forme d'alternance, durant l'année et en stages de fin d'année) :
+      - En 2009 (2 jours par semaine de janvier à juin puis 15 semaines en fin d'année) chez Compario (Lille - Euratechnologies) devenu [Sparkow](http://sparkow.com/fr/), société éditrice d'une solution de merchandising : développement en <mark>.NET</mark> (<mark>C#</mark> et <mark>WPF</mark>) sur un site client exportateur de produits français vers le Japon, optimisation du site, référencement, utilisation de <mark>SQL Server</mark> et JavaScript (TreeMap, <mark>JQuery</mark>) ; création d'un outil de reporting, anticipation de l'expérience utilisateur ; mise en place de RIA pour des catalogues produits.
+      - En 2010 (2 jours par semaine de mars à juin puis 13 semaines en fin d'année) chez Odimat (Liévin), agence de référencement web : développement de nouveaux modules (référencement web, gestion de la relation client, finances, facturation, optimisation des pages web, positionnement...) en <mark>Python</mark> pour OpenERP devenu [Odoo](https://www.odoo.com/fr_FR/), utilisation de <mark>PostgreSQL</mark> et apprentissage des notions principales liées au référencement naturel <mark>SEO</mark> ; pratique de l'<mark>extreme programming</mark>.
+      - En 2011 (6 mois en fin d'études) chez [Norsys](https://www.norsys.fr/) (Ennevelin) : tierce maintenance applicative (évolutions et corrections d'anomalies) pour l'application frontoffice de gestion des commandes courrier et téléphone du groupe [3 Suisses](https://www.3suisses.fr/). Développement et tests en Java EE (<mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark>) et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge) ; développement d'une application <mark>Android</mark> de communication interne pour l'entreprise.
 
 - layout: left
   name: Université d'Artois
   dates: 2005 - 2008
   qualification: DUT informatique
   description: | # this will include new lines to allow paragraphs
-    Stage de 10 semaines en 2007 chez [Idea7](https://www.idea7.fr) en développement Java EE (<mark>API Servlet</mark>, <mark>JSP</mark>, <mark>JQuery</mark>).
+    <strong>Stage de 10 semaines</strong> en 2007 chez [Idea7](https://www.idea7.fr) (Mérignies) : développement Java EE (<mark>API Servlet</mark>, <mark>JSP</mark>, <mark>JQuery</mark>) sur l'application Canto Cumulus de gestion documentaire d'assets digitaux.
     
     Président du BDE du département informatique de l'IUT de Lens de 2006 à 2007.
 

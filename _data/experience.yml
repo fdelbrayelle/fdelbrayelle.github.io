@@ -1,9 +1,43 @@
 - layout: left
-  company: À venir
-  link: À venir
-  job_title: À venir
-  dates: À venir
-  quote: >
-   À venir
+  company: Norsys
+  link: https://www.norsys.fr/
+  job_title: Ingénieur études et développement
+  dates: Avril 2011 - Avril 2015
+  # quote: >
+  #  À venir
   description: | # this will include new lines to allow paragraphs
-    À venir
+    <h4>Décathlon - Régie (Villeneuve d'Ascq) - Septembre 2013 - Avril 2015 (19 mois)</h4>
+    <img src="images/decathlon_logo.png" style="float: left; margin: 25px;" />
+    <p style="font-weight: bold; margin-top: 25px;">Application web de sélection de produits magasin.</p>
+    <p>Stabilisation de l'application. Maintenance et évolution technique du framework de gestion des transactions, migration et création de services sur cet existant.</p>
+    <p>Développement de scripts de revue de code en bash puis en Groovy notamment pour détecter les mauvaises pratiques de développement.</p>
+    <p>Nouveau projet pour gérer une nouvelle notion dans l'arborescence des produits (mise en place du framework de tests unitaires, gestion agile).</p>
+    <p>Intégration au pôle support en tant que développeur référent (analyse des impacts, proposition de solutions techniques pour résoudre plusieurs anomalies, réalisation de batchs et fiabilisation de pans applicatifs entiers).</p>
+    <p>Technologies : <mark>Struts</mark>, <mark>Salto</mark>, <mark>Tiles</mark>, <mark>GWT</mark>, <mark>H2</mark>. Gestion des sources sous <mark>git</mark>.
+
+    <hr style="margin: 25px 0; clear: left;" />
+    <h4>CNSA - Centre de services (Ennevelin) - Novembre 2012 - Août 2013 (9 mois)</h4>
+    <img src="images/cnsa_logo.png" style="float: left; width: 30%;" />
+    <p style="font-weight: bold; margin-top: 25px;">Application web <a href="http://hapi.cnsa.fr" target="_blank">HAPI</a> à destination des agences régionales de santé d'harmonisation du processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux.</p>
+    <p>Tierce maintenance applicative (évolutions et corrections d'anomalies), études d'impacts techniques, intégration/livraison de nouveaux développements et exploitation de divers environnements sur GNU/Linux (recette, qualification).</p>
+    <p>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement).</p>
+    <br />
+    <p>Technologies : <mark>Spring MVC</mark>, <mark>Hibernate</mark> et <mark>SQL Server</mark>. Gestion des sources sous <mark>svn</mark>.</p>
+
+    <hr style="margin: 25px 0; clear: left;" />
+    <h4>3 Suisses - Régie (Croix) - Mai 2012 - Novembre 2012 (6 mois)</h4>
+    <img src="images/3_suisses_logo.png" style="float: left" />
+    <p style="font-weight: bold; margin-top: 25px;">Refonte du tunnel de commandes du site web <a href="https://3suisses.fr" target="_blank">3suisses.fr</a>.</p>
+    <p>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation).</p>
+    <p>Études, développement et tests et application de bonnes pratiques de qualité (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
+    <p>Intégration et participation au dispositif de gestion agile du projet. TDD et BDD.</p>
+    <p>Technologies : <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Gestion des sources sous <mark>git</mark>.</p>
+
+    <hr style="margin: 25px 0; clear: left;" />
+    <h4>3 Suisses - Centre de services (Ennevelin) - Avril 2011 - Mai 2012 (13 mois)</h4>
+    <img src="images/3_suisses_logo.png" style="float: left" />
+    <p style="font-style: italic; margin-top: 25px;">Dont 6 mois de stage de fin d'études.</p>
+    <p style="font-weight: bold">Application web de gestion des commandes courrier et téléphone.</p>
+    <p>Tierce maintenance applicative (évolutions et corrections d'anomalies). Études, développement et tests avec utilisation de Java EE.</p>
+    <br /><br /><br />
+    <p>Technologies : <mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark> et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge). Gestion des sources sous <mark>svn</mark>.</p>

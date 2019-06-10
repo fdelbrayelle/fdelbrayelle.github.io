@@ -24,15 +24,15 @@ linkedin_username: fdelbrayelle
 about_title: À propos
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Je suis <strong>développeur full-stack senior, tech lead et formateur</strong>. Je tente également d'appliquer les règles du software craftsmanship au quotidien dans mon travail. Je me passionne pour le développement depuis la fin des années 90 et j'ai <strong>près de 10 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et SUPINFO Lille. De <a href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression telle que la communication non violente.
+  Je suis <strong>développeur full-stack senior, tech lead et formateur</strong>. Je tente également d'appliquer les règles du software craftsmanship au quotidien dans mon travail. Je me passionne pour le développement depuis la fin des années 90 et j'ai <strong>près de 10 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression telle que la [CNV](https://fr.wikipedia.org/wiki/Communication_non_violente).
 
-  Je suis plutôt orienté développement backend à la base mais depuis quelques années je m'intéresse également du frontend et notamment à Angular et Vue. Je suis également utilisateur au quotidien de <mark>GNU/Linux</mark> et je tente d'avoir des connaissances larges tout en approfondissant mes connaissances back (T-shaped). J'ai travaillé pour plusieurs ESN, en centre de services, en régie, dans différents contextes, modes d'organisations, pour des durées variées et dans divers domaines fonctionnels.
+  Je suis plutôt orienté développement backend à la base mais depuis quelques années je m'intéresse également du frontend et notamment à Angular et Vue. Je suis également utilisateur au quotidien de <mark>GNU/Linux</mark> et je tente d'avoir des connaissances larges tout en approfondissant mes connaissances back ("T-shaped"). J'ai travaillé pour plusieurs ESN, en centre de services, en régie, dans différents contextes et modes d'organisations, pour des durées variées et dans divers domaines fonctionnels (gestion documentaire, référencement, merchandising, vente, e-commerce, santé, banque, assurance).
 
-  Mes domaines d'expertise principaux sont <mark>Spring</mark>, <mark>Angular</mark> et <mark>Vue</mark>.
+  Mes domaines d'expertise principaux sont <mark>Spring</mark>, l'écosystème <mark>Java EE</mark>, <mark>Angular</mark> et <mark>Vue</mark>.
 
-  Je me retrouve beaucoup dans la notion de ["métarchitecte"](https://www.youtube.com/watch?v=sEK68arLUq0), je remets constamment mes connaissances en question ("Tu sais tout quand tu sais que tu ne sais rien" disait Socrate) et je suis en veille quotidienne en essayant de m'intéresser aux nouveautés et de tester certaines frameworks.
+  Je me retrouve beaucoup dans la notion de ["métarchitecte"](https://www.youtube.com/watch?v=sEK68arLUq0), je remets constamment mes connaissances en question ("Tu sais tout quand tu sais que tu ne sais rien" disait Socrate) et je suis en veille quasi quotidienne en essayant de m'intéresser aux nouveautés et tester certains frameworks. Je suis en recherche constante d'un équilibre, d'un <em>[ikigai](https://fr.wikipedia.org/wiki/Ikigai)</em>. C'est important pour moi de participer à des projets ayant une utilité pour l'intérêt général.
   
-  Je cherche à développer mes compétences en particulier dans les <mark>micro-services</mark>, les <mark>containers</mark>, la <mark>programmation réactive</mark> et l'utilisation de certains <mark>clouds providers</mark>.
+  Je cherche à développer mes compétences en particulier dans les <mark>micro-services</mark>, les <mark>containers</mark>, la <mark>programmation réactive</mark> et l'utilisation de certains <mark>clouds providers</mark>. L'un de mes objectifs est également de contribuer plus à des projets open-source.
 
 # Projects Section
 projects_title: Projets
@@ -49,11 +49,11 @@ more_content: | # this will include new lines to allow paragraphs
   Je pratique plusieurs langues à différentes fréquences :
    - <mark>Français</mark> - Langue maternelle
    - <mark>Anglais</mark> - Niveau intermédiaire avancé : 840 points au TOEIC en mars 2011
-   - <mark>Japonais</mark> - Niveau intermédiaire avancé : école de l'école japonaise du Nord Pas-de-Calais en 2008/2009 et 2010/2011, Kanji Kentei niveau 5 (漢字検定5級) en janvier 2010 et Japanese Language Proficiency Test N2 (日本語能力試験2級) en février 2014
+   - <mark>Japonais</mark> - Niveau intermédiaire avancé : école japonaise du Nord Pas-de-Calais en 2008/2009 et 2010/2011, Kanji Kentei niveau 5 (漢字検定5級) en janvier 2010 et Japanese Language Proficiency Test N2 (日本語能力試験2級) en février 2014
    - <mark>Espagnol</mark> - Niveau scolaire lycée (LV2), révisions régulières
 
   Quand on me demande ce que je fais dans la vie j'ai souvent tendance à parler de mes centres d'intérêt et passions :
-   - Le <strong>Japon et la langue japonaise</strong> : voyages en octobre 2010, mai 2013 et janvier 2017 et [blog sur la culture nippone](http://www.francois-delbrayelle.fr/blog-japon/) où j'y expose mes récits de voyages
+   - Le <strong>Japon et la langue japonaise</strong> : voyages en octobre 2010, mai 2013 et janvier 2017 et [blog sur la culture nippone](http://www.francois-delbrayelle.fr/blog-japon/) où j'expose mes récits de voyages
    - La découverte et le perfectionnement de langues étrangères : notions en allemand, arabe et langue des signes français (LSF)
    - La pratique de plusieurs <strong>sports</strong> régulièrement (natation, aikido, randonnée, cyclisme)
    - La <strong>lecture</strong> de romans de science-fiction, steampunk et fantasy mais aussi de classiques, livres d'histoire et essais divers

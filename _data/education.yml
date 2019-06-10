@@ -12,12 +12,18 @@
       - En 2010 (2 jours par semaine de mars à juin puis 13 semaines en fin d'année) chez Odimat (Liévin), agence de référencement web : développement de nouveaux modules (référencement web, gestion de la relation client, finances, facturation, optimisation des pages web, positionnement...) en <mark>Python</mark> pour OpenERP devenu [Odoo](https://www.odoo.com/fr_FR/), utilisation de <mark>PostgreSQL</mark> et apprentissage des notions principales liées au référencement naturel <mark>SEO</mark> ; pratique de l'<mark>extreme programming</mark>.
       - En 2011 (6 mois en fin d'études) chez [Norsys](https://www.norsys.fr/) (Ennevelin) : tierce maintenance applicative (évolutions et corrections d'anomalies) pour l'application frontoffice de gestion des commandes courrier et téléphone du groupe [3 Suisses](https://www.3suisses.fr/). Développement et tests en Java EE (<mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark>) et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge) ; développement d'une application <mark>Android</mark> de communication interne pour l'entreprise.
 
+    Réalisation en groupe d'un outil de gestion d'emploi du temps en <mark>Ruby on Rails</mark> : <a href="https://github.com/fdelbrayelle/timetableasy" target="_blank">Timetableasy</a> (sources).
+
 - layout: left
   name: Université d'Artois
   dates: 2005 - 2008
   qualification: DUT informatique
   description: | # this will include new lines to allow paragraphs
     <strong>Stage de 10 semaines</strong> en 2007 chez [Idea7](https://www.idea7.fr) (Mérignies) : développement Java EE (<mark>API Servlet</mark>, <mark>JSP</mark>, <mark>JQuery</mark>) sur l'application Canto Cumulus de gestion documentaire d'assets digitaux.
+    
+    Réalisation d'un <a href="https://github.com/fdelbrayelle/echecs" target="_blank">jeu d'échecs</a> (sources) en Java avec <mark>Swing</mark> et les sockets pour le projet libre de deuxième année.
+    
+    Réalisation d'un <a href="https://github.com/fdelbrayelle/minishell" target="_blank">interpréteur en lignes de commande</a> (sources) en <mark>C</mark> dans le cadre du cours de programmation système.
     
     Président du BDE du département informatique de l'IUT de Lens de 2006 à 2007.
 

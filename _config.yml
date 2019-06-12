@@ -59,7 +59,7 @@ more_content: | # this will include new lines to allow paragraphs
    - La <strong>lecture</strong> de romans de science-fiction, steampunk et fantasy mais aussi de classiques, livres d'histoire et essais divers
    - La <strong>botanique</strong> que j'ai notamment découverte via le [MOOC Botanique](https://mooc.tela-botanica.org/course/view.php?id=3) de Tela Botanica en 2018
 
-  J'ai suivi également la <strong>formation SST</strong> (sauveteur-secouriste du travail) le 22 octobre 2018 et la formation incendie.
+  J'ai suivi également la <strong>formation SST</strong> (sauveteur-secouriste du travail) le 22 octobre 2018 et la formation incendie.<br /><br />
 
 # Footer
 footer_show_references: true

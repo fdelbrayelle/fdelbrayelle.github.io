@@ -35,7 +35,7 @@
     <p>Production d'un document avec propositions dans le cadre d'un audit d'amélioration continue : mise en place de pipelines, prévention des fuites mémoire, migration vers Java 11, mise en place de tests de montée en charge, etc.</p>
     <p style="font-weight: bold;">Application web pour le RGPD</p>
     <p>Leader technique sur l'application de mise en conformité avec le règlement général sur la protection des données (entrée en vigueur le 25 mai 2018, délais courts). Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>agile</mark> (sprint planning, daily meetings, scrum pokers).</p>
-    <p>Technologies : <mark>JHipster</mark>, <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Spring Data JPA</mark>, <mark>Spring Batch</mark>, <mark>Netflix Zuul</mark>, <mark>Oracle</mark>, <mark>Liquibase</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Gestion des sources sous <mark>git</mark>.</p>
+    <p>Technologies : <mark>JHipster</mark>, <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Spring Data JPA</mark>, <mark>Spring Batch</mark>, <mark>Netflix Zuul</mark>, <mark>Oracle</mark>, <mark>Liquibase</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Conception <mark>UML</mark> et <mark>Merise</mark>. Gestion des sources sous <mark>git</mark>.</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>Pacifica - Février 2018 à Mars 2018 (2 mois)</h4>
@@ -82,8 +82,8 @@
     <p>Leader technique dans une équipe de 10 personnes. Périmètre de plusieurs applications Java EE pour les filiales et caisses régionales web.</p>
     <p>Rédaction des spécifications techniques détaillées, chiffrages/abaques/devis, analyses causales, tests unitaires/intégration, développement au sein d'une équipe de 8 à 10 personnes sur un lot et évolutions, intégration, accueil des nouveaux arrivants, formation et passage de connaissances, responsable d'application, backup, analyse technique, participation aux ateliers et réunions avec le client, multiples démos auprès de nombreux interlocuteurs, reprise d'un projet en TMA, assistance MOE/MOA pour la rédaction des spécifications fonctionnelles détaillées, rétrodocumentation, suivi de la recette MOA et métier avec correction des anomalies. Modification de rapports BIRT.</p>
     <p style="font-weight: bold; margin-top: 25px;">Autres projets</p>
-    <p>Divers actions sur plusieurs projets Crédit Agricole SA : réalisation d'évolutions, chiffrages, études d'impacts techniques, analyses et corrections suite à audits de sécurité et de qualité, corrections d'anomalies, audit de sécurité, qualité Sonar, conception modèle objet et base de données.</p>
-    <p>Technologies : <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark> et <mark>JDBC Template</mark>. Serveurs d'applications : <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Bases de données <mark>DB2</mark>. Files MQ, PIC (Jenkins/Sonar).
+    <p>Divers actions sur plusieurs projets Crédit Agricole SA : réalisation d'évolutions, chiffrages, études d'impacts techniques, analyses et corrections suite à audits de sécurité et de qualité, corrections d'anomalies, audit de sécurité, qualité, conception modèle objet et base de données.</p>
+    <p>Technologies : <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark> et <mark>JDBC Template</mark>. Serveurs d'applications : <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Bases de données <mark>DB2</mark>. Files <mark>MQ</mark>. PIC : <mark>Jenkins</mark> et <mark>Sonar</mark>. Conception <mark>UML</mark>.</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>BNP Paribas - Avril 2015 à Décembre 2015 (9 mois)</h4>
@@ -102,7 +102,7 @@
     <p>Intervention sur la TMA Canaux sur le projet de serveur vocal pour correction d’anomalies et évolutions.</p>
     <p>Formation reçue : IBM WebSphere Application Server v8.5.5 - Administration (5 jours à temps plein - IB Formation).</p>
     <p>Participation à une présentation de la BNP Paribas sur la dette technique à Montreuil (93).</p>
-    <p>Technologies : <mark>Struts</mark>, <mark>Tiles</mark>, <mark>WebSphere</mark>, <mark>DB2</mark>, <mark>bash</mark>.
+    <p>Technologies : <mark>Struts</mark>, <mark>Tiles</mark>, <mark>WebSphere</mark>, <mark>DB2</mark>, <mark>bash</mark>. Conception <mark>UML</mark>.</p>
     <hr style="margin: 25px 0; clear: left;" />
 
 - layout: left
@@ -121,17 +121,17 @@
     <p>Développement de scripts de revue de code notamment pour détecter les mauvaises pratiques de développement.</p>
     <p>Nouveau projet pour gérer une nouvelle notion dans l'arborescence des produits (mise en place du framework de tests unitaires, gestion <mark>agile</mark>).</p>
     <p>Intégration au pôle support en tant que développeur référent (analyse des impacts, proposition de solutions techniques pour résoudre plusieurs anomalies, réalisation de batchs et fiabilisation de pans applicatifs entiers).</p>
-    <p>Technologies : <mark>Struts</mark>, <mark>Salto</mark>, <mark>Tiles</mark>, <mark>GWT</mark>, <mark>H2</mark>, <mark>bash</mark> et <mark>Groovy</mark>. Gestion des sources sous <mark>git</mark>.
+    <p>Technologies : <mark>Struts</mark>, <mark>Salto</mark>, <mark>Tiles</mark>, <mark>GWT</mark>, <mark>H2</mark>, <mark>bash</mark> et <mark>Groovy</mark>. Gestion des sources sous <mark>git</mark>.</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>CNSA - Novembre 2012 à Août 2013 (9 mois)</h4>
     <img src="images/cnsa_logo.png" style="float: left; width: 30%;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin)</p>
     <p style="font-weight: bold;">Application web <a href="http://hapi.cnsa.fr" target="_blank">HAPI</a> à destination des agences régionales de santé d'harmonisation du processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux</p>
-    <p>Tierce maintenance applicative (évolutions et corrections d'anomalies), études d'impacts techniques, intégration/livraison de nouveaux développements et exploitation de divers environnements sur GNU/Linux (recette, qualification).</p>
+    <p>Tierce maintenance applicative (évolutions et corrections d'anomalies), études d'impacts techniques, intégration/livraison de nouveaux développements et exploitation de divers environnements (recette, qualification).</p>
     <p>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement).</p>
     <br />
-    <p>Technologies : <mark>Spring MVC</mark>, <mark>Hibernate</mark> et <mark>SQL Server</mark>. Gestion des sources sous <mark>svn</mark>.</p>
+    <p>Technologies : <mark>Spring MVC</mark>, <mark>Hibernate</mark>, <mark>GNU/Linux</mark> et <mark>SQL Server</mark>. Conception <mark>UML</mark>. Gestion des sources sous <mark>svn</mark>.</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>3 Suisses - Mai 2012 à Novembre 2012 (6 mois)</h4>
@@ -141,7 +141,7 @@
     <p>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation).</p>
     <p>Études, développement et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a href="https://3suisses.fr" target="_blank">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
     <p>Intégration et participation au dispositif de gestion <mark>agile</mark> du projet. TDD et BDD.</p>
-    <p>Technologies : <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Gestion des sources sous <mark>git</mark>.</p>
+    <p>Technologies : <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Conception <mark>UML</mark>. Gestion des sources sous <mark>git</mark>.</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>3 Suisses - Avril 2011 à Mai 2012 (13 mois)</h4>

@@ -7,7 +7,7 @@
   #  À venir
   description: | # this will include new lines to allow paragraphs
     <h4>Membre actif de la communauté des experts techniques</h4>
-    <img src="images/gfi_logo.png" style="float: left; margin: 25px;" />
+    <img alt="Logo de Gfi Informatique" src="images/gfi_logo.png" style="float: left; margin: 25px;" />
     <p style="margin-top: 25px;"><strong>Auditeur pour entretiens techniques</strong> de profils de différents niveaux (stagiaires, alternants, débutants, confirmés) en lien avec le service RH.</p>
     <p><strong>Formateur Java EE, Spring, Angular et AngularJS</strong> depuis avril 2015 notamment lors des sessions Welcome de deux semaines (plusieurs fois par an).</p>
     <p><strong>Interventions techniques ponctuelles sur divers projets :</strong>
@@ -19,12 +19,12 @@
         <li>Consultation sur des projets front <mark>Angular</mark></li>
       </ul>
     </p>
-    <p><strong>Organisation de midis techniques</strong> (<a href="http://github.com/fdelbrayelle/midi-tech-java-news" target="_blank">l'après Java 8</a>, <a href="https://github.com/fdelbrayelle/midi-tech-jhipster" target="_blank">JHipster</a>, <a href="https://github.com/fdelbrayelle/midi-tech-vuejs" target="_blank">Vue.js</a>) et de challenges techniques en interne.</p>
-    <p><strong>Participation à des conférences :</strong> <a href="http://devfest.gdglille.org" target="_blank">Devfest Lille</a> 2017 et 2019 - <a href="https://jhipster-conf.github.io" target="_blank">JHipster Conf</a> 2 - <a href="https://www.forum-fic.com" target="_blank">Forum International de la Cybersécurité</a> à Lille Grand Palais (2 jours en janvier 2018).</p>
+    <p><strong>Organisation de midis techniques</strong> (<a title="Midi technique sur l'après Java 8" href="http://github.com/fdelbrayelle/midi-tech-java-news" target="_blank">l'après Java 8</a>, <a title="Midi technique sur JHipster" href="https://github.com/fdelbrayelle/midi-tech-jhipster" target="_blank">JHipster</a>, <a title="Midi technique sur Vue.js" href="https://github.com/fdelbrayelle/midi-tech-vuejs" target="_blank">Vue.js</a>) et de challenges techniques en interne.</p>
+    <p><strong>Participation à des conférences :</strong> <a title="DevFest Lille" href="http://devfest.gdglille.org" target="_blank">DevFest Lille</a> 2017 et 2019 - <a title="JHipster Conf" href="https://jhipster-conf.github.io" target="_blank">JHipster Conf</a> 2 - <a title="Forum International de la Cybersécurité" href="https://www.forum-fic.com" target="_blank">Forum International de la Cybersécurité</a> à Lille Grand Palais (2 jours en janvier 2018).</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>BNP Leasing Solutions - Depuis Avril 2018 (15 mois)</h4>
-    <img src="images/bpls_logo.png" style="float: left; width: 300px; margin: 25px;" />
+    <img alt="Logo de BNP Leasing Solutions" src="images/bpls_logo.png" style="float: left; width: 300px; margin: 25px;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Application web de plate-forme d'acquisitions fournisseurs (PAF)</p>
     <p>Leader technique sur la version 2 de la plate-forme d'acquisitions fournisseurs (application monolithique entièrement nouvelle + plusieurs applications 100 % back pour l'appel aux fournisseurs via différents protocoles). Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>agile</mark> (sprints de 3 semaines).</p>
@@ -39,7 +39,7 @@
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>Pacifica - Février 2018 à Mars 2018 (2 mois)</h4>
-    <img src="images/pacifica_logo.png" style="float: left; margin: 25px; width: 25%;" />
+    <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: left; margin: 25px; width: 25%;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
     <p style="font-weight: bold;">Application web pour les assurances</p>
     <p>Projet quasiment 100 % frontend. Développement et tests unitaires front sur de nouveaux écrans du projet existant NewSesame sur les cotisations financières (incidents de paiement).</p>
@@ -48,16 +48,16 @@
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>Lantik BFA - Décembre 2017 à Janvier 2018 (2 mois)</h4>
-    <img src="images/lantik_bfa_logo.jpg" style="float: left; width: 300px;" />
+    <img alt="Logo de Lantik BFA" src="images/lantik_bfa_logo.jpg" style="float: left; width: 300px;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Application web intranet du secteur public espagnol</p>
-    <p>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement sur plusieurs projets pour la <a href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol).</p>
+    <p>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement sur plusieurs projets pour la <a title="Députation forale de Biscaye" href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol).</p>
     <p>Mise en place de l'environnement du client et des différents projets au centre de services de Gfi Informatique Lille. Suivi, encadrement, formation et affectation des tâches techniques aux développeurs juniors. Communication en anglais et espagnol au quotidien avec le client et l'équipe de Bilbao.</p>
     <p>Technologies : <mark>JSF 2.1</mark>, <mark>EJB</mark> et <mark>JBoss</mark>.</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>Société générale - Octobre 2017 à Novembre 2017 (2 mois)</h4>
-    <img src="images/sg_logo.png" style="float: left; width: 250px; margin: 12px;" />
+    <img alt="Logo de la Société générale" src="images/sg_logo.png" style="float: left; width: 250px; margin: 12px;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Services Métier Distants (API)</p>
     <p>Conception (Swagger), développement et tests sur le projet de "servitization". Projet 100 % backend de REST API pour fédérer les appelants et appelés sur le SI Société générale.</p>
@@ -67,7 +67,7 @@
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>Pacifica - Juillet 2017 à Septembre 2017 (3 mois)</h4>
-    <img src="images/pacifica_logo.png" style="float: left; margin: 25px; width: 25%;" />
+    <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: left; margin: 25px; width: 25%;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
     <p style="font-weight: bold;">Application web pour les assurances 2 roues</p>
     <p>Projet quasiment 100 % frontend. Développement et tests unitaires front sur la refonte d'une partie du projet NewSesame pour les assurances deux roues (A2), partie formules et options, liens entre les étapes et appels au back (utilisation de mocks en JSON).</p>
@@ -76,7 +76,7 @@
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>Crédit agricole - Janvier 2016 à Juin 2017 (18 mois)</h4>
-    <img src="images/credit_agricole_logo.png" style="float: left;" />
+    <img alt="Logo du Crédit agricole" src="images/credit_agricole_logo.png" style="float: left;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Application web de gestion des risques opérationnels</p>
     <p>Leader technique dans une équipe de 10 personnes. Périmètre de plusieurs applications Java EE pour les filiales et caisses régionales web.</p>
@@ -87,10 +87,10 @@
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>BNP Paribas - Avril 2015 à Décembre 2015 (9 mois)</h4>
-    <img src="images/bnp_logo.png" style="float: left; margin: 25px;" />
+    <img alt="Logo de BNP Paribas" src="images/bnp_logo.png" style="float: left; margin: 25px;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Applications web pour les cartes "corporate" CCO</p>
-    <p>Correction d’anomalies, suivi des demandes et incidents et réalisation d’évolutions sur la TMA CCO pour le site des cartes entreprise « corporate » (<a href="http://cartesentreprise.bnpparibas.com" target="_blank">internet</a> et intranet).</p>
+    <p>Correction d’anomalies, suivi des demandes et incidents et réalisation d’évolutions sur la TMA CCO pour le site des cartes entreprise « corporate » (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank">internet</a> et intranet).</p>
     <p>Réécriture d’un script de contrôle des données lancé quotidiennement le matin.</p>
     <p style="font-weight: bold;">Applications web RSDD, Souscription et RSDD CAFF</p>
     <p>Rédaction de spécifications techniques détaillées via RSM pour le centre de services offshore et réalisation d’évolutions.</p>
@@ -114,7 +114,7 @@
   #  À venir
   description: | # this will include new lines to allow paragraphs
     <h4>Décathlon - Septembre 2013 à Avril 2015 (19 mois)</h4>
-    <img src="images/decathlon_logo.png" style="float: left; margin: 25px;" />
+    <img alt="Logo de Décathlon" src="images/decathlon_logo.png" style="float: left; margin: 25px;" />
     <p style="font-style: italic; margin-top: 25px;">Régie (Villeneuve d'Ascq)</p>
     <p style="font-weight: bold;">Application web de sélection de produits magasin</p>
     <p>Stabilisation de l'application. Maintenance et évolution technique du framework de gestion des transactions, migration et création de services sur cet existant.</p>
@@ -125,9 +125,9 @@
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>CNSA - Novembre 2012 à Août 2013 (9 mois)</h4>
-    <img src="images/cnsa_logo.png" style="float: left; width: 30%;" />
+    <img alt="Logo de la CNSA" src="images/cnsa_logo.png" style="float: left; width: 30%;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin)</p>
-    <p style="font-weight: bold;">Application web <a href="http://hapi.cnsa.fr" target="_blank">HAPI</a> à destination des agences régionales de santé d'harmonisation du processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux</p>
+    <p style="font-weight: bold;">Application web <a title="HArmonisation et Partage d'Information" href="http://hapi.cnsa.fr" target="_blank">HAPI</a> à destination des agences régionales de santé d'harmonisation du processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux</p>
     <p>Tierce maintenance applicative (évolutions et corrections d'anomalies), études d'impacts techniques, intégration/livraison de nouveaux développements et exploitation de divers environnements (recette, qualification).</p>
     <p>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement).</p>
     <br />
@@ -135,17 +135,17 @@
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>3 Suisses - Mai 2012 à Novembre 2012 (6 mois)</h4>
-    <img src="images/3_suisses_logo.png" style="float: left" />
+    <img alt="Logo des 3 Suisses" src="images/3_suisses_logo.png" style="float: left" />
     <p style="font-style: italic; margin-top: 25px;">Régie (Croix)</p>
     <p style="font-weight: bold;">Application web e-commerce B2C</p>
     <p>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation).</p>
-    <p>Études, développement et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a href="https://3suisses.fr" target="_blank">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
+    <p>Études, développement et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a title="3 SUISSES" href="https://3suisses.fr" target="_blank">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
     <p>Intégration et participation au dispositif de gestion <mark>agile</mark> du projet. TDD et BDD.</p>
     <p>Technologies : <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Conception <mark>UML</mark>. Gestion des sources sous <mark>git</mark>.</p>
 
     <hr style="margin: 25px 0; clear: left;" />
     <h4>3 Suisses - Avril 2011 à Mai 2012 (13 mois)</h4>
-    <img src="images/3_suisses_logo.png" style="float: left" />
+    <img alt="Logo des 3 Suisses" src="images/3_suisses_logo.png" style="float: left" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin), dont 6 mois de stage de fin d'études</p>
     <p style="font-weight: bold">Application web de gestion des commandes courrier et téléphone</p>
     <p>Tierce maintenance applicative (évolutions et corrections d'anomalies). Études, développement et tests avec utilisation de Java EE.</p>

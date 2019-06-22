@@ -73,3 +73,9 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:
+    id: UA-17958744-1
+    anonymizeIp: false

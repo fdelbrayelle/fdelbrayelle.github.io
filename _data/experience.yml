@@ -1,4 +1,37 @@
 - layout: left
+  company: Ippon Technologies
+  link: www.ippon.tech
+  job_title: Développeur full-stack
+  dates: Depuis Octobre 2019
+  # quote: >
+  #  À venir
+  description: | # this will include new lines to allow paragraphs
+    <img alt="Logo de Ippon Technologies" src="images/ippon_logo.jpg" style="float: left; width: 250px; margin: 25px;" />
+    <p style="margin-top: 150px;">
+      <strong>Participation à des conférences :</strong>
+      <ul>
+        <li><a title="Agile Tour Lille" href="http://2019.agiletour-lille.org/programme" target="_blank">Agile Tour Lille</a> 2019</li>
+      </ul>
+    </p>
+    <p style="margin-top: 25px;">
+      <strong>Membre de la practice JHipster :</strong>
+      <ul>
+        <li>Contributeur au projet open-source <a title="Java Hipster" href="https://www.jhipster.tech" target="_blank">JHipster</a></li>
+        <li>Participation au programme <a href="Black Belt" href="https://fr.ippon.tech/black-belt/" target="_blank">Black Belt"</a> (multiples objectifs en développement, architecture...)</li>
+      </ul>
+    </p>
+
+    <hr style="margin: 25px 0; clear: left;" />
+    <h4>Leroy Merlin - Depuis Octobre 2019</h4>
+    <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: left; width: 250px; margin: 25px;" />
+    <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes)</p>
+    <p style="font-weight: bold;">Application web d'installation (Instala)</p>
+    <p>Leader technique back sur une partie de l'application micro-services d'installation des articles (forfaits, projets complexes, etc) sur la plate-forme de services du hub pose. Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>kanban</mark> ("no estimates"), <mark>squads</mark>, <mark>3 amigos</mark>.</p>
+    <p>Participation à la guilde de développeurs de Leroy Merlin.</p>
+    <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Spring Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>
+    <hr style="margin: 25px 0; clear: left;" />
+
+- layout: left
   company: Gfi Informatique
   link: www.gfi.world
   job_title: Analyste technique

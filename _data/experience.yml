@@ -26,7 +26,8 @@
       <strong>Capitalisation et évènements :</strong>
       <ul>
         <li>Lancement d'un comité de relecture des CFPs pour les gros évènements (IppDéj et IppApéro sur le sujet pour s'organiser au niveau national)</li>
-        <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a></li>
+        <li>Présentation de JHipster en midi technique à l'école Epitech Lille (27/11/2019)</li>
+        <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a> (24/02/2020)</li>
       </ul>
     </p>
 
@@ -42,7 +43,7 @@
     <p style="font-weight: bold;">Participation à la guilde de développeurs de Leroy Merlin :</p>
     <p>
       <ul>
-        <li>Retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot</li>
+        <li>Retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot (21/02/2019)</li>
       </ul>
     </p>
     <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Spring Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>

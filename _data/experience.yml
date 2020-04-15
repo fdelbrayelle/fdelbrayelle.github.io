@@ -10,14 +10,23 @@
     <p style="margin-top: 150px;">
       <strong>Participation à des conférences :</strong>
       <ul>
-        <li><a title="Agile Tour Lille" href="http://2019.agiletour-lille.org/programme" target="_blank">Agile Tour Lille</a> 2019</li>
+        <li><a title="Agile Tour Lille" href="http://2019.agiletour-lille.org/programme" target="_blank" rel="noreferrer noopener">Agile Tour Lille</a> 2019</li>
+        <li><a title="Microsoft Ignite The Tour" href="https://paris.myignitetour.techcommunity.microsoft.com/" target="_blank" rel="noreferrer noopener">Microsoft Ignite the Tour</a> 2019</li>
       </ul>
     </p>
     <p style="margin-top: 25px;">
       <strong>Membre de la practice JHipster :</strong>
       <ul>
-        <li>Contributeur au projet open-source <a title="Java Hipster" href="https://www.jhipster.tech" target="_blank">JHipster</a></li>
-        <li>Participation au programme <a href="Black Belt" href="https://fr.ippon.tech/black-belt/" target="_blank">Black Belt"</a> (multiples objectifs en développement, architecture...)</li>
+        <li>Contributeur au projet open-source <a title="Java Hipster" href="https://www.jhipster.tech" target="_blank" rel="noreferrer noopener">JHipster</a></li>
+        <li>Participation au programme <a title="Black Belt" href="https://fr.ippon.tech/black-belt/" target="_blank" rel="noreferrer noopener">Black Belt"</a> (multiples objectifs en développement, architecture...)</li>
+        <li>Leader du <a title="Module de génération Kafka pour JHipster" href="https://github.com/fdelbrayelle/generator-jhipster-kafka" target="_blank" rel="noreferrer noopener">module de génération Kafka</a> (consumers/producers...)</li>
+      </ul>
+    </p>
+    <p style="margin-top: 25px;">
+      <strong>Capitalisation et évènements :</strong>
+      <ul>
+        <li>Lancement d'un comité de relecture des CFPs pour les gros évènements (IppDéj et IppApéro sur le sujet pour s'organiser au niveau national)</li>
+        <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a></li>
       </ul>
     </p>
 
@@ -26,9 +35,17 @@
     <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: left; width: 250px; margin: 25px;" />
     <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes)</p>
     <p style="font-weight: bold;">Application web d'installation (Instala)</p>
-    <p>Leader technique back sur une partie de l'application micro-services d'installation des articles (forfaits, projets complexes, etc) sur la plate-forme de services du hub pose. Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>kanban</mark> ("no estimates"), <mark>squads</mark>, <mark>3 amigos</mark>.</p>
-    <p>Participation à la guilde de développeurs de Leroy Merlin.</p>
-    <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Spring Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>
+    <p>Leader technique back sur une partie de l'application micro-services d'installation des produits sur la plate-forme de services du hub pose. Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>kanban</mark> ("no estimates"), <mark>squads</mark>, <mark>3 amigos</mark>.</p>
+    <p>Convergence des applications d'installation françaises (LMFR) et portugaise (LMPT). Co-construction de l'architecture pour matcher des plateformes partenaires d'artisans pour les produits d'une commande client. Mise en relation de ces plateformes avec l'application principale via des adapters.</p>
+    <p>Participation à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts <mark>Helm</mark>, utilisation de <mark>Terraform</mark>...</p>
+    <p>Travail sur la dette technique notamment lors d'une semaine dédiée en full remote (Discord, VS Code Live Share, Miro...) par streams alloués à des sujets spécifiques.</p>
+    <p style="font-weight: bold;">Participation à la guilde de développeurs de Leroy Merlin :</p>
+    <p>
+      <ul>
+        <li>Retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot</li>
+      </ul>
+    </p>
+    <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Spring Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>
     <hr style="margin: 25px 0; clear: left;" />
 
 - layout: left
@@ -52,12 +69,12 @@
         <li>Consultation sur des projets front <mark>Angular</mark></li>
       </ul>
     </p>
-    <p><strong>Organisation de midis techniques</strong> (<a title="Midi technique sur l'après Java 8" href="http://github.com/fdelbrayelle/midi-tech-java-news" target="_blank">l'après Java 8</a>, <a title="Midi technique sur JHipster" href="https://github.com/fdelbrayelle/midi-tech-jhipster" target="_blank">JHipster</a>, <a title="Midi technique sur Vue.js" href="https://github.com/fdelbrayelle/midi-tech-vuejs" target="_blank">Vue.js</a>, <a title="Midi technique sur Kubernetes" href="https://github.com/fdelbrayelle/midi-tech-k8s" target="_blank">Kubernetes</a>, <a title="Midi technique sur Micronaut et Quarkus" href="https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus" target="_blank">Micronaut et Quarkus</a>) et de challenges techniques en interne.</p>
+    <p><strong>Organisation de midis techniques</strong> (<a title="Midi technique sur l'après Java 8" href="http://github.com/fdelbrayelle/midi-tech-java-news" target="_blank" rel="noreferrer noopener">l'après Java 8</a>, <a title="Midi technique sur JHipster" href="https://github.com/fdelbrayelle/midi-tech-jhipster" target="_blank" rel="noreferrer noopener">JHipster</a>, <a title="Midi technique sur Vue.js" href="https://github.com/fdelbrayelle/midi-tech-vuejs" target="_blank" rel="noreferrer noopener">Vue.js</a>, <a title="Midi technique sur Kubernetes" href="https://github.com/fdelbrayelle/midi-tech-k8s" target="_blank" rel="noreferrer noopener">Kubernetes</a>, <a title="Midi technique sur Micronaut et Quarkus" href="https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus" target="_blank" rel="noreferrer noopener">Micronaut et Quarkus</a>) et de challenges techniques en interne.</p>
     <p><strong>Participation à des conférences :</strong>
       <ul>
-        <li><a title="DevFest Lille" href="http://devfest.gdglille.org" target="_blank">DevFest Lille</a> 2017 et 2019</li>
-        <li><a title="JHipster Conf" href="https://jhipster-conf.github.io" target="_blank">JHipster Conf</a> 2</li>
-        <li><a title="Forum International de la Cybersécurité" href="https://www.forum-fic.com" target="_blank">Forum International de la Cybersécurité</a> à Lille Grand Palais (2 jours en janvier 2018).</li>
+        <li><a title="DevFest Lille" href="http://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2017 et 2019</li>
+        <li><a title="JHipster Conf" href="https://jhipster-conf.github.io" target="_blank" rel="noreferrer noopener">JHipster Conf</a> 2</li>
+        <li><a title="Forum International de la Cybersécurité" href="https://www.forum-fic.com" target="_blank" rel="noreferrer noopener">Forum International de la Cybersécurité</a> à Lille Grand Palais (2 jours en janvier 2018).</li>
         <li>Atelier On-Board Google Cloud Platform 2019 organisé par Sfeir</li>
       </ul>
     </p>
@@ -91,7 +108,7 @@
     <img alt="Logo de Lantik BFA" src="images/lantik_bfa_logo.jpg" style="float: left; width: 300px;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Application web intranet du secteur public espagnol</p>
-    <p>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement sur plusieurs projets pour la <a title="Députation forale de Biscaye" href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol).</p>
+    <p>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement sur plusieurs projets pour la <a title="Députation forale de Biscaye" href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank" rel="noreferrer noopener">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol).</p>
     <p>Mise en place de l'environnement du client et des différents projets au centre de services de Gfi Informatique Lille. Suivi, encadrement, formation et affectation des tâches techniques aux développeurs juniors. Communication en anglais et espagnol au quotidien avec le client et l'équipe de Bilbao.</p>
     <p>Technologies : <mark>JSF 2.1</mark>, <mark>EJB</mark> et <mark>JBoss</mark>.</p>
 
@@ -130,7 +147,7 @@
     <img alt="Logo de BNP Paribas" src="images/bnp_logo.png" style="float: left; margin: 25px;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Applications web pour les cartes "corporate" CCO</p>
-    <p>Correction d’anomalies, suivi des demandes et incidents et réalisation d’évolutions sur la TMA CCO pour le site des cartes entreprise « corporate » (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank">internet</a> et intranet).</p>
+    <p>Correction d’anomalies, suivi des demandes et incidents et réalisation d’évolutions sur la TMA CCO pour le site des cartes entreprise « corporate » (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank" rel="noreferrer noopener">internet</a> et intranet).</p>
     <p>Réécriture d’un script de contrôle des données lancé quotidiennement le matin.</p>
     <p style="font-weight: bold;">Applications web RSDD, Souscription et RSDD CAFF</p>
     <p>Rédaction de spécifications techniques détaillées via RSM pour le centre de services offshore et réalisation d’évolutions.</p>
@@ -167,7 +184,7 @@
     <h4>CNSA - Novembre 2012 à Août 2013 (9 mois)</h4>
     <img alt="Logo de la CNSA" src="images/cnsa_logo.png" style="float: left; width: 30%;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin)</p>
-    <p style="font-weight: bold;">Application web <a title="HArmonisation et Partage d'Information" href="http://hapi.cnsa.fr" target="_blank">HAPI</a> à destination des agences régionales de santé d'harmonisation du processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux</p>
+    <p style="font-weight: bold;">Application web <a title="HArmonisation et Partage d'Information" href="http://hapi.cnsa.fr" target="_blank" rel="noreferrer noopener">HAPI</a> à destination des agences régionales de santé d'harmonisation du processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux</p>
     <p>Tierce maintenance applicative (évolutions et corrections d'anomalies), études d'impacts techniques, intégration/livraison de nouveaux développements et exploitation de divers environnements (recette, qualification).</p>
     <p>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement).</p>
     <br />
@@ -179,7 +196,7 @@
     <p style="font-style: italic; margin-top: 25px;">Régie (Croix)</p>
     <p style="font-weight: bold;">Application web e-commerce B2C</p>
     <p>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation).</p>
-    <p>Études, développement et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a title="3 SUISSES" href="https://3suisses.fr" target="_blank">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
+    <p>Études, développement et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a title="3 SUISSES" href="https://3suisses.fr" target="_blank" rel="noreferrer noopener">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
     <p>Intégration et participation au dispositif de gestion <mark>agile</mark> du projet. TDD et BDD.</p>
     <p>Technologies : <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Conception <mark>UML</mark>. Gestion des sources sous <mark>git</mark>.</p>
 

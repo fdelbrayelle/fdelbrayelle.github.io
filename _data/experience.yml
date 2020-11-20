@@ -27,6 +27,7 @@
     <p style="margin-top: 25px;">
       <strong>Participation à des conférences :</strong>
       <ul>
+        <li><a title="Cloud Nord 2020" href="https://cloudnord.fr/agenda" target="_blank" rel="noreferrer noopener">Cloud Nord</a> 2020</li>
         <li><a title="Agile Tour Lille" href="http://2019.agiletour-lille.org/programme" target="_blank" rel="noreferrer noopener">Agile Tour Lille</a> 2019</li>
         <li><a title="Microsoft Ignite The Tour" href="https://paris.myignitetour.techcommunity.microsoft.com/" target="_blank" rel="noreferrer noopener">Microsoft Ignite the Tour</a> 2019</li>
       </ul>
@@ -38,8 +39,9 @@
     <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes)</p>
     <p style="font-weight: bold;">Application web d'installation (Instala)</p>
     <p>Leader technique back sur une partie de l'application micro-services d'installation des produits sur la plate-forme de services du hub pose. Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>kanban</mark> ("no estimates"), <mark>squads</mark>, <mark>3 amigos</mark>.</p>
-    <p>Convergence des applications d'installation françaises (LMFR) et portugaise (LMPT). Co-construction de l'architecture pour matcher des plateformes partenaires d'artisans pour les produits d'une commande client. Mise en relation de ces plateformes avec l'application principale via des adapters.</p>
-    <p>Participation à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts <mark>Helm</mark>, utilisation de <mark>Terraform</mark>...</p>
+    <p>Convergence des applications d'installation françaises (LMFR) et portugaise (LMPT). Co-construction de l'architecture pour matcher des plateformes partenaires d'artisans pour les produits d'une commande client. Mise en relation de ces plateformes avec l'application principale via des adapters. Mise en place du mode direct artisans.</p>
+    <p>Conception de composants front avec React et utilisation de Storybook.</p>
+    <p>Participation à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts Helm, utilisation de Terraform,  création/modification de pipelines GitHub Actions...</p>
     <p>Travail sur la dette technique notamment lors d'une semaine dédiée en full remote (Discord, VS Code Live Share, Miro...) par streams alloués à des sujets spécifiques.</p>
     <p style="font-weight: bold;">Participation à la guilde de développeurs de Leroy Merlin :</p>
     <p>
@@ -47,7 +49,7 @@
         <li>Retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot (21/02/2019)</li>
       </ul>
     </p>
-    <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Spring Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>
+    <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Storybook</mark>, <mark>Scala</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>
     <hr style="margin: 25px 0; clear: left;" />
 
 - layout: left

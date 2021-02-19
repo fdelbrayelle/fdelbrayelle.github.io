@@ -27,6 +27,7 @@
     <p style="margin-top: 25px;">
       <strong>Participation à des conférences :</strong>
       <ul>
+        <li><a title="WebStories 2021" href="https://webstoriesconf.com" target="_blank" rel="noreferrer noopener">WebStories</a> 2021</li>
         <li><a title="Cloud Nord 2020" href="https://cloudnord.fr/agenda" target="_blank" rel="noreferrer noopener">Cloud Nord</a> 2020</li>
         <li><a title="Agile Tour Lille" href="http://2019.agiletour-lille.org/programme" target="_blank" rel="noreferrer noopener">Agile Tour Lille</a> 2019</li>
         <li><a title="Microsoft Ignite The Tour" href="https://paris.myignitetour.techcommunity.microsoft.com/" target="_blank" rel="noreferrer noopener">Microsoft Ignite the Tour</a> 2019</li>
@@ -34,15 +35,25 @@
     </p>
 
     <hr style="margin: 25px 0; clear: left;" />
-    <h4>Leroy Merlin - Depuis Octobre 2019</h4>
+    <h4>Galeries Lafayette - Depuis Février 2021</h4>
+    <img alt="Logo des Galeries Lafayette" src="images/gl_logo.png" style="float: left; width: 250px; margin: 25px;" />
+    <p style="font-style: italic; margin-top: 25px;">Full remote</p>
+    <p style="font-weight: bold;">Référentiel des produits PIM pour le site e-commerce NewGL</p>
+    <p>Développeur back sur une squad d'une dizaine de personnes dédiée au référentiel produits du site des <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">Galeries Lafayette</a>. Architecture et développement sur des APIs en <mark>architecture hexagonale</mark> qui communiquent entre eux via <mark>Kafka</mark>.</p>
+    <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Kafka</mark>, <mark>Architecture hexagonale</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Kotlin</mark>, <mark>Google Cloud Platform</mark>, <mark>Google Cloud Functions</mark>, <mark>Testcontainers</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>Bitbucket</mark> et de <mark>Jenkins</mark>.</p>
+    <hr style="margin: 25px 0; clear: left;" />
+
+    <hr style="margin: 25px 0; clear: left;" />
+    <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
     <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: left; width: 250px; margin: 25px;" />
-    <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes)</p>
+    <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes) - Full remote</p>
     <p style="font-weight: bold;">Application web d'installation (Instala)</p>
     <p>Leader technique back sur une partie de l'application micro-services d'installation des produits sur la plate-forme de services du hub pose. Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>kanban</mark> ("no estimates"), <mark>squads</mark>, <mark>3 amigos</mark>.</p>
     <p>Convergence des applications d'installation françaises (LMFR) et portugaise (LMPT). Co-construction de l'architecture pour matcher des plateformes partenaires d'artisans pour les produits d'une commande client. Mise en relation de ces plateformes avec l'application principale via des adapters. Mise en place du mode direct artisans.</p>
     <p>Conception de composants front avec React et utilisation de Storybook.</p>
     <p>Participation à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts Helm, utilisation de Terraform,  création/modification de pipelines GitHub Actions...</p>
     <p>Travail sur la dette technique notamment lors d'une semaine dédiée en full remote (Discord, VS Code Live Share, Miro...) par streams alloués à des sujets spécifiques.</p>
+    <p><em>You build it, you run it!</em> Prise en charge du run à hauteur d'une semaine chaque mois environ.</p>
     <p style="font-weight: bold;">Participation à la guilde de développeurs de Leroy Merlin :</p>
     <p>
       <ul>
@@ -84,7 +95,7 @@
     </p>
 
     <hr style="margin: 25px 0; clear: left;" />
-    <h4>BNP Leasing Solutions - Depuis Avril 2018 (15 mois)</h4>
+    <h4>BNP Leasing Solutions - Avril 2018 à Septembre 2019 (18 mois)</h4>
     <img alt="Logo de BNP Leasing Solutions" src="images/bpls_logo.png" style="float: left; width: 300px; margin: 25px;" />
     <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
     <p style="font-weight: bold;">Application web de plate-forme d'acquisitions fournisseurs (PAF)</p>

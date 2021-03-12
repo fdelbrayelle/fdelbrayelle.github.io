@@ -127,7 +127,7 @@ content:
               <li>Rédacteur d'articles sur le blog Ippon :</li>
               <ul>
                 <li><a target="WebStories Lille 2021" href="https://blog.ippon.fr/2021/02/26/webstories-lille-2021/" target="_blank" rel="noreferrer noopener">WebStories Lille 2021</a></li>
-                <li>Kafka et JHipster ? C'est possible !</li>
+                <li><a target="Kafka et JHipster ? C'est possible !" href="https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/" target="_blank" rel="noreferrer noopener">Kafka et JHipster ? C'est possible !</a></li>
               </ul>
             </ul>
           </p>

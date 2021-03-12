@@ -98,20 +98,31 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img alt="Logo de Ippon Technologies" src="images/ippon_logo.jpg" style="float: left; width: 250px; margin: 25px;" />
           <p style="margin-top: 150px;">
-            <strong>Membre de la practice JHipster :</strong>
+            <strong>Formateur :</strong>
             <ul>
-              <li>Contributeur au projet open-source <a title="Java Hipster" href="https://www.jhipster.tech" target="_blank" rel="noreferrer noopener">JHipster</a></li>
-              <li>Leader du <a title="Module de génération Kafka pour JHipster" href="https://github.com/fdelbrayelle/generator-jhipster-kafka" target="_blank" rel="noreferrer noopener">module de génération Kafka</a> (consumers/producers...)</li>
+              <li>Expert Spring (Core, Boot, Data, Batch, Web MVC, Security, Integration...) sur plusieurs sessions de 3 jours</li>
             </ul>
           </p>
           <p style="margin-top: 25px;">
-            <strong>Capitalisation et évènements :</strong>
+            <strong>Capitalisation :</strong>
             <ul>
               <li>Participation au programme <a title="Black Belt" href="https://fr.ippon.tech/black-belt/" target="_blank" rel="noreferrer noopener">Black Belt</a> (multiples objectifs en développement, architecture...) avec objectif 2021 : brown belt full-stack</li>
               <li>Formation <a title="Formation Udemy Apache Kafka" href="https://www.udemy.com/course/apache-kafka/" target="_blank" rel="noreferrer noopener">Udemy Apache Kafka</a> avec pour objectif 2021 : certification <a title="Confluent Certified Developer for Apache Kafka" href="https://www.confluent.io/certification/" target="_blank" rel="noreferrer noopener">Confluent Certified Developer for Apache Kafka</a></li>
               <li>Lancement d'un comité de relecture des CFPs pour les gros évènements (IppDéj et IppApéro sur le sujet pour s'organiser au niveau national)</li>
               <li>Présentation de JHipster en midi technique à l'école Epitech Lille (27/11/2019)</li>
               <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a> (24/02/2020)</li>
+            </ul>
+          </p>
+          <p style="margin-top: 150px;">
+            <strong>JHipster :</strong>
+            <ul>
+              <li>Contributeur au projet open-source <a title="Java Hipster" href="https://www.jhipster.tech" target="_blank" rel="noreferrer noopener">JHipster</a></li>
+              <li>Leader du <a title="Module de génération Kafka pour JHipster" href="https://github.com/fdelbrayelle/generator-jhipster-kafka" target="_blank" rel="noreferrer noopener">module de génération Kafka</a> (consumers/producers...)</li>
+            </ul>
+          </p>
+          <p style="margin-top: 25px;">
+            <strong>Blog Ippon :</strong>
+            <ul>
               <li>Référent du <a title="Blog Ippon" href="https://blog.ippon.fr" target="_blank" rel="noreferrer noopener">blog Ippon</a> pour la <em>practice full-stack</em> (organisation, accompagnement technique/rédactionnel, choix éditoriaux...)</li>
               <li>Rédacteur d'articles sur le blog Ippon :</li>
               <ul>
@@ -121,18 +132,18 @@ content:
             </ul>
           </p>
           <p style="margin-top: 25px;">
+            <strong>Mentoring :</strong>
+            <ul>
+              <li>Encadrement de plusieurs développeurs full-stack plus junior (belts orange, bleu et verte) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
+            </ul>
+          </p>
+          <p style="margin-top: 25px;">
             <strong>Participation à des conférences :</strong>
             <ul>
               <li><a title="WebStories 2021" href="https://webstoriesconf.com" target="_blank" rel="noreferrer noopener">WebStories</a> 2021</li>
               <li><a title="Cloud Nord 2020" href="https://cloudnord.fr/agenda" target="_blank" rel="noreferrer noopener">Cloud Nord</a> 2020</li>
               <li><a title="Agile Tour Lille" href="http://2019.agiletour-lille.org/programme" target="_blank" rel="noreferrer noopener">Agile Tour Lille</a> 2019</li>
               <li><a title="Microsoft Ignite The Tour" href="https://paris.myignitetour.techcommunity.microsoft.com/" target="_blank" rel="noreferrer noopener">Microsoft Ignite the Tour</a> 2019</li>
-            </ul>
-          </p>
-          <p style="margin-top: 25px;">
-            <strong>Mentoring :</strong>
-            <ul>
-              <li>Encadrement de plusieurs développeurs full-stack plus junior (belts orange, bleu et verte) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
             </ul>
           </p>
 

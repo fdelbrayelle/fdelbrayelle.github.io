@@ -154,7 +154,7 @@ content:
           <p style="font-weight: bold;">Référentiel des produits PIM pour le site e-commerce NewGL</p>
           <p>Développeur back sur une squad d'une dizaine de personnes dédiée au référentiel produits du site des <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">Galeries Lafayette</a>.</p>
           <p>Architecture et développement sur des APIs (Offer, Merch, Product, Asset) en <mark>architecture hexagonale</mark> qui communiquent entre eux notamment via <mark>Kafka</mark>.</p>
-          <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Kafka</mark>, <mark>Architecture hexagonale</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Kotlin</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform</mark>, <mark>Google Cloud Functions</mark>, <mark>Testcontainers</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>Bitbucket</mark> et de <mark>Jenkins</mark>.</p>
+          <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Kafka</mark>, <mark>Architecture hexagonale</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Kotlin</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform</mark>, <mark>Google Cloud Functions</mark>, <mark>Testcontainers</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>Bitbucket</mark> et de <mark>Jenkins</mark>.</p>
           <hr style="margin: 25px 0; clear: left;" />
 
           <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>

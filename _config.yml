@@ -96,7 +96,7 @@ content:
         # quote: >
         #   "Il n'est pas important d'être meilleur que quelqu'un d'autre, il est important d'être meilleur qu'hier"
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Ippon Technologies" src="images/ippon_logo.jpg" style="float: left; width: 250px; margin: 25px;" />
+          <img alt="Logo de Ippon Technologies" src="images/ippon_new_logo.png" style="float: left; width: 250px; margin: 25px;" />
           <p style="margin-top: 150px;">
             <strong>Formateur :</strong>
             <ul>

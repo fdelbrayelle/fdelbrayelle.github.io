@@ -157,7 +157,7 @@ content:
           <p style="font-weight: bold;">Référentiel des produits PIM pour le site e-commerce NewGL</p>
           <p><strong>Leader technique</strong> back-end sur une squad d'une dizaine de personnes dédiée au référentiel produits du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> : animation technique de l'équipe (points dévs), synchronisation avec d'autres tech leads, d'autres parties prenantes externes à l'équipe de développement, travail rapproché avec SM et PO, maintien d'un partage de connaissances avancé (capitalisation sur Confluence, ateliers...).</p>
           <p>Architecture (ateliers de tech design, cartographie, impacts, capitalisation) et développement sur des APIs (Offer, Merch, Product, Asset) en <mark>architecture hexagonale</mark> qui communiquent entre eux notamment via <mark>Kafka</mark>. Mise en application de certains objectifs de belt architecture en mission (présentation d'ADRs, connaissance des stratégies de backup (RTO/RPO), remise en question de l'architecture en place, animation d'ateliers d'architecture, ...).</p>
-          <p>Technologies : <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Architecture hexagonale</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, SQL, Memorystore, Cloud Storage, Cloud Functions...)</mark>, <mark>Testcontainers</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>Bitbucket</mark> et de <mark>Jenkins</mark>. Services externes : <mark>Mirakl</mark>, <mark>STEP</mark>, <mark>Fredhopper</mark>.</p>
+          <p>Environnement : <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Architecture hexagonale</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, SQL, Memorystore, Cloud Storage, Cloud Functions...)</mark>, <mark>Testcontainers</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>Bitbucket</mark> et de <mark>Jenkins</mark>. Services externes : <mark>Mirakl</mark>, <mark>STEP</mark>, <mark>Fredhopper</mark>.</p>
           <hr style="margin: 25px 0; clear: left;" />
 
           <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
@@ -176,7 +176,7 @@ content:
               <li>Retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot (21/02/2019)</li>
             </ul>
           </p>
-          <p>Technologies : <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Storybook</mark>, <mark>Scala</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>
+          <p>Environnement : <mark>Java 11</mark>, <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Kafka</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Storybook</mark>, <mark>Scala</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>GitHub</mark> et de <mark>GitLab CI</mark>.</p>
           <hr style="margin: 25px 0; clear: left;" />
 
       - layout: left
@@ -223,7 +223,7 @@ content:
           <p>Production d'un document avec propositions dans le cadre d'un audit d'amélioration continue : mise en place de pipelines CI/CD, prévention des fuites mémoire, migration vers Java 11, migration de AngularJS vers Angular, mise en place de tests de montée en charge (JMeter), etc.</p>
           <p style="font-weight: bold;">Application web pour le RGPD</p>
           <p><strong>Leader technique</strong> sur l'application de mise en conformité avec le règlement général sur la protection des données (entrée en vigueur le 25 mai 2018, délais courts). Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>agile</mark> (sprint planning, daily meetings, scrum pokers).</p>
-          <p>Technologies : <mark>JHipster</mark>, <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Spring Data JPA</mark>, <mark>Spring Batch</mark>, <mark>Spring JMS</mark>, <mark>ActiveMQ</mark>, <mark>TIBCO JMS</mark>, <mark>Hibernate</mark>, <mark>Hibernate Envers</mark>, <mark>Netflix Zuul</mark>, <mark>Oracle</mark>, <mark>Liquibase</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Conception <mark>UML</mark> et <mark>Merise</mark>. Gestion des sources sous <mark>git</mark>.</p>
+          <p>Environnement : <mark>Java 8 et 11</mark>, <mark>JHipster</mark>, <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Spring Data JPA</mark>, <mark>Spring Batch</mark>, <mark>Spring JMS</mark>, <mark>ActiveMQ</mark>, <mark>TIBCO JMS</mark>, <mark>Hibernate</mark>, <mark>Hibernate Envers</mark>, <mark>Netflix Zuul</mark>, <mark>Oracle</mark>, <mark>Liquibase</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Conception <mark>UML</mark> et <mark>Merise</mark>. Gestion des sources sous <mark>git</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Pacifica - Février 2018 à Mars 2018 (2 mois)</h4>
@@ -232,7 +232,7 @@ content:
           <p style="font-weight: bold;">Application web pour les assurances</p>
           <p>Projet quasiment 100 % frontend. Développement et tests unitaires front sur de nouveaux écrans du projet existant NewSesame sur les cotisations financières (incidents de paiement).</p>
           <br /><br />
-          <p>Technologies : <mark>Angular</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>.</p>
+          <p>Environnement : <mark>Angular</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Lantik BFA - Décembre 2017 à Janvier 2018 (2 mois)</h4>
@@ -241,7 +241,7 @@ content:
           <p style="font-weight: bold;">Application web intranet du secteur public espagnol</p>
           <p>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement sur plusieurs projets pour la <a title="Députation forale de Biscaye" href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank" rel="noreferrer noopener">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol).</p>
           <p>Mise en place de l'environnement du client et des différents projets au centre de services de Gfi Informatique Lille. Suivi, encadrement, formation et affectation des tâches techniques aux développeurs juniors. Communication en anglais et espagnol au quotidien avec le client et l'équipe de Bilbao.</p>
-          <p>Technologies : <mark>JSF 2.1</mark>, <mark>EJB</mark> et <mark>JBoss</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>JSF 2.1</mark>, <mark>EJB</mark> et <mark>JBoss</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Société générale - Octobre 2017 à Novembre 2017 (2 mois)</h4>
@@ -251,7 +251,7 @@ content:
           <p>Conception (Swagger), développement et tests sur le projet de "servitization". Projet 100 % backend de REST API pour fédérer les appelants et appelés sur le SI Société générale.</p>
           <p>Encadrement de développeurs débutants (alternants, stagiaires et prestataires), revue de code. Expertise technique pour le lancement du projet.</p>
           <p>Déplacement d'une journée avec toute l'équipe sur le site de la Société Générale à Fontenay-sous-Bois pour prise de connaissances au lancement du projet.</p>
-          <p>Technologies : <mark>Java 8</mark>, <mark>Jersey</mark>, <mark>Netflix Hystrix</mark>, <mark>JAX-RS</mark>, <mark>JAX-WS</mark>, <mark>Tanit</mark> et <mark>Comporsys</mark> pour les transactions CICS avec MVS. Gestion des sources sous <mark>git</mark>.</p>
+          <p>Environnement : <mark>Java 8</mark>, <mark>Jersey</mark>, <mark>Netflix Hystrix</mark>, <mark>JAX-RS</mark>, <mark>JAX-WS</mark>, <mark>Tanit</mark> et <mark>Comporsys</mark> pour les transactions CICS avec MVS. Gestion des sources sous <mark>git</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Pacifica - Juillet 2017 à Septembre 2017 (3 mois)</h4>
@@ -260,7 +260,7 @@ content:
           <p style="font-weight: bold;">Application web pour les assurances 2 roues</p>
           <p>Projet quasiment 100 % frontend. Développement et tests unitaires front sur la refonte d'une partie du projet NewSesame pour les assurances deux roues (A2), partie formules et options, liens entre les étapes et appels au back (utilisation de mocks en JSON).</p>
           <p>Analyse de code existant en AngularJS sur la partie assurances quatre roues (A4) pour orienter les développements en Angular.</p>
-          <p>Technologies : <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>.</p>
+          <p>Environnement : <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Crédit agricole - Janvier 2016 à Juin 2017 (18 mois)</h4>
@@ -271,7 +271,7 @@ content:
           <p>Rédaction des spécifications techniques détaillées, chiffrages/abaques/devis, analyses causales, tests unitaires/intégration, développement au sein d'une équipe de 8 à 10 personnes sur un lot et évolutions, intégration, accueil des nouveaux arrivants, formation et passage de connaissances, responsable d'application, backup, analyse technique, participation aux ateliers et réunions avec le client, multiples démos auprès de nombreux interlocuteurs, reprise d'un projet en TMA, assistance MOE/MOA pour la rédaction des spécifications fonctionnelles détaillées, rétrodocumentation, suivi de la recette MOA et métier avec correction des anomalies. Modification de rapports BIRT.</p>
           <p style="font-weight: bold; margin-top: 25px;">Autres projets</p>
           <p>Divers actions sur plusieurs projets Crédit Agricole SA : réalisation d'évolutions, chiffrages, études d'impacts techniques, analyses et corrections suite à audits de sécurité et de qualité, corrections d'anomalies, audit de sécurité, qualité, conception modèle objet et base de données.</p>
-          <p>Technologies : <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark> et <mark>JDBC Template</mark>. Serveurs d'applications : <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Bases de données <mark>DB2</mark>. Files <mark>MQ</mark>. PIC : <mark>Jenkins</mark> et <mark>Sonar</mark>. Conception <mark>UML</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark> et <mark>JDBC Template</mark>. Serveurs d'applications : <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>. Bases de données <mark>DB2</mark>. Files <mark>MQ</mark>. PIC : <mark>Jenkins</mark> et <mark>Sonar</mark>. Conception <mark>UML</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>BNP Paribas - Avril 2015 à Décembre 2015 (9 mois)</h4>
@@ -290,7 +290,7 @@ content:
           <p>Intervention sur la TMA Canaux sur le projet de serveur vocal pour correction d’anomalies et évolutions.</p>
           <p>Formation reçue : IBM WebSphere Application Server v8.5.5 - Administration (5 jours à temps plein - IB Formation).</p>
           <p>Participation à une présentation de la BNP Paribas sur la dette technique à Montreuil (93).</p>
-          <p>Technologies : <mark>Struts</mark>, <mark>Tiles</mark>, <mark>WebSphere</mark>, <mark>DB2</mark>, <mark>bash</mark>. Conception <mark>UML</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>WebSphere</mark>, <mark>DB2</mark>, <mark>bash</mark>. Conception <mark>UML</mark>.</p>
           <hr style="margin: 25px 0; clear: left;" />
 
       - layout: left
@@ -309,7 +309,7 @@ content:
           <p>Développement de scripts de revue de code notamment pour détecter les mauvaises pratiques de développement.</p>
           <p>Nouveau projet pour gérer une nouvelle notion dans l'arborescence des produits (mise en place du framework de tests unitaires, gestion <mark>agile</mark>).</p>
           <p>Intégration au pôle support en tant que développeur référent (analyse des impacts, proposition de solutions techniques pour résoudre plusieurs anomalies, réalisation de batchs et fiabilisation de pans applicatifs entiers).</p>
-          <p>Technologies : <mark>Struts</mark>, <mark>Salto</mark>, <mark>Tiles</mark>, <mark>GWT</mark>, <mark>H2</mark>, <mark>bash</mark> et <mark>Groovy</mark>. Gestion des sources sous <mark>git</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>Struts</mark>, <mark>Salto</mark>, <mark>Tiles</mark>, <mark>GWT</mark>, <mark>H2</mark>, <mark>bash</mark> et <mark>Groovy</mark>. Gestion des sources sous <mark>git</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>CNSA - Novembre 2012 à Août 2013 (9 mois)</h4>
@@ -319,7 +319,7 @@ content:
           <p>Tierce maintenance applicative (évolutions et corrections d'anomalies), études d'impacts techniques, intégration/livraison de nouveaux développements et exploitation de divers environnements (recette, qualification).</p>
           <p>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement).</p>
           <br />
-          <p>Technologies : <mark>Spring MVC</mark>, <mark>Hibernate</mark>, <mark>GNU/Linux</mark> et <mark>SQL Server</mark>. Conception <mark>UML</mark>. Gestion des sources sous <mark>svn</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>Spring MVC</mark>, <mark>Hibernate</mark>, <mark>GNU/Linux</mark> et <mark>SQL Server</mark>. Conception <mark>UML</mark>. Gestion des sources sous <mark>svn</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>3 Suisses - Mai 2012 à Novembre 2012 (6 mois)</h4>
@@ -329,7 +329,7 @@ content:
           <p>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation).</p>
           <p>Études, développement et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a title="3 SUISSES" href="https://3suisses.fr" target="_blank" rel="noreferrer noopener">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
           <p>Intégration et participation au dispositif de gestion <mark>agile</mark> du projet. TDD et BDD.</p>
-          <p>Technologies : <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Conception <mark>UML</mark>. Gestion des sources sous <mark>git</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Conception <mark>UML</mark> et <mark>DDD</mark> (langage ubiquitaire, contextes bornés, architecture en couches...). Gestion des sources sous <mark>git</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>3 Suisses - Avril 2011 à Mai 2012 (13 mois)</h4>
@@ -338,7 +338,7 @@ content:
           <p style="font-weight: bold">Application web de gestion des commandes courrier et téléphone</p>
           <p>Tierce maintenance applicative (évolutions et corrections d'anomalies). Études, développement et tests avec utilisation de Java EE.</p>
           <br /><br /><br />
-          <p>Technologies : <mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark> et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge). Gestion des sources sous <mark>svn</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark> et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge). Gestion des sources sous <mark>svn</mark>.</p>
 
   - title: Formation
     layout: list

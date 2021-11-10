@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: François Delbrayelle
-title: Développeur full-stack senior - Leader technique
+title: Développeur Full-Stack / Tech Lead senior - Architecte Solutions junior
 # email: fdelbrayelle@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -52,7 +52,7 @@ google_analytics: "UA-17958744-1"
 about_title: À propos
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Je suis <strong>développeur full-stack senior, tech lead et formateur</strong>. Je tente également d'appliquer les règles du software craftsmanship au quotidien dans mon travail. Je me passionne pour le développement depuis les années 90 et j'ai près de <strong>12 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a title="Test de Myers-Briggs" href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank" rel="noreferrer noopener">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression tels que la <a title="Communication non violente" href="https://fr.wikipedia.org/wiki/Communication_non_violente" target="_blank" rel="noreferrer noopener">CNV</a>.
+  Je suis <strong>développeur full-stack</strong> / <strong>tech lead</strong> senior et <strong>architecte solutions</strong> junior (en cours d'évolution). Je donne régulièrement en complément des formations sur l'écosystème Spring. Je tente également d'appliquer les règles du software craftsmanship au quotidien dans mon travail. Je me passionne pour le développement depuis les années 90 et j'ai près de <strong>12 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a title="Test de Myers-Briggs" href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank" rel="noreferrer noopener">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression tels que la <a title="Communication non violente" href="https://fr.wikipedia.org/wiki/Communication_non_violente" target="_blank" rel="noreferrer noopener">CNV</a>.
 
   J'ai travaillé pour plusieurs ESN, en centre de services, en régie, dans différents contextes et modes d'organisation, pour des durées variées et dans divers domaines fonctionnels (<em>Data Asset Management</em>, <em>Product Information Management</em>, référencement/SEO, <em>merchandising</em>, vente/e-commerce sport/bricolage/luxe/prêt-à-porter, santé, banque et assurance). Depuis 2018, <strong>je suis régulièrement en télétravail</strong> et cela s'est accéléré en mars 2020 avec la crise sanitaire de la COVID-19 avec plusieurs mois en télétravail intégral ce qui m'a permis de changer mes habitudes et m'adapter pour être efficace et productif dans les meilleures conditions.
 
@@ -65,6 +65,31 @@ about_content: | # this will include new lines to allow paragraphs
   Depuis 2019, je suis également <strong>contributeur open-source</strong> en participant au développement de <mark>JHipster</mark> où je suis stream leader sur le module <mark>Kafka</mark> associé.
   
   Je cherche à développer mes compétences en particulier dans en <mark>architecture</mark>, <mark>blockchain</mark>, <mark>DDD</mark>, <mark>Kotlin</mark>, <mark>Go</mark>, <mark>programmation fonctionnelle</mark>, <mark>programmation réactive</mark> et <mark>GCP</mark>.
+  
+  <strong>Les <em>talks</em> que j'ai donnés :</strong>
+
+  - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
+  - [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)
+  - [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)
+  - [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
+  - [Micronaut et Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)
+
+  <strong>Les livres que j'ai lus :</strong>
+  - "Official Google Cloud Certified Associate Cloud Engineer Study Guide" de Dan Sullivan
+  - "Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale" de Neha Narkhede, Gwen Shapira et Todd Palino
+  - "Deep Learning avec TensorFlow" de Aurélien Géron
+  - "Machine Learning avec Scikit-Learn" de Aurélien Géron
+  - "Kubernetes - Maîtrisez l'orchestrateur des infrastructures du futur: Maîtrisez l'orchestrateur des infrastructures du futur" de Kelsey Hightower, Brendan Burns et Joe Beda
+  - "Docker - Pratique des architectures à base de conteneurs" de Pierre-Yves Cloux, Thomas Garlot et Johann Kohler
+  - "Design patterns pour Java" de Laurent Debrauwer
+  - "Java Spring - Le socle technique des applications Java EE" de Hervé Le Morvan
+  - "Clean Code: A Handbook of Agile Software Craftsmanship" de Robert Martin
+  - "SCJP Sun Certified Programmer for Java 6 Study Guide: Exam 310-065" de Katherine Sierra et Bert Bates
+  - "Réussir son référencement web" de Olivier Andrieux
+  - "Améliorer la qualité des services: Avec la Gestion des Problèmes ITIL" de Hamilton Mann
+  - "Métier : Développeur" de Jean-Christophe Arnulfo
+  - "Linux : Programmation système et réseau" (2ème édition) de Joëlle Delacroix
+  - "Introduction aux scripts shell" de Arnold Robbins et Nelson-H-F Beebe
 
 content:
   # - title: Projects # Title for the section
@@ -157,7 +182,7 @@ content:
           <p style="font-weight: bold;">Référentiel des produits PIM pour le site e-commerce NewGL</p>
           <p><strong>Leader technique</strong> back-end sur une squad d'une dizaine de personnes dédiée au référentiel produits du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> : animation technique de l'équipe (points dévs), synchronisation avec d'autres tech leads, d'autres parties prenantes externes à l'équipe de développement, travail rapproché avec SM et PO, maintien d'un partage de connaissances avancé (capitalisation sur Confluence, ateliers...).</p>
           <p>Architecture (ateliers de tech design, cartographie, impacts, capitalisation) et développement sur des APIs (Offer, Merch, Product, Asset) en <mark>architecture hexagonale</mark> qui communiquent entre eux notamment via <mark>Kafka</mark>. Mise en application de certains objectifs de belt architecture en mission (présentation d'ADRs, connaissance des stratégies de backup (RTO/RPO), remise en question de l'architecture en place, animation d'ateliers d'architecture, ...).</p>
-          <p>Environnement : <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Architecture hexagonale</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, SQL, Memorystore, Cloud Storage, Cloud Functions...)</mark>, <mark>Testcontainers</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>Bitbucket</mark> et de <mark>Jenkins</mark>. Services externes : <mark>Mirakl</mark>, <mark>STEP</mark>, <mark>Fredhopper</mark>.</p>
+          <p>Environnement : <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Micro-services</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Architecture hexagonale</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, SQL, Memorystore, Cloud Storage, Cloud Functions...)</mark>, <mark>Testcontainers</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>. Gestion des sources sous <mark>git</mark>. Utilisation de <mark>Bitbucket</mark> et de <mark>Jenkins</mark>. Services externes : <mark>Mirakl</mark>, <mark>STEP</mark>, <mark>Fredhopper</mark>. Orgnaisation <mark>SAFe</mark> et <mark>Scrum</mark>.</p>
           <hr style="margin: 25px 0; clear: left;" />
 
           <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
@@ -327,9 +352,9 @@ content:
           <p style="font-style: italic; margin-top: 25px;">Régie (Croix)</p>
           <p style="font-weight: bold;">Application web e-commerce B2C</p>
           <p>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation).</p>
-          <p>Études, développement et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a title="3 SUISSES" href="https://3suisses.fr" target="_blank" rel="noreferrer noopener">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc).</p>
+          <p>Études, développement (sur chaque étape du tunnel : panier, livraison, paiement, récapitulatif ; <em>fail-over switch</em> pour le mode dégradé d'accès à certains services comme le paiement ; mise en place d'un moteur de règles basé sur les prédicats) et tests et application de bonnes pratiques de qualité sur la refonte du tunnel de commandes du site <a title="3 SUISSES" href="https://3suisses.fr" target="_blank" rel="noreferrer noopener">3suisses.fr</a> (développement mené par les tests, mocks, intégration continue, développement en binôme, pomodoro, etc). Déploiement des fonctionnalités sur l'ESB.</p>
           <p>Intégration et participation au dispositif de gestion <mark>agile</mark> du projet. TDD et BDD.</p>
-          <p>Environnement : <mark>Java</mark>, <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Conception <mark>UML</mark> et <mark>DDD</mark> (langage ubiquitaire, contextes bornés, architecture en couches...). Gestion des sources sous <mark>git</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark> et <mark>Thymeleaf</mark>. Conception <mark>UML</mark> et <mark>DDD</mark> (langage ubiquitaire, contextes bornés, architecture en couches...). Utilisation des serveurs d'application <mark>Tomcat</mark> et <mark>Weblogic</mark>. Gestion des sources sous <mark>git</mark>.</p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>3 Suisses - Avril 2011 à Mai 2012 (13 mois)</h4>
@@ -338,7 +363,7 @@ content:
           <p style="font-weight: bold">Application web de gestion des commandes courrier et téléphone</p>
           <p>Tierce maintenance applicative (évolutions et corrections d'anomalies). Études, développement et tests avec utilisation de Java EE.</p>
           <br /><br /><br />
-          <p>Environnement : <mark>Java</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark> et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge). Gestion des sources sous <mark>svn</mark>.</p>
+          <p>Environnement : <mark>Java</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark> et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge). Utilisation des serveurs d'application <mark>Tomcat</mark> et <mark>Weblogic</mark>. Gestion des sources sous <mark>svn</mark>.</p>
 
   - title: Formation
     layout: list
@@ -356,7 +381,7 @@ content:
 
           <strong>71 semaines de stages</strong> au total (en partenariat, forme d'alternance, durant l'année et en stages de fin d'année) :
             - En 2009 (2 jours par semaine de janvier à juin puis 15 semaines en fin d'année) chez Compario (Lille - Euratechnologies) devenu <a title="Sparkow" href="http://sparkow.com/fr" target="_blank" rel="noreferrer noopener">Sparkow</a>, société éditrice d'une solution de merchandising : développement en <mark>.NET</mark> (<mark>C#</mark> et <mark>WPF</mark>) sur un site client exportateur de produits français vers le Japon, optimisation du site, référencement, utilisation de <mark>SQL Server</mark> et JavaScript (TreeMap, <mark>JQuery</mark>) ; création d'un outil de reporting, anticipation de l'expérience utilisateur ; mise en place de RIA pour des catalogues produits ; environnement <mark>Windows Server</mark>.
-            - En 2010 (2 jours par semaine de mars à juin puis 13 semaines en fin d'année) chez Odimat (Liévin), agence de référencement web : développement de nouveaux modules (référencement web, gestion de la relation client, finances, facturation, optimisation des pages web, positionnement...) en <mark>Python</mark> pour OpenERP devenu <a title="Odoo (anciennement OpenERP)" href="https://www.odoo.com/fr_FR" target="_blank" rel="noreferrer noopener">Odoo</a>, utilisation de <mark>PostgreSQL</mark> et apprentissage des notions principales liées au référencement naturel <mark>SEO</mark> ; utilisation et administration de <mark>GNU/Linux</mark> au quotidien ; pratique de l'<mark>extreme programming</mark>.
+            - En 2010 (2 jours par semaine de mars à juin puis 13 semaines en fin d'année) chez Odimat (Liévin), agence de référencement web : leading technique et développement de nouveaux modules (référencement web, gestion de la relation client, finances, facturation, optimisation des pages web, positionnement...) en <mark>Python</mark> pour OpenERP devenu <a title="Odoo (anciennement OpenERP)" href="https://www.odoo.com/fr_FR" target="_blank" rel="noreferrer noopener">Odoo</a>, utilisation de <mark>PostgreSQL</mark> et apprentissage des notions principales liées au référencement naturel <mark>SEO</mark> ; utilisation et administration de <mark>GNU/Linux</mark> au quotidien (administration système) ; pratique de l'<mark>extreme programming</mark>.
             - En 2011 (6 mois en fin d'études) chez <a title="Norsys" href="https://www.norsys.fr" target="_blank" rel="noreferrer noopener">Norsys</a> (Ennevelin) : tierce maintenance applicative (évolutions et corrections d'anomalies) pour l'application frontoffice de gestion des commandes courrier et téléphone du groupe <a title="3 SUISSES" href="https://www.3suisses.fr/" target="_blank" rel="noreferrer noopener">3 Suisses</a>. Développement et tests en Java EE (<mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark>) et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge) ; développement d'une application <mark>Android</mark> de communication interne pour l'entreprise.
 
           Réalisation en groupe d'un outil de gestion d'emploi du temps en <mark>Ruby on Rails</mark> : <a title="Code source de Timetableasy" href="https://github.com/fdelbrayelle/timetableasy" target="_blank" rel="noreferrer noopener">Timetableasy</a> (sources).

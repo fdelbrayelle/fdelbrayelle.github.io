@@ -62,17 +62,13 @@ about_content: | # this will include new lines to allow paragraphs
 
   Je me retrouve beaucoup dans la notion de <a title="D’architecte à Métarchitecte : une évolution nécessaire (Rémi Cocula @ Devoxx 2019)" href="https://www.youtube.com/watch?v=sEK68arLUq0" target="_blank" rel="noreferrer noopener">"métarchitecte"</a> et je remets constamment mes connaissances en question : "Tu sais tout quand tu sais que tu ne sais rien" disait Socrate. Je suis en <strong>veille techno</strong> quasi quotidienne en essayant de m'intéresser aux nouveautés, tester certains frameworks et participer à des meetups <a title="Restitution des notes prises en meetups" href="https://francois-delbrayelle.fr/meetups" target="_blank" rel="noreferrer noopener">(voir mes notes)</a>. Je suis en recherche constante d'un équilibre, d'un <em><a title="Raison d'être en japonais" href="https://fr.wikipedia.org/wiki/Ikigai" target="_blank" rel="noreferrer noopener">ikigai</a></em>. C'est important pour moi de participer à des projets ayant une utilité pour l'intérêt général.
 
-  Depuis 2019, je suis également <strong>contributeur open-source</strong> en participant au développement de <mark>JHipster</mark> où je suis stream leader sur le module <mark>Kafka</mark> associé.
-  
-  Je cherche à développer mes compétences en particulier dans en <mark>architecture</mark>, <mark>blockchain</mark>, <mark>DDD</mark>, <mark>Kotlin</mark>, <mark>Go</mark>, <mark>programmation fonctionnelle</mark>, <mark>programmation réactive</mark> et <mark>GCP</mark>.
-  
   <strong>Les <em>talks</em> que j'ai donnés :</strong>
 
-  - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
-  - [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)
-  - [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)
-  - [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
   - [Micronaut et Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)
+  - [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
+  - [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)
+  - [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)
+  - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
 
   <strong>Les livres que j'ai lus :</strong>
   - "Official Google Cloud Certified Associate Cloud Engineer Study Guide" de Dan Sullivan
@@ -90,6 +86,10 @@ about_content: | # this will include new lines to allow paragraphs
   - "Métier : Développeur" de Jean-Christophe Arnulfo
   - "Linux : Programmation système et réseau" (2ème édition) de Joëlle Delacroix
   - "Introduction aux scripts shell" de Arnold Robbins et Nelson-H-F Beebe
+
+  Depuis 2019, je suis également <strong>contributeur open-source</strong> en participant au développement de <mark>JHipster</mark> où je suis stream leader sur le module <mark>Kafka</mark> associé.
+  
+  Je cherche à développer mes compétences en particulier dans en <mark>architecture</mark>, <mark>blockchain</mark>, <mark>DDD</mark>, <mark>Kotlin</mark>, <mark>Go</mark>, <mark>programmation fonctionnelle</mark>, <mark>programmation réactive</mark> et <mark>GCP</mark>.
 
 content:
   # - title: Projects # Title for the section
@@ -362,7 +362,7 @@ content:
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin), dont 6 mois de stage de fin d'études</p>
           <p style="font-weight: bold">Application web de gestion des commandes courrier et téléphone</p>
           <p>Tierce maintenance applicative (évolutions et corrections d'anomalies). Études, développement et tests avec utilisation de Java EE.</p>
-          <br /><br /><br />
+          <br /><br />
           <p>Environnement : <mark>Java</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark> et bases de données <mark>DB2</mark> et <mark>Oracle</mark> (migration de DB2 à Oracle prise en charge). Utilisation des serveurs d'application <mark>Tomcat</mark> et <mark>Weblogic</mark>. Gestion des sources sous <mark>svn</mark>.</p>
 
   - title: Formation

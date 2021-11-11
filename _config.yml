@@ -328,7 +328,7 @@ content:
           <p>Conception (Swagger), développement et tests sur le projet de "servitization". Projet 100 % backend de REST API pour fédérer les appelants et appelés sur le SI Société générale.</p>
           <p>Encadrement de développeurs débutants (alternants, stagiaires et prestataires), revue de code. Expertise technique pour le lancement du projet.</p>
           <p>Déplacement d'une journée avec toute l'équipe sur le site de la Société Générale à Fontenay-sous-Bois pour prise de connaissances au lancement du projet.</p>
-          <p>Environnement : <mark>Java 8</mark>, <mark>Jersey</mark>, <mark>Netflix Hystrix</mark>, <mark>JAX-RS</mark>, <mark>JAX-WS</mark>, <mark>Tanit</mark>, <mark>Comporsys</mark> (transactions CICS avec MVS), <mark>git</mark>, <mark>Jenkins</mark></p>
+          <p>Environnement : <mark>Java 8</mark>, <mark>Jersey</mark>, <mark>Netflix Hystrix</mark>, <mark>JAX-RS</mark>, <mark>JAX-WS</mark>, <mark>Tanit</mark>, <mark>Comporsys</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Pacifica - Juillet 2017 à Septembre 2017 (3 mois)</h4>
@@ -355,6 +355,8 @@ content:
           <p><strong>Réalisations :</strong>
             <ul>
               <li><strong>Architecture et leading technique</strong> : contributions aux dossiers d'architecture technique (DAT), ateliers de conception, réunions avec le client, analyses techniques avec études d'impacts, transmission des bonnes pratiques et rédaction des spécifications techniques détaillées (STD) (sur un périmètre de plusieurs applications Java EE pour les filiales et caisses régionales web), intégration et accueil des nouveaux développeurs (formation et passage de connaissances)</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Prise du rôle de responsable d'application et backup de développeurs</li>
               <li>Études, développement, tests : réalisation d'évolutions et correctifs sur plusieurs lots</li>
               <li>Conception des modèles objets</li>
@@ -367,8 +369,6 @@ content:
               <li>Rétrodocumentation</li>
               <li>Suivi de la recette MOA et métier avec correction des anomalies</li>
               <li>Modification de rapports BIRT</li>
-              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
-              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
             </ul>
           </p>
           <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark>, <mark>JDBC Template</mark>, <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>, <mark>DB2</mark>, <mark>MQ</mark>, <mark>Jenkins</mark>, <mark>Sonar</mark>, <mark>UML</mark></p>
@@ -396,10 +396,10 @@ content:
           <p><strong>Réalisations :</strong>
             <ul>
               <li><strong>Architecture et leading technique</strong> : contributions aux dossiers d'architecture technique (DAT), ateliers de conception, transmission des bonnes pratiques, rédaction de spécifications techniques détaillées (STD) via RSM pour le centre de services offshore RSDD...</li>
-              <li>Études, développement et tests dans le cadre de la tierce maintenance applicative (TMA) : correction d’anomalies, suivi des demandes et incidents et réalisation d’évolutions</li>
-              <li>Réécriture d’un script de contrôle des données lancé quotidiennement le matin</li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests dans le cadre de la tierce maintenance applicative (TMA) : correction d’anomalies, suivi des demandes et incidents et réalisation d’évolutions</li>
+              <li>Réécriture d’un script de contrôle des données lancé quotidiennement le matin</li>
               <li>Diverses interventions et mises en qualification et production</li>
               <li>Réalisation d'évolutions sur la TMA TELRES sur le projet de serveur d’envoi de notifications <em>push</em> (intégration d'une nouvelle application, lecture de notifications via fichiers CFT, stabilisation et amélioration des performances)</li>
               <li>Préparation et présentation de la réversibilité du le projet de serveur d’envoi de notifications <em>push</em> pendant 2 jours complets à un prestataire roumain en anglais</li>
@@ -477,9 +477,9 @@ content:
               <li>Création de procédures en T-SQL (SQL Server) pour diverses opérations sur les données</li>
               <li>Exploitation de divers environnements (recette, qualification)</li>
               <li>Ateliers techniques avec le client</li>
+              <li>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement)</li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
-              <li>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement)</li>
             </ul>
           </p>
           <p><strong>Environnement :</strong><mark>Java (EE)</mark>, <mark>Spring MVC</mark>, <mark>Hibernate</mark>, <mark>GNU/Linux</mark>, <mark>SQL Server</mark>, <mark>UML</mark>, <mark>svn</mark>, <mark>Jenkins</mark></p>
@@ -504,10 +504,10 @@ content:
               <li>Mise en place d'un <em>fail-over switch</em> pour le mode dégradé d'accès à certains services comme le paiement</li>
               <li>Mise en place d'un moteur de règles basé sur les prédicats)</li>
               <li>Pratique du <em>Domain-Driven Design</em> (<mark>DDD</mark>) pour la conception (langage ubiquitaire, contextes bornés, architecture en couches...)</li>
-              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <em>Behavior-Driven Development</em> (<mark>BDD</mark>), <mark>pair-programming</mark>, tests d'intégration, CI/CD, mocks, <em>pomodoro</em>, anticipation de la dette technique, ...</li>
               <li>Déploiement des fonctionnalités sur l'ESB</li>
-              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation)</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <em>Behavior-Driven Development</em> (<mark>BDD</mark>), <mark>pair-programming</mark>, tests d'intégration, CI/CD, mocks, <em>pomodoro</em>, anticipation de la dette technique, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
             </ul>
           </p>
           <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark>, <mark>Thymeleaf</mark>, <mark>UML</mark>, <mark>TDD</mark>, <mark>BDD</mark>, <mark>DDD</mark>, <mark>Tomcat</mark>, <mark>Weblogic</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>

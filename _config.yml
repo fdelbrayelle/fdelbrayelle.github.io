@@ -121,7 +121,7 @@ content:
         # quote: >
         #   "Il n'est pas important d'être meilleur que quelqu'un d'autre, il est important d'être meilleur qu'hier"
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Ippon Technologies" src="images/ippon_new_logo.png" style="width: 300px; margin: 25px;" />
+          <img alt="Logo de Ippon Technologies" src="images/ippon_new_logo.png" style="width: 300px; margin-bottom: 25px;" />
           <p>
             <h4>Capitalisation :</h4>
             <br />
@@ -347,7 +347,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Banque / Finance</li>
-              <li>Business : Gestion des risques opérationnels et projets sensibles de finance</li>
+              <li>Business : Maintien en condition opérationnelle (MCO) et évolutions sur de la gestion des risques opérationnels et projets sensibles de finance</li>
               <li>Méthodologique : Cycles en V</li>
               <li>Équipe : +/- 10 personnes</li>
             </ul>
@@ -382,7 +382,7 @@ content:
             <ul>
               <li>Fonctionnel : Banque</li>
               <li>Business :
-                <ul>
+                <ul>Maintien en condition opérationnelle (MCO) et évolutions :
                   <li>Applications web pour la gestion des cartes "corporate" sur le site des cartes entreprise « corporate » BNP Paribas (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank" rel="noreferrer noopener">internet</a> et intranet)</li>
                   <li>Applications web RSDD, Souscription et RSDD CAFF</li>
                   <li>Serveur de notifications <em>push</em> (servlet recevant des requêtes depuis un <em>mainframe</em>) vers différentes applications mobiles de la BNP Paribas</li>

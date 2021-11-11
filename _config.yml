@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Je me retrouve beaucoup dans la notion de <a title="D’architecte à Métarchitecte : une évolution nécessaire (Rémi Cocula @ Devoxx 2019)" href="https://www.youtube.com/watch?v=sEK68arLUq0" target="_blank" rel="noreferrer noopener">"métarchitecte"</a> et je remets constamment mes connaissances en question : "Tu sais tout quand tu sais que tu ne sais rien" disait Socrate. Je suis en <strong>veille techno</strong> quasi quotidienne en essayant de m'intéresser aux nouveautés, tester certains frameworks et participer à des meetups <a title="Restitution des notes prises en meetups" href="https://francois-delbrayelle.fr/meetups" target="_blank" rel="noreferrer noopener">(voir mes notes)</a>. Je suis en recherche constante d'un équilibre, d'un <em><a title="Raison d'être en japonais" href="https://fr.wikipedia.org/wiki/Ikigai" target="_blank" rel="noreferrer noopener">ikigai</a></em>. C'est important pour moi de participer à des projets ayant une utilité pour l'intérêt général.
 
-  Je cherche à approfondir mes compétences en particulier dans en <mark>architecture</mark> et <mark>DDD</mark> mais également dans les langages <mark>Kotlin</mark>, <mark>Go</mark> et <mark>Rust</mark>. Je souhaite aussi compléter mon savoir-faire sur les <em>cloud providers</em> (en particulier <mark>GCP</mark> et <mark>AWS</mark> mais également les fournisseurs français tels que <mark>Clever Cloud</mark>). Enfin je veille sur les sujets qui constitueront des piliers dans un avenir proche : <mark>blockchain</mark>, <mark>machine learning</mark>, <mark>deep learning</mark>, <mark>edge computing</mark> et <mark>IoT</mark>.
+  Je cherche à approfondir mes compétences en particulier dans en <mark>architecture</mark> et <mark>DDD</mark> mais également dans les langages <mark>Kotlin</mark>, <mark>Go</mark> et <mark>Rust</mark>. Je souhaite aussi compléter mon savoir-faire sur les <em>cloud providers</em> (en particulier <mark>GCP</mark> et <mark>AWS</mark> mais également sur les fournisseurs français tels que <mark>Clever Cloud</mark>). Enfin je veille sur les sujets qui constitueront des piliers dans un avenir proche : <mark>blockchain</mark>, <mark>machine learning</mark>, <mark>deep learning</mark>, <mark>edge computing</mark> et <mark>IoT</mark>.
 
   <strong>Les <em>talks</em> que j'ai donnés :</strong>
 
@@ -74,10 +74,10 @@ about_content: | # this will include new lines to allow paragraphs
 
   <strong>Les livres que j'ai lus :</strong>
   - "Official Google Cloud Certified Associate Cloud Engineer Study Guide" de Dan Sullivan
-  - "Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale" de Neha Narkhede, Gwen Shapira et Todd Palino
+  - "Kafka: The Definitive Guide" de Neha Narkhede, Gwen Shapira et Todd Palino
   - "Deep Learning avec TensorFlow" de Aurélien Géron
   - "Machine Learning avec Scikit-Learn" de Aurélien Géron
-  - "Kubernetes - Maîtrisez l'orchestrateur des infrastructures du futur: Maîtrisez l'orchestrateur des infrastructures du futur" de Kelsey Hightower, Brendan Burns et Joe Beda
+  - "Kubernetes - Maîtrisez l'orchestrateur des infrastructures du futur" de Kelsey Hightower, Brendan Burns, Joe Beda
   - "Docker - Pratique des architectures à base de conteneurs" de Pierre-Yves Cloux, Thomas Garlot et Johann Kohler
   - "Design patterns pour Java" de Laurent Debrauwer
   - "Java Spring - Le socle technique des applications Java EE" de Hervé Le Morvan

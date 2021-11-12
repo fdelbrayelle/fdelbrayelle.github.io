@@ -16,7 +16,7 @@ title: Développeur Full-Stack / Tech Lead senior - Architecte Solutions junior
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: fdelbrayelle
@@ -194,11 +194,11 @@ content:
           <h4>Galeries Lafayette - Depuis Février 2021</h4>
           <img alt="Logo des Galeries Lafayette" src="images/gl_logo.png" style="float: right; width: 250px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
-          <p style="font-weight: bold;">Référentiel des produits PIM pour le site e-commerce NewGL</p>
+          <p style="font-weight: bold;">Application web du site e-commerce des GL (PIM et tunnel de commandes)</p>
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Vente / E-Commerce</li>
-              <li>Business : Refonte du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> dans le cadre du programme accélérateur NewGL pour décommissionner le legacy et unifier les fiches produits avec STEP pour outil central du PIM</li>
+              <li>Business : Refonte du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> (B2C) dans le cadre du programme accélérateur NewGL pour décommissionner le legacy et unifier les fiches produits avec STEP pour outil central du PIM</li>
               <li>Méthodologique : Agile (Scrum - Sprints de 2 semaines - SAFe avec PI plannings mensuels)</li>
               <li>Équipe : +/- 10 personnes</li>
             </ul>
@@ -235,11 +235,11 @@ content:
           <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
           <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: right; width: 250px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes) - Télétravail partiel et intégral</p>
-          <p style="font-weight: bold;">Application web d'installation (Instala)</p>
+          <p style="font-weight: bold;">Application web d'installation de suivi des chantiers clients</p>
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Vente</li>
-              <li>Business : Déploiement à l'international (et notamment au Portugal et au Brésil) de l'application d'installation (<a href="https://instala.leroymerlin.fr" title="Instala" target="_blank" rel="noreferrer noopener">Instala</a>) liée au hub de pose des chantiers dans un secteur fortement concurrentiel (vente / e-commerce et chantiers de bricolage) avec convergence des applications françaises (LMFR) et portugaise (LMPT)</li>
+              <li>Business : Déploiement à l'international (et notamment au Portugal et au Brésil) de l'application intranet d'installation (<a href="https://instala.leroymerlin.fr" title="Instala" target="_blank" rel="noreferrer noopener">Instala</a>) liée au hub de pose des chantiers clients dans un secteur fortement concurrentiel (vente / e-commerce et chantiers de bricolage) avec convergence des applications françaises (LMFR) et portugaise (LMPT)</li>
               <li>Méthodologique : Agile (Scrum - Kanban - <em>No Estimates</em> - <em>3 Amigos</em> - <em>Squads</em>), équipe orientée produit selon le <a href="https://www.thiga.co/fr/livre-organisations-produit" title="Les organisations orientées Produit" target="_blank" rel="noreferrer noopener">référentiel Thiga</a> (OKR...)</li>
               <li>Équipe : +/- 25 personnes</li>
             </ul>
@@ -343,9 +343,9 @@ content:
               <li>Fonctionnel : Banque</li>
               <li>Business :
                 <ul>
-                  <li>Nouvelle version de l'application web de plate-forme d'acquisitions fournisseurs (PAF) (application monolithique entièrement nouvelle + plusieurs applications 100 % back pour l'appel aux fournisseurs via différents protocoles)</li>
-                  <li>Nouveaux écrans et maintien en condition opérationnelle (MCO) sur l'application web "Know Your Customer" (KYC) (mesure de sensibilité des dossiers de financement, automatisation des processus, rendu de décisions pour études en risque...)</li>
-                  <li>Nouvelle application web pour la mise en conformité avec le <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0679" title="règlement général sur la protection des données" target="_blank" rel="noreferrer noopener">règlement général sur la protection des données</a> (RGPD) (entré en vigueur le 25 mai 2018, délais courts) dans le cadre de la gestion des demandes d'accès ou de retrait des données personnelles</li>
+                  <li>Nouvelle version de l'application web intranet de plate-forme d'acquisitions fournisseurs (PAF) (application monolithique entièrement nouvelle + plusieurs applications 100 % back pour l'appel aux fournisseurs via différents protocoles)</li>
+                  <li>Nouveaux écrans et maintien en condition opérationnelle (MCO) sur l'application web intranet "Know Your Customer" (KYC) (mesure de sensibilité des dossiers de financement, automatisation des processus, rendu de décisions pour études en risque...)</li>
+                  <li>Nouvelle application web intranet pour la mise en conformité avec le <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0679" title="règlement général sur la protection des données" target="_blank" rel="noreferrer noopener">règlement général sur la protection des données</a> (RGPD) (entré en vigueur le 25 mai 2018, délais courts) dans le cadre de la gestion des demandes d'accès ou de retrait des données personnelles</li>
                 </ul>
               </li>
               <li>Méthodologique : Agile (Scrum - Sprints de 2 à 3 semaines)</li>
@@ -380,7 +380,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Assurance</li>
-              <li>Business : Implémenter de nouveaux écrans pour une application web de gestion des assurances</li>
+              <li>Business : Implémenter de nouveaux écrans pour une application web intranet de gestion des assurances</li>
               <li>Méthodologique : Cycles en V</li>
               <li>Équipe : +/- 5 personnes</li>
             </ul>
@@ -399,7 +399,7 @@ content:
           <h4>Lantik BFA - Décembre 2017 à Janvier 2018 (2 mois)</h4>
           <img alt="Logo de Lantik BFA" src="images/lantik_bfa_logo.jpg" style="float: right; width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
-          <p style="font-weight: bold;">Application web intranet du secteur public espagnol</p>
+          <p style="font-weight: bold;">Application web pour un portail du secteur public espagnol</p>
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Secteur public</li>
@@ -463,7 +463,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Assurance</li>
-              <li>Business : Implémenter le front pour une nouvelle application web de gestion des assurances 2 roues</li>
+              <li>Business : Implémenter le front pour une nouvelle application web intranet de gestion des assurances 2 roues</li>
               <li>Méthodologique : Cycles en V</li>
               <li>Équipe : +/- 5 personnes</li>
             </ul>
@@ -487,7 +487,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Banque / Finance</li>
-              <li>Business : Maintien en condition opérationnelle (MCO) et évolutions sur de la gestion des risques opérationnels et projets sensibles de finance</li>
+              <li>Business : Maintien en condition opérationnelle (MCO) et évolutions sur l'application web intranet gestion des risques opérationnels et autres projets sensibles liés à la finance</li>
               <li>Méthodologique : Cycles en V</li>
               <li>Équipe : +/- 10 personnes</li>
             </ul>
@@ -532,7 +532,7 @@ content:
               <li>Fonctionnel : Banque</li>
               <li>Business :
                 <ul>Maintien en condition opérationnelle (MCO) et évolutions :
-                  <li>Applications web pour la gestion des cartes "corporate" sur le site des cartes entreprise « corporate » BNP Paribas (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank" rel="noreferrer noopener">internet</a> et intranet)</li>
+                  <li>Applications web extranet pour la gestion des cartes "corporate" sur le site des cartes entreprise « corporate » BNP Paribas (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank" rel="noreferrer noopener">internet</a> et intranet)</li>
                   <li>Applications web RSDD, Souscription et RSDD CAFF</li>
                   <li>Serveur de notifications <em>push</em> (servlet recevant des requêtes depuis un <em>mainframe</em>) vers différentes applications mobiles de la BNP Paribas</li>
                   <li>Serveur vocal par téléphone</li>
@@ -593,7 +593,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Vente</li>
-              <li>Business : Structurer la présentation des produits pour les magasins</li>
+              <li>Business : Structurer la présentation des produits pour les magasins sur des applications web intranet</li>
               <li>Méthodologique : Agile (Scrum)</li>
               <li>Équipe : +/- 5 personnes</li>
             </ul>
@@ -620,7 +620,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Santé (secteur public)</li>
-              <li>Business : Application <a title="HArmonisation et Partage d'Information" href="http://hapi.cnsa.fr" target="_blank" rel="noreferrer noopener">HAPI</a> à destination des agences régionales de santé (ARS) pour harmoniser les processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux) dans le cadre de la loi <a title="Loi portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires" href="https://fr.wikipedia.org/wiki/Loi_portant_r%C3%A9forme_de_l'h%C3%B4pital_et_relative_aux_patients%2C_%C3%A0_la_sant%C3%A9_et_aux_territoires" target="_blank" rel="noreferrer noopener">HPST</a></li>
+              <li>Business : Application web extranet <a title="HArmonisation et Partage d'Information" href="http://hapi.cnsa.fr" target="_blank" rel="noreferrer noopener">HAPI</a> à destination des agences régionales de santé (ARS) pour harmoniser les processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux) dans le cadre de la loi <a title="Loi portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires" href="https://fr.wikipedia.org/wiki/Loi_portant_r%C3%A9forme_de_l'h%C3%B4pital_et_relative_aux_patients%2C_%C3%A0_la_sant%C3%A9_et_aux_territoires" target="_blank" rel="noreferrer noopener">HPST</a></li>
               <li>Méthodologique : Cycles en V</li>
               <li>Équipe : +/- 5 personnes</li>
             </ul>
@@ -644,11 +644,11 @@ content:
           <h4>3 Suisses - Mai 2012 à Novembre 2012 (6 mois)</h4>
           <img alt="Logo des 3 Suisses" src="images/3_suisses_logo.png" style="float: right" />
           <p style="font-style: italic; margin-top: 25px;">Régie (Croix)</p>
-          <p style="font-weight: bold;">Application web e-commerce B2C</p>
+          <p style="font-weight: bold;">Application web du site e-commerce des 3 Suisses (tunnel de commandes)</p>
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Vente / E-Commerce</li>
-              <li>Business : Refonte du tunnel de commandes du site <a title="3 SUISSES" href="https://3suisses.fr" target="_blank" rel="noreferrer noopener">3suisses.fr</a> dans un domaine très concurrentiel</li>
+              <li>Business : Refonte du tunnel de commandes du <a title="3 Suisses" href="https://3suisses.fr" target="_blank" rel="noreferrer noopener">site e-commerce des 3 Suisses</a> (B2C) dans un secteur fortement concurrentiel</li>
               <li>Méthodologique : Agile (Scrum / Kanban)</li>
               <li>Équipe : +/- 10 personnes</li>
             </ul>
@@ -676,7 +676,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Vente</li>
-              <li>Business : Maintien en condition opérationnelle (MCO) d'applications en fin de vie dans un contexte où le e-commerce explose</li>
+              <li>Business : Maintien en condition opérationnelle (MCO) d'applications web intranet en fin de vie dans un contexte où le e-commerce explose</li>
               <li>Méthodologique : Cycles en V</li>
               <li>Équipe : +/- 5 personnes</li>
             </ul>
@@ -724,6 +724,8 @@ content:
           Réalisation d'un <a title="Code source du jeu d'échecs" href="https://github.com/fdelbrayelle/echecs" target="_blank" rel="noreferrer noopener">jeu d'échecs</a> (sources) en Java avec <mark>Swing</mark> et les sockets pour le projet libre de deuxième année.
           
           Réalisation d'un <a title="Code source du minishell" href="https://github.com/fdelbrayelle/minishell" target="_blank" rel="noreferrer noopener">interpréteur en lignes de commande</a> (sources) en <mark>C</mark> dans le cadre du cours de programmation système.
+
+          Réalisation d'un solveur de <em>sudoku</em> en C++.
           
           Président du BDE du département informatique de l'IUT de Lens de 2006 à 2007.
 

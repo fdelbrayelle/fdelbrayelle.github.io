@@ -192,33 +192,79 @@ content:
           
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Galeries Lafayette - Depuis Février 2021</h4>
-          <img alt="Logo des Galeries Lafayette" src="images/gl_logo.png" style="float: left; width: 250px; margin: 25px;" />
+          <img alt="Logo des Galeries Lafayette" src="images/gl_logo.png" style="float: right; width: 250px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
           <p style="font-weight: bold;">Référentiel des produits PIM pour le site e-commerce NewGL</p>
-          <p><strong>Leader technique</strong> <em>back-end</em> sur une squad d'une dizaine de personnes dédiée au référentiel produits du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> : animation technique de l'équipe (points dévs), synchronisation avec d'autres tech leads, d'autres parties prenantes externes à l'équipe de développement, travail rapproché avec SM et PO, maintien d'un partage de connaissances avancé (capitalisation sur Confluence, ateliers...).</p>
-          <p>Architecture (ateliers de tech design, cartographie, impacts, capitalisation) et développement sur des APIs (Offer, Merch, Product, Asset) en <mark>architecture hexagonale</mark> qui communiquent entre eux notamment via <mark>Kafka</mark>. Mise en application de certains objectifs de belt architecture en mission (présentation d'ADRs, connaissance des stratégies de backup (RTO/RPO), remise en question de l'architecture en place, animation d'ateliers d'architecture, ...).</p>
-          <p>Monitoring des applications via <mark>Dynatrace</mark></p>
-          <p>Environnement : <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Kafka Connect</mark>, <mark>Aiven</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, SQL, Memorystore, Cloud Storage, Cloud Functions...)</mark>, <mark>Testcontainers</mark>, <mark>Cerberus</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>, <mark>git</mark>, <mark>Bitbucket</mark>, <mark>Jenkins</mark>, <mark>ArgoCD</mark>, <mark>Mirakl</mark>, <mark>STEP</mark>, <mark>Fredhopper</mark>, <mark>SAFe</mark>, <mark>Scrum</mark></p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Vente / E-Commerce</li>
+              <li>Business : Programme de refonte du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> dans le cadre du programme NewGL</li>
+              <li>Méthodologique : Agile (Scrum - Sprints de 2 semaines - SAFe avec PI plannings mensuels)</li>
+              <li>Équipe : +/- 10 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li><em>Tech lead</em> transverse sur le référentiel produits <em>Product Information Management</em> (PIM) et le tunnel de commandes</li>
+                  <li>Création et modification de micro-services avec approche <em>design first</em> (OpenAPI)</li>
+                  <li>Implémentation des micro-services en architecture hexagonale</li>
+                  <li>Utilisation de Kafka en <em>backbone</em> pour communiquer entre les différentes briques</li>
+                  <li>Conception UML de diagrammes de composants (cartographie du périmètre) et de séquences</li>
+                  <li>Animation d'ateliers techniques avec l'équipe et d'autres parties prenantes (ops, ...) et rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
+                  <li>Animation technique de l'équipe (points dévs)</li>
+                  <li>Points de synchronisation avec les <em>tech leads</em> des autres équipes</li>
+                  <li>Relance de la communauté des développeurs NewGL</li>
+                  <li>Support en tant qu'interlocuteur technique avec les différentes équipes et acteurs : front, BFF, application du portail vendeur, application d'encaissement, applications <em>legacy</em> et ops</li>
+                  <li>Collaboration rapprochée avec PO et SM</li>
+                  <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Confluence)</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement, tests : réalisation d'évolutions et correctifs sur les APIs et briques du périmètre (Offer, Merch, Product, Asset, Cart, Delivery, Payment, Customer, ...)</li>
+              <li>Mission 100 % <em>back-end</em> de REST APIs mais avec nécessité d'aller parfois comprendre le code des BFFs, du front (en Vue 3) ou de librairies Jenkins (en Groovy)</li>
+              <li>Utilisation d'outils relatifs au e-commerce : Mirakl (marketplace), STEP (PIM), Fredhopper (pages catalogues et facettes), Grand Shooting (gestion des <em>assets</em>), Target2Sell (moteur de recommandations), Early Birds, Hybris (<em>legacy</em>)...</li>
+              <li>Organisation 100 % <em>full remote</em> (Slack, Mural, Google Meet, <a href="https://plugins.jetbrains.com/plugin/14896-code-with-me" title="Plugin Code With Me pour IntelliJ" target="_blank" rel="noreferrer noopener">IntelliJ Code With Me</a>, ...) sur l'ensemble de la mission</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Python</mark>, <mark>Groovy</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Kafka Connect</mark>, <mark>Aiven</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, SQL, Memorystore, Cloud Storage, Cloud Functions...)</mark>, <mark>Testcontainers</mark>, <mark>Cerberus</mark>, <mark>Karate</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>, <mark>git</mark>, <mark>Bitbucket</mark>, <mark>Jenkins</mark>, <mark>ArgoCD</mark>, <mark>Dynatrace</mark></p>
           <hr style="margin: 25px 0; clear: left;" />
 
           <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
-          <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: left; width: 250px; margin: 25px;" />
+          <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: right; width: 250px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes) - Télétravail partiel et intégral</p>
           <p style="font-weight: bold;">Application web d'installation (Instala)</p>
-          <p><strong>Leader technique</strong> <em>back-end</em> et <em>front-end</em> sur une partie de l'application micro-services d'installation des produits sur la plate-forme de services du hub pose. Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>kanban</mark> ("no estimates"), <mark>squads</mark>, <mark>3 amigos</mark>.</p>
-          <p>Convergence des applications d'installation françaises (LMFR) et portugaise (LMPT). Co-construction de l'architecture pour matcher des plateformes partenaires d'artisans pour les produits d'une commande client. Mise en relation de ces plateformes avec l'application principale via des adapters. Mise en place du mode direct artisans.</p>
-          <p>Conception de composants front avec React et utilisation de Storybook.</p>
-          <p>Participation à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts Helm, utilisation de Terraform,  création/modification de pipelines GitHub Actions...</p>
-          <p>Travail sur la dette technique notamment lors d'une semaine dédiée en full remote (Discord, VS Code Live Share, Miro...) par streams alloués à des sujets spécifiques.</p>
-          <p><em>You build it, you run it!</em> Prise en charge du run à hauteur d'une semaine chaque mois environ.</p>
-          <p>Monitoring des applications via <mark>Datadog</mark></p>
-          <p style="font-weight: bold;">Participation à la guilde de développeurs de Leroy Merlin :</p>
-          <p>
+          <p><strong>Contexte :</strong>
             <ul>
-              <li>Retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot (21/02/2019)</li>
+              <li>Fonctionnel : Vente</li>
+              <li>Business : Déploiement à l'international (et notamment au Portugal et au Brésil) de l'application d'installation (<a href="https://instala.leroymerlin.fr" title="Instala" target="_blank" rel="noreferrer noopener">Instala</a>) liée au hub de pose des chantiers dans un secteur fortement concurrentiel (vente / e-commerce et chantier de bricolage) avec convergence des applications d'installation françaises (LMFR) et portugaise (LMPT)</li>
+              <li>Méthodologique : Agile (Scrum - Kanban - <em>No Estimates</em> - <em>3 Amigos</em> - <em>Squads</em>), équipe orientée produit selon le <a href="https://www.thiga.co/fr/livre-organisations-produit" title="Les organisations orientées Produit" target="_blank" rel="noreferrer noopener">référentiel Thiga</a> (OKR...)</li>
+              <li>Équipe : +/- 25 personnes</li>
             </ul>
           </p>
-          <p>Environnement : <mark>Java 11</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Kafka</mark>, <mark>Kafka Streams</mark>, <mark>Aiven</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Storybook</mark>, <mark>Scala</mark>, <mark>Google Cloud Platform</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>git</mark>, <mark>GitLab CI</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB Atlas</mark>, <mark>Cerberus</mark></p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li><em>Lead dev</em> sur l'une des squads de l'équipe produit en lien avec le <em>tech lead</em></li>
+                  <li>Création et modification de micro-services</li>
+                  <li>Co-construction de l'architecture pour <em>matcher</em> des plateformes partenaires d'artisans pour les produits d'une commande client et mise en relation de ces plateformes avec l'application principale via des adapters, mise en place du mode direct artisans</li>
+                  <li>Conception de nouveaux composants front avec React et utilisation de Storybook</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs <em>back-end</em> et <em>front-end</em> sur de nouveaux écrans</li>
+              <li>Contribution à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts Helm, utilisation de Terraform,  création/modification de pipelines GitHub Actions...</li>
+              <li>Réduction de la dette technique notamment lors de semaines dédiées par streams alloués à des sujets spécifiques</li>
+              <li>Prise en charge du run à hauteur d'une semaine chaque mois environ : <em>You build it, you run it!</em></li>
+              <li>Participation à la guilde de développeurs de Leroy Merlin : retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot (21/02/2019)</li>
+              <li>Organisation <em>remote</em> et <em>full remote</em> (Discord, <a href="https://code.visualstudio.com/learn/collaboration/live-share" title="Collaborate with Live Share" target="_blank" rel="noreferrer noopener">VS Code Live Share</a>, Miro, Slack, Google Meet...) pendant une partie de la mission</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 11</mark>, <mark>Scala</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Quarkus</mark>, <mark>Kafka</mark>, <mark>Kafka Streams</mark>, <mark>Aiven</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Storybook</mark>, <mark>Google Cloud Platform (Kubernetes Engine, SQL, ...)</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>git</mark>, <mark>GitLab CI</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MongoDB Atlas</mark>, <mark>Cerberus</mark>, <mark>Datadog</mark></p>
           <hr style="margin: 25px 0; clear: left;" />
 
       - layout: left
@@ -289,55 +335,149 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>BNP Leasing Solutions - Avril 2018 à Septembre 2019 (18 mois)</h4>
-          <img alt="Logo de BNP Leasing Solutions" src="images/bpls_logo.png" style="float: left; width: 300px; margin: 25px;" />
+          <img alt="Logo de BNP Leasing Solutions" src="images/bpls_logo.png" style="float: right; width: 300px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille) - Télétravail partiel</p>
-          <p style="font-weight: bold;">Application web de plate-forme d'acquisitions fournisseurs (PAF)</p>
-          <p><strong>Leader technique</strong> sur la version 2 de la plate-forme d'acquisitions fournisseurs (application monolithique entièrement nouvelle + plusieurs applications 100 % back pour l'appel aux fournisseurs via différents protocoles). Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>agile</mark> (sprints de 3 semaines).</p>
-          <p>Utilisation de JHipster pour générer les applications sur Angular 7 et Spring Boot 2 après présentations techniques pour retenir ce choix. Accompagnement du client pour le lancement d'un blueprint JHipster avec des parties spécifiques (authentification Web SSO SAML V2, gestion des logs, base de données Oracle, charte graphique et thème).</p>
-          <p>Participation aux réunions d'architecture et force de proposition sur de nombreux sujets pour la mise en place.</p>
-          <p style="font-weight: bold;">Application web "Know Your Customer" (KYC)</p>
-          <p>Développeur senior dans une équipe de cinq développeurs. Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu sur le projet KYC (mesure de sensibilité des dossiers de financement, automatisation des processus, rendu de décisions pour études en risque...). Fonctionnement <mark>agile</mark> (sprints de 2 à 3 semaines). Participation à la mise en place de la TMA (appel d'offres). Projet pilote chez BPLS sur plusieurs sujets (DevOps, Liquibase, ELK, OWASP...).</p>
-          <p>Production d'un document avec propositions dans le cadre d'un audit d'amélioration continue : mise en place de pipelines CI/CD, prévention des fuites mémoire, migration vers Java 11, migration de AngularJS vers Angular, mise en place de tests de montée en charge (JMeter), etc.</p>
-          <p style="font-weight: bold;">Application web pour le RGPD</p>
-          <p><strong>Leader technique</strong> sur l'application de mise en conformité avec le règlement général sur la protection des données (entrée en vigueur le 25 mai 2018, délais courts). Conception, analyse technique, développement, tests unitaires et intégration/déploiement en continu. Fonctionnement <mark>agile</mark> (sprint planning, daily meetings, scrum pokers).</p>
-          <p>Environnement : <mark>Java 8</mark>, <mark>Java 11</mark>, <mark>JHipster</mark>, <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Spring Data JPA</mark>, <mark>Spring Batch</mark>, <mark>Spring JMS</mark>, <mark>ActiveMQ</mark>, <mark>TIBCO JMS</mark>, <mark>Hibernate</mark>, <mark>Hibernate Envers</mark>, <mark>Netflix Zuul</mark>, <mark>Oracle</mark>, <mark>Liquibase</mark>, <mark>IBM WebSphere Liberty Profile</mark>, <mark>UML</mark>, <mark>Merise</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
+          <p style="font-weight: bold;">Applications web multiples</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Banque</li>
+              <li>Business :
+                <ul>
+                  <li>Nouvelle version de l'application web de plate-forme d'acquisitions fournisseurs (PAF) (application monolithique entièrement nouvelle + plusieurs applications 100 % back pour l'appel aux fournisseurs via différents protocoles)</li>
+                  <li>Nouveaux écrans et maintien en condition opérationnelle (MCO) sur l'application web "Know Your Customer" (KYC) (mesure de sensibilité des dossiers de financement, automatisation des processus, rendu de décisions pour études en risque...)</li>
+                  <li>Nouvelle application web pour la mise en conformité avec le <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0679" title="règlement général sur la protection des données" target="_blank" rel="noreferrer noopener">règlement général sur la protection des données</a> (RGPD) (entré en vigueur le 25 mai 2018, délais courts) dans le cadre de la gestion des demandes d'accès ou de retrait des données personnelles</li>
+                </ul>
+              </li>
+              <li>Méthodologique : Agile (Scrum - Sprints de 2 à 3 semaines)</li>
+              <li>Équipe : +/- 10 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Contributions aux dossiers d'architecture technique (DAT)</li>
+                  <li>Production d'un document avec propositions dans le cadre d'un audit d'amélioration continue : mise en place de pipelines CI/CD, prévention des fuites mémoire, migration vers Java 11, migration de AngularJS vers Angular, mise en place de tests de montée en charge (JMeter), ...</li>
+                  <li>Conception avec approche <em>design first</em> (Swagger)</li>
+                  <li>Analyse technique</li>
+                  <li>Participation aux réunions d'architecture et force de proposition sur de nombreux sujets du projet pilote (PAF v2) chez le client sur plusieurs sujets (DevOps, Liquibase, ELK, OWASP...)</li>
+                  <li>Participation à la mise en place de la tierce maintenance applicative (TMA) lors de l'appel d'offres</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI/CD, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur plusieurs lots</li>
+              <li>Étude d'impacts de la mise en place et mise en place de JHipster pour générer les applications sur Angular 7 et Spring Boot 2 après présentations techniques auprès du client pour retenir ce choix. Accompagnement du client pour le lancement d'un blueprint JHipster avec des parties spécifiques à son SI (authentification Web SSO SAML V2, gestion des logs, base de données Oracle, charte graphique et thème)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 8</mark>, <mark>Java 11</mark>, <mark>JHipster</mark>, <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Spring Data JPA</mark>, <mark>Spring Batch</mark>, <mark>Spring JMS</mark>, <mark>ActiveMQ</mark>, <mark>TIBCO JMS</mark>, <mark>Hibernate</mark>, <mark>Hibernate Envers</mark>, <mark>Netflix Zuul</mark>, <mark>Oracle</mark>, <mark>Liquibase</mark>, <mark>IBM WebSphere Liberty Profile</mark>, <mark>UML</mark>, <mark>Merise</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Pacifica - Février 2018 à Mars 2018 (2 mois)</h4>
-          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: left; margin: 25px; width: 25%;" />
+          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
           <p style="font-weight: bold;">Application web pour les assurances</p>
-          <p>Projet quasiment 100 % frontend. Développement et tests unitaires front sur de nouveaux écrans du projet existant NewSesame sur les cotisations financières (incidents de paiement).</p>
-          <br /><br />
-          <p>Environnement : <mark>Angular</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Jenkins</mark></p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Assurance</li>
+              <li>Business : Implémenter de nouveaux écrans pour une application web de gestion des assurances</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement, tests : réalisation d'évolutions et correctifs sur de nouveaux écrans du projet existant NewSesame sur les cotisations financières (incidents de paiement)</li>
+              <li>Mission 100 % <em>front-end</em> avec liens entre les étapes et appels au <em>back-end</em> Spring Boot <em>mockés</em> en JSON</li>
+              <li><em>Software craftsmanship</em> : revue de code, <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Angular</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Jenkins</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Lantik BFA - Décembre 2017 à Janvier 2018 (2 mois)</h4>
-          <img alt="Logo de Lantik BFA" src="images/lantik_bfa_logo.jpg" style="float: left; width: 300px;" />
+          <img alt="Logo de Lantik BFA" src="images/lantik_bfa_logo.jpg" style="float: right; width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
           <p style="font-weight: bold;">Application web intranet du secteur public espagnol</p>
-          <p>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement sur plusieurs projets pour la <a title="Députation forale de Biscaye" href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank" rel="noreferrer noopener">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol).</p>
-          <p>Mise en place de l'environnement du client et des différents projets au centre de services de Gfi Informatique Lille. Suivi, encadrement, formation et affectation des tâches techniques aux développeurs juniors. Communication en anglais et espagnol au quotidien avec le client et l'équipe de Bilbao.</p>
-          <p>Environnement : <mark>Java</mark>, <mark>JSF 2.1</mark>, <mark>EJB</mark>, <mark>JBoss</mark>, <mark>Jenkins</mark></p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Secteur public</li>
+              <li>Business : Transformation digitiale du SI interne de la <a title="Députation forale de Biscaye" href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank" rel="noreferrer noopener">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol)</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 10 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Mise en place de l'environnement technique du client et des différents projets au sein du centre de services de Gfi Informatique Lille</li>
+                  <li>Suivi, accompagnement, formation et affectation des tâches techniques aux développeurs juniors</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur plusieurs projets</li>
+              <li>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement</li>
+              <li>Communication en anglais et en espagnol au quotidien avec le client et l'équipe de Bilbao</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java</mark>, <mark>JSF 2.1</mark>, <mark>EJB</mark>, <mark>JBoss</mark>, <mark>Jenkins</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Société générale - Octobre 2017 à Novembre 2017 (2 mois)</h4>
-          <img alt="Logo de la Société générale" src="images/sg_logo.png" style="float: left; width: 250px; margin: 12px;" />
+          <img alt="Logo de la Société générale" src="images/sg_logo.png" style="float: right; width: 250px; margin: 12px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
           <p style="font-weight: bold;">Services Métier Distants (API)</p>
-          <p>Conception (Swagger), développement et tests sur le projet de "servitization". Projet 100 % backend de REST API pour fédérer les appelants et appelés sur le SI Société générale.</p>
-          <p>Encadrement de développeurs débutants (alternants, stagiaires et prestataires), revue de code. Expertise technique pour le lancement du projet.</p>
-          <p>Déplacement d'une journée avec toute l'équipe sur le site de la Société Générale à Fontenay-sous-Bois pour prise de connaissances au lancement du projet.</p>
-          <p>Environnement : <mark>Java 8</mark>, <mark>Jersey</mark>, <mark>Netflix Hystrix</mark>, <mark>JAX-RS</mark>, <mark>JAX-WS</mark>, <mark>Tanit</mark>, <mark>Comporsys</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Banque</li>
+              <li>Business : Moderniser le back-end pour fédérer les appelants et appelés sur le système d'information de la Société générale</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Création de micro-services (APIsation de plusieurs services existants) avec approche <em>design first</em> (Swagger)</li>
+                  <li>Accompagnement de développeurs débutants (alternants, stagiaires et prestataires)</li>
+                  <li>Expertise technique pour le lancement du projet</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs</li>
+              <li>Mission 100 % <em>back-end</em> de REST APIs</li>
+              <li>Prise de connaissances au lancement du projet avec déplacement d'une journée avec toute l'équipe sur le site de la Société Générale à Fontenay-sous-Bois</li>
+            </ul>
+          </p>          
+          <p><strong>Environnement :</strong> <mark>Java 8</mark>, <mark>Jersey</mark>, <mark>Netflix Hystrix</mark>, <mark>JAX-RS</mark>, <mark>JAX-WS</mark>, <mark>Tanit</mark>, <mark>Comporsys</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Pacifica - Juillet 2017 à Septembre 2017 (3 mois)</h4>
-          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: left; margin: 25px; width: 25%;" />
+          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
           <p style="font-weight: bold;">Application web pour les assurances 2 roues</p>
-          <p>Projet quasiment 100 % frontend. Développement et tests unitaires front sur la refonte d'une partie du projet NewSesame pour les assurances deux roues (A2), partie formules et options, liens entre les étapes et appels au back (utilisation de mocks en JSON).</p>
-          <p>Analyse de code existant en AngularJS sur la partie assurances quatre roues (A4) pour orienter les développements en Angular.</p>
-          <p>Environnement : <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Jenkins</mark></p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Assurance</li>
+              <li>Business : Implémenter le front pour une nouvelle application web de gestion des assurances 2 roues</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur la refonte d'une partie du projet NewSesame pour les assurances deux roues (A2) (partie formules et options)</li>
+              <li>Mission 100 % <em>front-end</em> avec liens entre les étapes et appels au <em>back-end</em> Spring Boot <em>mockés</em> en JSON</li>
+              <li><em>Software craftsmanship</em> : revue de code, <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Analyse de code existant en AngularJS sur la partie assurances quatre roues (A4) pour orienter les développements en Angular</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Jenkins</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Crédit agricole - Janvier 2016 à Juin 2017 (18 mois)</h4>
@@ -354,11 +494,20 @@ content:
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li><strong>Architecture et leading technique</strong> : contributions aux dossiers d'architecture technique (DAT), ateliers de conception, réunions avec le client, analyses techniques avec études d'impacts, transmission des bonnes pratiques et rédaction des spécifications techniques détaillées (STD) (sur un périmètre de plusieurs applications Java EE pour les filiales et caisses régionales web), intégration et accueil des nouveaux développeurs (formation et passage de connaissances)</li>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Contributions aux dossiers d'architecture technique (DAT)</li>
+                  <li>Ateliers de conception avec l'équipe et réunions avec le client</li>
+                  <li>Analyses techniques avec études d'impacts</li>
+                  <li>Transmission des bonnes pratiques</li>
+                  <li>Rédaction des spécifications techniques détaillées (STD) (sur un périmètre de plusieurs applications Java EE pour les filiales et caisses régionales web)</li>
+                  <li>Intégration et accueil des nouveaux développeurs (formation et passage de connaissances)</li>
+                </ul>
+              </li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Prise du rôle de responsable d'application et backup de développeurs</li>
-              <li>Études, développement, tests : réalisation d'évolutions et correctifs sur plusieurs lots</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur plusieurs lots</li>
               <li>Conception des modèles objets</li>
               <li>Chiffrages, abaques et devis sur des évolutions futures</li>
               <li>Analyses causales d'incidents de production</li>
@@ -395,7 +544,14 @@ content:
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li><strong>Architecture et leading technique</strong> : contributions aux dossiers d'architecture technique (DAT), ateliers de conception, transmission des bonnes pratiques, rédaction de spécifications techniques détaillées (STD) via RSM pour le centre de services offshore RSDD...</li>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Contributions aux dossiers d'architecture technique (DAT)</li>
+                  <li>Ateliers de conception</li>
+                  <li>Transmission des bonnes pratiques</li>
+                  <li>Rédaction de spécifications techniques détaillées (STD) via RSM pour le centre de services offshore RSDD</li>
+                </ul>
+              </li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement et tests dans le cadre de la tierce maintenance applicative (TMA) : correction d’anomalies, suivi des demandes et incidents et réalisation d’évolutions</li>

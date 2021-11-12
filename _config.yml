@@ -207,7 +207,7 @@ content:
             <ul>
               <li><strong>Architecture et leading technique</strong> :
                 <ul>
-                  <li><em>Tech lead</em> transverse sur le référentiel produits <em>Product Information Management</em> (PIM) et le tunnel de commandes</li>
+                  <li><em>Tech lead</em> transverse sur le <em>Product Information Management</em> (PIM) et le tunnel de commandes</li>
                   <li>Création et modification de micro-services avec approche <em>design first</em> (OpenAPI)</li>
                   <li>Implémentation des micro-services en architecture hexagonale</li>
                   <li>Utilisation de Kafka en <em>backbone</em> pour communiquer entre les différentes briques</li>
@@ -225,7 +225,7 @@ content:
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement, tests : réalisation d'évolutions et correctifs sur les APIs et briques du périmètre (Offer, Merch, Product, Asset, Cart, Delivery, Payment, Customer, ...)</li>
               <li>Mission 100 % <em>back-end</em> de REST APIs mais avec nécessité d'aller parfois comprendre le code des BFFs, du front (en Vue 3) ou de librairies Jenkins (en Groovy)</li>
-              <li>Utilisation d'outils relatifs au e-commerce : Mirakl (marketplace), STEP (PIM), Fredhopper (pages catalogues et facettes), Grand Shooting (gestion des <em>assets</em>), Target2Sell (moteur de recommandations), Early Birds, Hybris (<em>legacy</em>)...</li>
+              <li>Utilisation d'outils relatifs au e-commerce : Mirakl (marketplace), STEP (PIM), Fredhopper (pages catalogues et facettes), Grand Shooting (<em>assets</em>), Target2Sell (moteur de recommandations), Early Birds, Hybris (<em>legacy</em>)...</li>
               <li>Organisation 100 % <em>full remote</em> (Slack, Mural, Google Meet, <a href="https://plugins.jetbrains.com/plugin/14896-code-with-me" title="Plugin Code With Me pour IntelliJ" target="_blank" rel="noreferrer noopener">IntelliJ Code With Me</a>, ...) sur l'ensemble de la mission</li>
             </ul>
           </p>

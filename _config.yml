@@ -198,7 +198,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Vente / E-Commerce</li>
-              <li>Business : Programme de refonte du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> dans le cadre du programme NewGL</li>
+              <li>Business : Refonte du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> dans le cadre du programme accélérateur NewGL pour décommissionner le legacy et unifier les fiches produits avec STEP pour outil central du PIM</li>
               <li>Méthodologique : Agile (Scrum - Sprints de 2 semaines - SAFe avec PI plannings mensuels)</li>
               <li>Équipe : +/- 10 personnes</li>
             </ul>
@@ -239,7 +239,7 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Vente</li>
-              <li>Business : Déploiement à l'international (et notamment au Portugal et au Brésil) de l'application d'installation (<a href="https://instala.leroymerlin.fr" title="Instala" target="_blank" rel="noreferrer noopener">Instala</a>) liée au hub de pose des chantiers dans un secteur fortement concurrentiel (vente / e-commerce et chantier de bricolage) avec convergence des applications d'installation françaises (LMFR) et portugaise (LMPT)</li>
+              <li>Business : Déploiement à l'international (et notamment au Portugal et au Brésil) de l'application d'installation (<a href="https://instala.leroymerlin.fr" title="Instala" target="_blank" rel="noreferrer noopener">Instala</a>) liée au hub de pose des chantiers dans un secteur fortement concurrentiel (vente / e-commerce et chantiers de bricolage) avec convergence des applications françaises (LMFR) et portugaise (LMPT)</li>
               <li>Méthodologique : Agile (Scrum - Kanban - <em>No Estimates</em> - <em>3 Amigos</em> - <em>Squads</em>), équipe orientée produit selon le <a href="https://www.thiga.co/fr/livre-organisations-produit" title="Les organisations orientées Produit" target="_blank" rel="noreferrer noopener">référentiel Thiga</a> (OKR...)</li>
               <li>Équipe : +/- 25 personnes</li>
             </ul>

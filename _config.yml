@@ -262,7 +262,7 @@ content:
               <li>Organisation <em>remote</em> et <em>full remote</em> (Discord, <a href="https://code.visualstudio.com/learn/collaboration/live-share" title="Collaborate with Live Share" target="_blank" rel="noreferrer noopener">VS Code Live Share</a>, Miro, Slack, Google Meet...) pendant une partie de la mission</li>
             </ul>
           </p>
-          <p><strong>Environnement :</strong> <mark>Java 11</mark>, <mark>Scala</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Quarkus</mark>, <mark>Kafka</mark>, <mark>Kafka Streams</mark>, <mark>Aiven</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Storybook</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Cloud SQL, ...)</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>git</mark>, <mark>GitLab CI</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MongoDB Atlas</mark>, <mark>Cerberus</mark>, <mark>Datadog</mark></p>
+          <p><strong>Environnement :</strong> <mark>Java 11</mark>, <mark>Scala</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Quarkus</mark>, <mark>Kafka</mark>, <mark>Kafka Streams</mark>, <mark>Aiven</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Storybook</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Cloud SQL, ...)</mark>, <mark>Google Data Studio</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>git</mark>, <mark>GitLab CI</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MongoDB Atlas</mark>, <mark>Cerberus</mark>, <mark>Datadog</mark></p>
           <hr style="margin: 25px 0; clear: left;" />
 
       - layout: left
@@ -416,7 +416,7 @@ content:
               </li>
               <li><em>Software craftsmanship</em> : revue de code, <mark>pair-programming</mark>, CI, mocks, ...</li>
               <li>Études, développement et tests : réalisation d'évolutions et correctifs sur plusieurs projets</li>
-              <li>Déplacement pour prise de connaissances de 3 jours sur le site de Gfi Informatique Bilbao en Espagne pour reprise de tâches de développement</li>
+              <li>Prise de connaissances pour reprise de tâches de développement avec déplacement de 3 jours sur le site de Gfi Informatique Bilbao en Espagne</li>
               <li>Communication en anglais et en espagnol au quotidien avec le client et l'équipe de Bilbao</li>
             </ul>
           </p>

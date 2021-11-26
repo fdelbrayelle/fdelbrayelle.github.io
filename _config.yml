@@ -126,20 +126,20 @@ content:
             <h4>Capitalisation :</h4>
             <br />
             <p>
-              <strong>Formations données :</strong>
+              <strong>🧑‍🏫 Formations données :</strong>
               <ul>
                 <li>Expert Spring (Core, Hibernate, JPA, Boot, Data, Batch, Web MVC, Security, Integration...) sur plusieurs sessions de 3 jours en interne Ippon et pour des clients (Brittany Ferries)</li>
               </ul>
             </p>
             <p>
-              <strong>Formations reçues :</strong>
+              <strong>👨‍🎓 Formations reçues :</strong>
               <ul>
                 <li>Interne API management (2 jours) avec <a href="https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/1-introduction?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.architect-api-integration" target="_blank" rel="noreferrer noopener">exercices sur Azure API Management</a></li>
                 <li><a title="Formation Udemy Apache Kafka" href="https://www.udemy.com/course/apache-kafka/" target="_blank" rel="noreferrer noopener">Udemy Apache Kafka</a> avec pour objectif la certification <a title="Confluent Certified Developer for Apache Kafka" href="https://www.confluent.io/certification/" target="_blank" rel="noreferrer noopener">Confluent Certified Developer for Apache Kafka</a></li>
               </ul>
             </p>
             <p>
-              <strong>Blog Ippon :</strong>
+              <strong>📰 Blog Ippon :</strong>
               <ul>
                 <li>Référent du <a title="Blog Ippon" href="https://blog.ippon.fr" target="_blank" rel="noreferrer noopener">blog Ippon</a> pour la <em>practice full-stack</em> (organisation, accompagnement, choix éditoriaux...)</li>
                 <li>Articles écrits :</li>
@@ -151,7 +151,7 @@ content:
               </ul>
             </p>
             <p>
-              <strong><em>Talks</em> donnés :</strong>
+              <strong>🗣️ <em>Talks</em> donnés :</strong>
               <ul>              
                 <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a> (24/02/2020)</li>
                 <li>Présentation de JHipster en midi technique à l'école Epitech Lille (27/11/2019)</li>
@@ -159,7 +159,7 @@ content:
               </ul>
             </p>
             <p>
-              <strong>Participation (spectateur) à des conférences :</strong>
+              <strong>🌍 Participation (spectateur) à des conférences :</strong>
               <ul>
                 <li><a title="Cloud Nord 2021" href="https://cloudnord.fr/programme2021" target="_blank" rel="noreferrer noopener">Cloud Nord</a> 2021</li>
                 <li><a title="WebStories 2021" href="https://webstoriesconf.com" target="_blank" rel="noreferrer noopener">WebStories</a> 2021</li>
@@ -173,20 +173,20 @@ content:
             <h4>Évolution et vie d'agence :</h4>
             <br />
             <p>
-              <strong><em>Black Belt</em> (programme d'objectifs d'évolution) :</strong>
+              <strong>🥋 <em>Black Belt</em> (programme d'objectifs d'évolution) :</strong>
               <ul>
-                <li><em>Solution Architecture</em> : <em>green belt</em> en cours (2/14 objectifs validés)</li>
-                <li><em>Full-Stack</em> : <em>brown belt</em> en cours (11/12 objectifs validés)</li>
+                <li><em>Solution Architecture</em> : 🟢 <em>green belt</em> en cours (6/14 objectifs validés)</li>
+                <li><em>Full-Stack</em> : 🟤 <em>brown belt</em> en cours (11/12 objectifs validés)</li>
               </ul>
             </p>
             <p>
-              <strong><em>Mentoring</em> :</strong>
+              <strong>🧙‍♂️ <em>Mentoring</em> :</strong>
               <ul>
                 <li>Encadrement de plusieurs développeurs <em>full-stack</em> plus junior (belts orange, bleu et verte) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
               </ul>
             </p>
             <p>
-              <strong>Auditeur pour entretiens techniques</strong> de profils de différents niveaux (stagiaires, alternants, débutants, confirmés) en lien avec le service RH.
+              <strong>🤝🏻 Auditeur pour entretiens techniques</strong> de profils de différents niveaux (stagiaires, alternants, débutants, confirmés) en lien avec le service RH.
             </p>
           </p>
           
@@ -228,7 +228,7 @@ content:
               <li>Organisation 100 % <em>full remote</em> (Slack, Mural, Google Meet, <a href="https://plugins.jetbrains.com/plugin/14896-code-with-me" title="Plugin Code With Me pour IntelliJ" target="_blank" rel="noreferrer noopener">IntelliJ Code With Me</a>, ...) sur l'ensemble de la mission</li>
             </ul>
           </p>
-          <p><strong>Environnement :</strong> <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Python</mark>, <mark>Groovy</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Kafka Connect</mark>, <mark>Aiven</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Cloud SQL, Memorystore, Cloud Storage, Cloud Functions...)</mark>, <mark>Testcontainers</mark>, <mark>Cerberus</mark>, <mark>Karate</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>, <mark>git</mark>, <mark>Bitbucket</mark>, <mark>Jenkins</mark>, <mark>ArgoCD</mark>, <mark>Dynatrace</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <p><strong>Environnement :</strong> <mark>Java 12+</mark>, <mark>Kotlin</mark>, <mark>Python</mark>, <mark>Groovy</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Kafka Connect</mark>, <mark>Aiven</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Cloud SQL, Memorystore, Cloud Storage, Cloud Functions, BigQuery, ...)</mark>, <mark>Testcontainers</mark>, <mark>Cerberus</mark>, <mark>Karate</mark>, <mark>Terraform</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>, <mark>git</mark>, <mark>Bitbucket</mark>, <mark>Jenkins</mark>, <mark>ArgoCD</mark>, <mark>Dynatrace</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
           <hr style="margin: 25px 0; clear: left;" />
 
           <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
@@ -280,20 +280,20 @@ content:
             <h4>Capitalisation :</h4>
             <br />
             <p>
-              <strong>Formations données :</strong>
+              <strong>🧑‍🏫 Formations données :</strong>
               <ul>
                 <li><strong>Java EE</strong> et <strong>Spring</strong> entre avril 2015 et septembre 2019 lors des sessions "Welcome" de deux semaines (plusieurs fois par an)</li>
                 <li><strong>Angular</strong> et <strong>AngularJS</strong></li>
               </ul>
             </p>
             <p>
-              <strong>Formations reçues :</strong>
+              <strong>👨‍🎓 Formations reçues :</strong>
               <ul>
                 <li>IBM WebSphere Application Server v8.5.5 - Administration (5 jours à temps plein - IB Formation)</li>
               </ul>
             </p>
             <p>
-              <strong><em>Talks</em> donnés :</strong>
+              <strong>🗣️ <em>Talks</em> donnés :</strong>
               <ul>
                 <li>Midi technique sur <a title="Midi technique sur Micronaut et Quarkus" href="https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus" target="_blank" rel="noreferrer noopener">Micronaut et Quarkus</a></li>
                 <li>Midi technique sur <a title="Midi technique sur Kubernetes" href="https://github.com/fdelbrayelle/midi-tech-k8s" target="_blank" rel="noreferrer noopener">Kubernetes</a></li>
@@ -303,7 +303,7 @@ content:
               </ul>
             </p>
             <p>
-              <strong>Participation (spectateur) à des conférences :</strong>
+              <strong>🌍 Participation (spectateur) à des conférences :</strong>
               <ul>
                 <li><a title="DevFest Lille" href="http://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2017 et 2019</li>
                 <li><a title="JHipster Conf" href="https://jhipster-conf.github.io" target="_blank" rel="noreferrer noopener">JHipster Conf</a> 2</li>
@@ -312,14 +312,14 @@ content:
               </ul>
             </p>
             <p>
-              <strong>Organisation de challenges techniques en interne</strong>
+              <strong>🚀 Organisation de challenges techniques en interne</strong>
             </p>
           </p>
           <p style="margin-top: 25px;">
             <h4>Membre actif de la communauté des experts techniques :</h4>
             <br />
             <p>
-              <strong>Interventions techniques ponctuelles sur divers projets :</strong>
+              <strong>🖥️ Interventions techniques ponctuelles sur divers projets :</strong>
               <ul>
                 <li>Configuration d'applications sur <mark>IBM WebSphere Application Server</mark></li>
                 <li>Consultation sur des projets <mark>Spring Batch</mark></li>
@@ -329,7 +329,7 @@ content:
               </ul>
             </p>
             <p>
-              <strong>Auditeur pour entretiens techniques</strong> de profils de différents niveaux (stagiaires, alternants, débutants, confirmés) en lien avec le service RH.
+              <strong>🤝🏻 Auditeur pour entretiens techniques</strong> de profils de différents niveaux (stagiaires, alternants, débutants, confirmés) en lien avec le service RH.
             </p>
           </p>
 

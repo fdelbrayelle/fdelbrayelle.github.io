@@ -144,9 +144,10 @@ content:
                 <li>Référent du <a title="Blog Ippon" href="https://blog.ippon.fr" target="_blank" rel="noreferrer noopener">blog Ippon</a> pour la <em>practice full-stack</em> (organisation, accompagnement, choix éditoriaux...)</li>
                 <li>Articles écrits :</li>
                 <ul>
-                  <li><a target="WebStories Lille 2021" href="https://blog.ippon.fr/2021/02/26/webstories-lille-2021/" target="_blank" rel="noreferrer noopener">WebStories Lille 2021</a></li>
-                  <li><a target="Kafka et JHipster ? C'est possible !" href="https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/" target="_blank" rel="noreferrer noopener">Kafka et JHipster ? C'est possible !</a></li>
-                  <li><a target="Créer un module JHipster : une façon de contribuer à l’open source" href="https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/" target="_blank" rel="noreferrer noopener">Créer un module JHipster : une façon de contribuer à l’open source</a></li>
+                <li><a target="Liquibase dans un init container sur GCP" href="https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/" target="_blank" rel="noreferrer noopener">Liquibase dans un init container sur GCP</a></li>
+                <li><a target="Créer un module JHipster : une façon de contribuer à l’open source" href="https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/" target="_blank" rel="noreferrer noopener">Créer un module JHipster : une façon de contribuer à l’open source</a></li>
+                <li><a target="Kafka et JHipster ? C'est possible !" href="https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/" target="_blank" rel="noreferrer noopener">Kafka et JHipster ? C'est possible !</a></li>
+                <li><a target="WebStories Lille 2021" href="https://blog.ippon.fr/2021/02/26/webstories-lille-2021/" target="_blank" rel="noreferrer noopener">WebStories Lille 2021</a></li>
                 </ul>
               </ul>
             </p>

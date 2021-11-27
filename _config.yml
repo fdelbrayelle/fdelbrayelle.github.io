@@ -176,8 +176,8 @@ content:
             <p>
               <strong>🥋 <em>Black Belt</em> (programme d'objectifs d'évolution) :</strong>
               <ul>
-                <li><em>Solution Architecture</em> : 🟢 <em>green belt</em> en cours (6/14 objectifs validés)</li>
-                <li><em>Full-Stack</em> : 🟤 <em>brown belt</em> en cours (11/12 objectifs validés)</li>
+                <li>🟢 <em>Solution Architecture</em> : <em>green belt</em> en cours (6/14 objectifs validés)</li>
+                <li>🟤 <em>Full-Stack</em> : <em>brown belt</em> en cours (11/12 objectifs validés)</li>
               </ul>
             </p>
             <p>
@@ -577,7 +577,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img alt="Logo de Norsys" src="images/norsys_logo.jpg" style="width: 325px;" />
           <p>
-            <h4>Formations reçues :</h4>
+            <h4>👨‍🎓 Formations reçues :</h4>
             <br />
             <p>
               <ul>

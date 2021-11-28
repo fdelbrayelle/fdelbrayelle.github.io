@@ -258,6 +258,7 @@ content:
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement et tests : réalisation d'évolutions et correctifs <em>back-end</em> et <em>front-end</em> sur de nouveaux écrans</li>
+              <li>Participation à des <em>event stormings</em> pour faire émerger les besoins, domaines, évènements, agrégats...</li>
               <li>Contribution à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts Helm, utilisation de Terraform,  création/modification de pipelines GitHub Actions...</li>
               <li>Réduction de la dette technique notamment lors de semaines dédiées par streams alloués à des sujets spécifiques</li>
               <li>Prise en charge du run à hauteur d'une semaine chaque mois environ : <em>You build it, you run it!</em></li>

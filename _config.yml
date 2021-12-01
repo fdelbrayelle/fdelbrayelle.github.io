@@ -211,7 +211,7 @@ content:
                 <ul>
                   <li><em>Tech lead</em> transverse sur le <em>Product Information Management</em> (PIM) et le tunnel de commandes</li>
                   <li>Création et modification de micro-services avec approche <em>design first</em> (OpenAPI) et en architecture hexagonale pour l'implémentation</li>
-                  <li>Conception UML de diagrammes de composants (cartographie du périmètre) et de séquences</li>
+                  <li>Conception de diagrammes UML : composants (cartographie du périmètre), cas d'utilisations et de séquences</li>
                   <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Confluence)</li>
                   <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...) et rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
                   <li>Points de synchronisation avec les <em>tech leads</em> des autres équipes</li>

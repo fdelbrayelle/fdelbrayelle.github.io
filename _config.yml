@@ -221,6 +221,8 @@ content:
                 </ul>
               </li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li>Rôle de <em>scrum master</em> pour animer notamment l'équipe sur les rituels Scrum (<em>daily</em>, rétrospectives, ...)</li>
+              <li>Promotion de pratiques agiles et DevOps au sein de l'équipe et en relation avec les autres<li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement et tests : réalisation d'évolutions et correctifs sur les APIs et briques du périmètre (Offer, Merch, Product, Asset, Cart, Delivery, Payment, Customer, ...)</li>
               <li>Mission 100 % <em>back-end</em> de REST APIs mais avec nécessité d'aller parfois comprendre le code des BFFs, du front (en Vue 3) ou de librairies Jenkins (en Groovy)</li>

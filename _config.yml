@@ -213,7 +213,8 @@ content:
                   <li>Création et modification de micro-services avec approche <em>design first</em> (OpenAPI) et en architecture hexagonale pour l'implémentation</li>
                   <li>Conception de diagrammes UML : composants (cartographie du périmètre), cas d'utilisations et de séquences</li>
                   <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Confluence)</li>
-                  <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...) et rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
+                  <li>Rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
+                  <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...)</li>
                   <li>Points de synchronisation avec les <em>tech leads</em> des autres équipes</li>
                   <li>Relance de la communauté des développeurs NewGL</li>
                   <li>Support en tant qu'interlocuteur technique avec les différentes équipes et acteurs : front, BFF, application du portail vendeur, application d'encaissement, applications <em>legacy</em> et ops</li>
@@ -221,11 +222,11 @@ content:
                 </ul>
               </li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
-              <li>Rôle de <em>scrum master</em> pour animer notamment l'équipe sur les rituels Scrum (<em>daily</em>, rétrospectives, ...)</li>
-              <li>Promotion de pratiques agiles et DevOps au sein de l'équipe et en relation avec les autres</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement et tests : réalisation d'évolutions et correctifs sur les APIs et briques du périmètre (Offer, Merch, Product, Asset, Cart, Delivery, Payment, Customer, ...)</li>
               <li>Mission 100 % <em>back-end</em> de REST APIs mais avec nécessité d'aller parfois comprendre le code des BFFs, du front (en Vue 3) ou de librairies Jenkins (en Groovy)</li>
+              <li>Rôle de <em>scrum master</em> pour animer notamment l'équipe sur les rituels Scrum (<em>daily</em>, rétrospectives, ...)</li>
+              <li>Promotion de pratiques agiles et DevOps au sein de l'équipe et en relation avec les autres</li>
               <li>Utilisation de Kafka en <em>backbone</em> pour communiquer entre les différentes briques</li>
               <li>Utilisation d'outils relatifs au e-commerce : <a href="https://www.mirakl.fr/" title="Mirakl" target="_blank" rel="noreferrer noopener">Mirakl</a> (marketplace), <a href="https://www.stibosystems.com/fr/solution/step-mdm-platform" title="STEP" target="_blank" rel="noreferrer noopener">STEP</a> (PIM) (<em>Master Data Management</em>), <a href="https://attraqt.gitbook.io/developer-documentation/collect-online-users-activities/tracking-plans/fhr-complete" title="Fredhopper (FHR)" target="_blank" rel="noreferrer noopener">Fredhopper</a> (pages catalogues et facettes), <a href="https://www.grand-shooting.com/fr/" title="Grand Shooting" target="_blank" rel="noreferrer noopener">Grand Shooting</a> (gestion des <em>assets</em>), <a href="https://www.target2sell.com/produits/recommend/" title="Target2Sell" target="_blank" rel="noreferrer noopener">Target2Sell</a> (moteur de recommandations), <a href="https://www.attraqt.com/fr-fr/blog/attraqt-acquiert-eb/" title="Early Birds" target="_blank" rel="noreferrer noopener">Early Birds</a>, <a href="https://www.sap.com/france/acquired-brands/what-is-hybris.html" title="Hybris" target="_blank" rel="noreferrer noopener">Hybris</a> (<em>legacy</em>)...</li>
               <li>Organisation 100 % <em>full remote</em> (Slack, Mural, Google Meet, <a href="https://plugins.jetbrains.com/plugin/14896-code-with-me" title="Plugin Code With Me pour IntelliJ" target="_blank" rel="noreferrer noopener">IntelliJ Code With Me</a>, ...) sur l'ensemble de la mission</li>

@@ -177,13 +177,14 @@ content:
               <strong>🥋 <em>Black Belt</em> (programme d'objectifs d'évolution) :</strong>
               <ul>
                 <li>🟢 <em>Solution Architecture</em> : <em>green belt</em> en cours (6/14 objectifs validés)</li>
-                <li>🟤 <em>Full-Stack</em> : <em>brown belt</em> en cours (11/12 objectifs validés)</li>
+                <li>⚫ <em>Full-Stack</em> : <em>black belt</em> en cours (0/12 objectifs validés)</li>
+                <li>🟤 <em>Full-Stack</em> : <em>brown belt</em> validée (12/12 objectifs validés)</li>
               </ul>
             </p>
             <p>
               <strong>🧙‍♂️ <em>Mentoring</em> :</strong>
               <ul>
-                <li>Encadrement de plusieurs développeurs <em>full-stack</em> plus junior (belts orange, bleu et verte) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
+                <li>Encadrement de plusieurs développeurs <em>full-stack</em> plus junior (belts orange, verte, bleue, marron) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
               </ul>
             </p>
             <p>
@@ -219,6 +220,7 @@ content:
                   <li>Relance de la communauté des développeurs NewGL</li>
                   <li>Support en tant qu'interlocuteur technique avec les différentes équipes et acteurs : front, BFF, application du portail vendeur, application d'encaissement, applications <em>legacy</em> et ops</li>
                   <li>Collaboration rapprochée avec PO et SM</li>
+                  <li>Ateliers d'architecture pour accompagner la mise en place de SAP Commerce Cloud</li>
                 </ul>
               </li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>

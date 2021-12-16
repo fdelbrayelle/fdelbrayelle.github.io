@@ -134,7 +134,8 @@ content:
             <p>
               <strong>👨‍🎓 Formations reçues :</strong>
               <ul>
-                <li>Interne API management (2 jours) avec <a href="https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/1-introduction?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.architect-api-integration" target="_blank" rel="noreferrer noopener">exercices sur Azure API Management</a></li>
+                <li>Keycloak (2 jours en interne) avec exercices (utilisation de l'interface d'admin, <em>kcadm</em>, <em>social login</em>, création d'un <em>plugin</em>, personnalisation d'une page de <em>login</em>)</li>
+                <li>API management (2 jours en interne) avec <a href="https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/1-introduction?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.architect-api-integration" target="_blank" rel="noreferrer noopener">exercices sur Azure API Management</a></li>
                 <li><a title="Formation Udemy Apache Kafka" href="https://www.udemy.com/course/apache-kafka/" target="_blank" rel="noreferrer noopener">Udemy Apache Kafka</a> avec pour objectif la certification <a title="Confluent Certified Developer for Apache Kafka" href="https://www.confluent.io/certification/" target="_blank" rel="noreferrer noopener">Confluent Certified Developer for Apache Kafka</a></li>
               </ul>
             </p>
@@ -184,7 +185,7 @@ content:
             <p>
               <strong>🧙‍♂️ <em>Mentoring</em> :</strong>
               <ul>
-                <li>Encadrement de plusieurs développeurs <em>full-stack</em> plus junior (belts orange, verte, bleue, marron) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
+                <li>Encadrement de plusieurs développeurs <em>full-stack</em> plus junior (<em>belts</em> orange, verte, bleue, marron) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
               </ul>
             </p>
             <p>
@@ -223,7 +224,7 @@ content:
                   <li>Ateliers d'architecture pour accompagner la mise en place de SAP Commerce Cloud</li>
                 </ul>
               </li>
-              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement et tests : réalisation d'évolutions et correctifs sur les APIs et briques du périmètre (Offer, Merch, Product, Asset, Cart, Delivery, Payment, Customer, ...)</li>
               <li>Mission 100 % <em>back-end</em> de REST APIs mais avec nécessité d'aller parfois comprendre le code des BFFs, du front (en Vue 3) ou de librairies Jenkins (en Groovy)</li>
@@ -260,7 +261,7 @@ content:
                   <li>Conception de nouveaux composants front avec React et utilisation de Storybook</li>
                 </ul>
               </li>
-              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>, QA, UI/UX...), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement et tests : réalisation d'évolutions et correctifs <em>back-end</em> et <em>front-end</em> sur de nouveaux écrans</li>
               <li>Participation à des <em>event stormings</em> pour faire émerger les besoins, domaines, évènements, agrégats...</li>

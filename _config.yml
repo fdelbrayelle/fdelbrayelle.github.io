@@ -64,6 +64,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   Je cherche à approfondir mes compétences en particulier dans en <mark>architecture</mark> et <mark>DDD</mark> mais également dans les langages <mark>Kotlin</mark>, <mark>Go</mark> et <mark>Rust</mark>. Je souhaite aussi compléter mon savoir-faire sur les <em>cloud providers</em> (en particulier <mark>GCP</mark> et <mark>AWS</mark> mais également sur les fournisseurs français tels que <mark>Clever Cloud</mark>). Enfin je reste curieux sur les sujets qui constitueront des piliers dans un avenir proche : <mark>blockchain</mark>, <mark>machine learning</mark>, <mark>deep learning</mark>, <mark>edge computing</mark> et <mark>IoT</mark>.
 
+  <strong>Les certifications que j'ai passées :</strong>
+
+  - [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) de Google Cloud ([Credential](https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b?key=8f5de6e92912aa8a99a313d766af4a279615f0f3acd4ea48c23189c2765aa41e))
+
+  <img src="images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" />
+
   <strong>Les <em>talks</em> que j'ai donnés :</strong>
 
   - [Micronaut et Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)

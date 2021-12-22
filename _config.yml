@@ -230,7 +230,7 @@ content:
                   <li>Ateliers d'architecture pour accompagner la mise en place de SAP Commerce Cloud</li>
                 </ul>
               </li>
-              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <em>Behavior-Driven Development</em> (<mark>BDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
               <li>Études, développement et tests : réalisation d'évolutions et correctifs sur les APIs et briques du périmètre (Offer, Merch, Product, Asset, Cart, Delivery, Payment, Customer, ...)</li>
               <li>Mission 100 % <em>back-end</em> de REST APIs mais avec nécessité d'aller parfois comprendre le code des BFFs, du front (en Vue 3) ou de librairies Jenkins (en Groovy)</li>

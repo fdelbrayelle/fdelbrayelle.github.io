@@ -227,7 +227,7 @@ content:
                   <li>Relance de la communauté des développeurs NewGL</li>
                   <li>Support en tant qu'interlocuteur technique avec les différentes équipes et acteurs : front, BFF, application du portail vendeur, application d'encaissement, applications <em>legacy</em> et ops</li>
                   <li>Collaboration rapprochée avec PO et SM</li>
-                  <li>Ateliers d'architecture pour accompagner la mise en place de SAP Commerce Cloud</li>
+                  <li>Ateliers d'architecture et rédaction de RICEFW (<em>Reports, Interface, Conversion, Enhancements, Forms, and Workflows</em>) SAP et NFR (<em>non functional requirements</em>) pour accompagner la mise en place de SAP Commerce Cloud</li>
                 </ul>
               </li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <em>Behavior-Driven Development</em> (<mark>BDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>

@@ -535,7 +535,7 @@ content:
               <li>Modification de rapports BIRT</li>
             </ul>
           </p>
-          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark>, <mark>JDBC Template</mark>, <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>, <mark>DB2</mark>, <mark>MQ</mark>, <mark>Jenkins</mark>, <mark>Sonar</mark>, <mark>UML</mark></p>
+          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark>, <mark>SOAP</mark>, <mark>JDBC Template</mark>, <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>, <mark>DB2</mark>, <mark>MQ</mark>, <mark>Jenkins</mark>, <mark>Sonar</mark>, <mark>UML</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>BNP Paribas - Avril 2015 à Décembre 2015 (9 mois)</h4>
@@ -671,7 +671,7 @@ content:
           <p><strong>Réalisations :</strong>
             <ul>
               <li>Études, développement et tests de <em>user stories</em> et d'anomalies sur chaque étape du tunnel (panier, avantages, livraison, paiement, récapitulatif)</li>
-              <li>Mise en place d'APIs web multi-canaux (web et mobile)</li>
+              <li>Mise en place d'APIs web RESTful multi-canaux (web et mobile)</li>
               <li>Mise en place d'un <em>fail-over switch</em> pour le mode dégradé d'accès à certains services comme le paiement</li>
               <li>Mise en place d'un moteur de règles basé sur les prédicats)</li>
               <li>Pratique du <em>Domain-Driven Design</em> (<mark>DDD</mark>) pour la conception (langage ubiquitaire, contextes bornés, architecture en couches...)</li>
@@ -681,7 +681,7 @@ content:
               <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
             </ul>
           </p>
-          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Spring MVC</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark>, <mark>Thymeleaf</mark>, <mark>UML</mark>, <mark>TDD</mark>, <mark>BDD</mark>, <mark>DDD</mark>, <mark>Tomcat</mark>, <mark>Weblogic</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
+          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Spring MVC</mark>, <mark>REST</mark>, <mark>SOAP</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark>, <mark>Thymeleaf</mark>, <mark>UML</mark>, <mark>TDD</mark>, <mark>BDD</mark>, <mark>DDD</mark>, <mark>Tomcat</mark>, <mark>Weblogic</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>3 Suisses - Avril 2011 à Mai 2012 (13 mois)</h4>

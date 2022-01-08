@@ -578,7 +578,7 @@ content:
               <li>Participation à une présentation de la BNP Paribas sur la dette technique à Montreuil (93)</li>
             </ul>
           </p>
-          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>WebSphere</mark>, <mark>DB2</mark>, <mark>bash</mark>, <mark>UML</mark>, <mark>Jenkins</mark></p>
+          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>WebSphere</mark>, <mark>DB2</mark>, <mark>bash</mark>, <mark>UML</mark>, <mark>Jenkins</mark>, <mark>SOAP</mark></p>
           <hr style="margin: 25px 0; clear: left;" />
 
       - layout: left

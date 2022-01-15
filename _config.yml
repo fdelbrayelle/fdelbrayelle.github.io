@@ -72,6 +72,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   <strong>Les <em>talks</em> que j'ai donnés :</strong>
 
+  - [REST, gRPC, GraphQL, Webhooks : dans quelles situations ?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)
   - [Micronaut et Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)
   - [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
   - [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)

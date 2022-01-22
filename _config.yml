@@ -162,7 +162,7 @@ content:
             <p>
               <strong>🗣️ <em>Talks</em> donnés :</strong>
               <ul>              
-                <li>Conférence ["REST, gRPC, GraphQL, Webhooks : dans quelles situations ?"](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks) à [Touraine Tech 2022](https://touraine.tech/#schedule) (21/01/2022)</li>
+                <li>Conférence [REST, gRPC, GraphQL, Webhooks : dans quelles situations ?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks) à [Touraine Tech 2022](https://touraine.tech/#schedule) (21/01/2022)</li>
                 <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a> (24/02/2020)</li>
                 <li>Présentation de JHipster en midi technique à l'école Epitech Lille (27/11/2019)</li>
                 <li>IppDéj et IppApéro en binôme pour lancer un comité de relecture des CFPs pour les gros évènements et s'organiser au niveau national et local</li>

@@ -135,7 +135,7 @@ content:
             <p>
               <strong>🧑‍🏫 Formations données :</strong>
               <ul>
-                <li>Expert Spring (Core, Hibernate, JPA, Boot, Data, Batch, Web MVC, Security, Integration...) sur plusieurs sessions de 3 jours en interne Ippon et pour des clients (Brittany Ferries)</li>
+                <li>Expert Spring (Core, Hibernate, JPA, Boot, Data, Batch, Web MVC, Security, Integration...) sur plusieurs sessions de 3 jours en interne Ippon et pour des clients (Brittany Ferries). Amélioration et refonte du support de formation (<em>slides</em> et exercices) en équipe.</li>
               </ul>
             </p>
             <p>
@@ -165,6 +165,12 @@ content:
                 <li>Conférence <a title="REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://touraine.tech/talk/MkEtWfsIOK8wQl2xXpVN" target="_blank" rel="noreferrer noopener">"REST, gRPC, GraphQL, Webhooks : dans quelles situations ?"</a> (<a title="Support pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks" target="_blank" rel="noreferrer noopener">support</a> - <a title="Vidéo pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://www.youtube.com/watch?v=s5qRho_FIyc" target="_blank" rel="noreferrer noopener">vidéo</a>) à <a title="Touraine Tech 2022" href="https://touraine.tech/#schedule" target="_blank" rel="noreferrer noopener">Touraine Tech 2022</a> (21/01/2022)</li>
                 <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a> (24/02/2020)</li>
                 <li>Présentation de JHipster en midi technique à l'école Epitech Lille (27/11/2019)</li>
+              </ul>
+            </p>
+            <p>
+              <strong>🗣️ <em>Community Ambassador</em> :</strong>
+              <ul>              
+                <li>Membre de l'organisation du DevFest Lille 2022 en tant que <em>reviewer</em> de CFPs (sans droit de délibération)</li>
                 <li>IppDéj et IppApéro en binôme pour lancer un comité de relecture des CFPs pour les gros évènements et s'organiser au niveau national et local</li>
               </ul>
             </p>

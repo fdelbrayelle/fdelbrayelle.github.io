@@ -80,6 +80,7 @@ about_content: | # this will include new lines to allow paragraphs
   - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
 
   <strong>Les livres que j'ai lus :</strong>
+  - "Domain-Driven Design: Tackling Complexity in the Heart of Software" de Eric Evans
   - "Official Google Cloud Certified Professional Cloud Architect Study Guide" de Dan Sullivan
   - "Official Google Cloud Certified Associate Cloud Engineer Study Guide" de Dan Sullivan
   - "Kafka: The Definitive Guide" de Neha Narkhede, Gwen Shapira et Todd Palino

@@ -688,7 +688,7 @@ content:
               <li>Études, développement et tests de <em>user stories</em> et d'anomalies sur chaque étape du tunnel (panier, avantages, livraison, paiement, récapitulatif)</li>
               <li>Mise en place d'APIs web RESTful multi-canaux (web et mobile)</li>
               <li>Mise en place d'un <em>fail-over switch</em> pour le mode dégradé d'accès à certains services comme le paiement</li>
-              <li>Mise en place d'un moteur de règles basé sur les prédicats)</li>
+              <li>Mise en place d'un moteur de règles basé sur les prédicats</li>
               <li>Pratique du <em>Domain-Driven Design</em> (<mark>DDD</mark>) pour la conception (langage ubiquitaire, contextes bornés, architecture en couches...)</li>
               <li>Déploiement des fonctionnalités sur l'ESB</li>
               <li>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation)</li>

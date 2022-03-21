@@ -562,7 +562,7 @@ content:
               <li>Fonctionnel : Banque</li>
               <li>Business :
                 <ul>Maintien en condition opérationnelle (MCO) et évolutions :
-                  <li>Applications web extranet pour la gestion des cartes "corporate" sur le site des cartes entreprise « corporate » BNP Paribas (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank" rel="noreferrer noopener">internet</a> et intranet)</li>
+                  <li>Applications web pour la gestion des cartes "corporate" sur le site des cartes entreprise « corporate » BNP Paribas (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank" rel="noreferrer noopener">internet</a> et intranet)</li>
                   <li>Applications web RSDD, Souscription et RSDD CAFF</li>
                   <li>Serveur de notifications <em>push</em> (servlet recevant des requêtes depuis un <em>mainframe</em>) vers différentes applications mobiles de la BNP Paribas</li>
                   <li>Serveur vocal par téléphone</li>
@@ -588,7 +588,7 @@ content:
               <li>Réécriture d’un script de contrôle des données lancé quotidiennement le matin</li>
               <li>Diverses interventions et mises en qualification et production</li>
               <li>Réalisation d'évolutions sur la TMA TELRES sur le projet de serveur d’envoi de notifications <em>push</em> (intégration d'une nouvelle application, lecture de notifications via fichiers CFT, stabilisation et amélioration des performances)</li>
-              <li>Préparation et présentation de la réversibilité du le projet de serveur d’envoi de notifications <em>push</em> pendant 2 jours complets à un prestataire roumain en anglais</li>
+              <li>Préparation et présentation de la réversibilité du projet de serveur d’envoi de notifications <em>push</em> pendant 2 jours complets à un prestataire roumain en anglais</li>
               <li>Intervention sur la TMA Canaux sur le projet de serveur vocal pour correction d’anomalies et évolutions</li>
               <li>Participation à une présentation de la BNP Paribas sur la dette technique à Montreuil (93)</li>
             </ul>

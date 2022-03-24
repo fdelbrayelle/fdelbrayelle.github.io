@@ -143,6 +143,7 @@ content:
             <p>
               <strong>👨‍🎓 Formations reçues :</strong>
               <ul>
+                <li>Solutions Architect (2 jours en interne) avec mises en situations (katas d'architecture)</li>
                 <li>Keycloak (2 jours en interne) avec exercices (utilisation de l'interface d'admin, <em>kcadm</em>, <em>social login</em>, création d'un <em>plugin</em>, personnalisation d'une page de <em>login</em>)</li>
                 <li>API management (2 jours en interne) avec <a href="https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/1-introduction?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.architect-api-integration" target="_blank" rel="noreferrer noopener">exercices sur Azure API Management</a></li>
                 <li><a title="Formation Udemy Apache Kafka" href="https://www.udemy.com/course/apache-kafka/" target="_blank" rel="noreferrer noopener">Udemy Apache Kafka</a> avec pour objectif la certification <a title="Confluent Certified Developer for Apache Kafka" href="https://www.confluent.io/certification/" target="_blank" rel="noreferrer noopener">Confluent Certified Developer for Apache Kafka</a></li>

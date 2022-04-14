@@ -243,7 +243,7 @@ content:
                   <li>Relance de la communauté des développeurs NewGL</li>
                   <li>Support en tant qu'interlocuteur technique avec les différentes équipes et acteurs : front, BFF, application du portail vendeur, application d'encaissement, applications <em>legacy</em> et ops</li>
                   <li>Collaboration rapprochée avec PO et SM</li>
-                  <li>Ateliers d'architecture et rédaction de RICEFW (<em>Reports, Interface, Conversion, Enhancements, Forms, and Workflows</em>), IFS (<em>InterFace Specifications</em>) et NFR (<em>Non Functional Requirements</em>) pour accompagner la mise en place de SAP Commerce Cloud</li>
+                  <li>Ateliers d'architecture et rédaction de RICEFW (<em>Reports, Interface, Conversion, Enhancements, Forms, and Workflows</em>), IFS (<em>InterFace Specifications</em>) et NFR (<em>Non Functional Requirements</em>) pour accompagner la mise en place de SAP Commerce Cloud (<em>replatforming</em>)</li>
                   <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...</li>
                 </ul>
               </li>

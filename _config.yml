@@ -80,6 +80,7 @@ about_content: | # this will include new lines to allow paragraphs
   - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
 
   <strong>Les livres que j'ai lus :</strong>
+  - "Clean Architecture" de Robert C. Martin
   - "Domain-Driven Design: Tackling Complexity in the Heart of Software" de Eric Evans
   - "Official Google Cloud Certified Professional Cloud Architect Study Guide" de Dan Sullivan
   - "Official Google Cloud Certified Associate Cloud Engineer Study Guide" de Dan Sullivan
@@ -90,7 +91,7 @@ about_content: | # this will include new lines to allow paragraphs
   - "Docker - Pratique des architectures à base de conteneurs" de Pierre-Yves Cloux, Thomas Garlot et Johann Kohler
   - "Design patterns pour Java" de Laurent Debrauwer
   - "Java Spring - Le socle technique des applications Java EE" de Hervé Le Morvan
-  - "Clean Code: A Handbook of Agile Software Craftsmanship" de Robert Martin
+  - "Clean Code: A Handbook of Agile Software Craftsmanship" de Robert C. Martin
   - "SCJP Sun Certified Programmer for Java 6 Study Guide: Exam 310-065" de Katherine Sierra et Bert Bates
   - "Réussir son référencement web" de Olivier Andrieux
   - "Améliorer la qualité des services: Avec la Gestion des Problèmes ITIL" de Hamilton Mann

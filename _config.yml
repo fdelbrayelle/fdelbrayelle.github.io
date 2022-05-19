@@ -66,9 +66,13 @@ about_content: | # this will include new lines to allow paragraphs
 
   <strong>Les certifications que j'ai passées :</strong>
 
-  - [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) de Google Cloud ([Credential](https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b?key=8f5de6e92912aa8a99a313d766af4a279615f0f3acd4ea48c23189c2765aa41e))
+  - [GCP Professional Cloud Architect](https://www.credential.net/5aa5d083-f600-4b98-b51b-5771a7ad5878?key=91213c5cc024a76c2b2c6b7746f8e17bcedc825c2014f7806da6d40d68593d76))
+  - [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) de Google Cloud ([Credential](https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b?key=8f5de6e92912aa8a99a313d766af4a279615f0f3acd4ea48c23189c2765aa41e))
 
-  <p style="text-align: center;"><img src="images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" /></p>
+  <p style="text-align: center;">
+    <img src="images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" />
+    <img src="images/gcp-professional-cloud-architect.png" alt="Professional Cloud Architect" />
+  </p>
 
   <strong>Les <em>talks</em> que j'ai donnés :</strong>
 
@@ -245,7 +249,7 @@ content:
                   <li>Support en tant qu'interlocuteur technique avec les différentes équipes et acteurs : front, BFF, application du portail vendeur, application d'encaissement, applications <em>legacy</em> et ops</li>
                   <li>Collaboration rapprochée avec PO et SM</li>
                   <li>Ateliers d'architecture et rédaction de RICEFW (<em>Reports, Interface, Conversion, Enhancements, Forms, and Workflows</em>), IFS (<em>InterFace Specifications</em>) et NFR (<em>Non Functional Requirements</em>) pour accompagner la mise en place de SAP Commerce Cloud (<em>replatforming</em>)</li>
-                  <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...</li>
+                  <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...)</li>
                 </ul>
               </li>
               <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <em>Behavior-Driven Development</em> (<mark>BDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>

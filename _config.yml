@@ -70,8 +70,8 @@ about_content: | # this will include new lines to allow paragraphs
   - [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) ([Credential](https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b?key=8f5de6e92912aa8a99a313d766af4a279615f0f3acd4ea48c23189c2765aa41e))
 
   <p style="text-align: center;">
-    <img src="images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" />
-    <img src="images/gcp-professional-cloud-architect.png" alt="Professional Cloud Architect" />
+    <img src="images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" style="width: 300px" />
+    <img src="images/gcp-professional-cloud-architect.png" alt="Professional Cloud Architect" style="width: 320px" />
   </p>
 
   <strong>Les <em>talks</em> que j'ai donnés :</strong>

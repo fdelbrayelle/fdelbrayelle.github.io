@@ -85,6 +85,9 @@ about_content: | # this will include new lines to allow paragraphs
   - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
 
   <strong>Les livres que j'ai lus :</strong>
+  - "Functional Programming in Kotlin" de Marco Vermeulen, Rúnar Bjarnason et Paul Chiusano
+  - "Staff Engineer" de Will Larson
+  - "Software Craft" de Cyrille Martraire, Arnaud Thiéfaine, Dorra Bartaguiz, Fabien Hiegel, Houssam Fakih
   - "Clean Architecture" de Robert C. Martin
   - "Domain-Driven Design: Tackling Complexity in the Heart of Software" de Eric Evans
   - "Official Google Cloud Certified Professional Cloud Architect Study Guide" de Dan Sullivan

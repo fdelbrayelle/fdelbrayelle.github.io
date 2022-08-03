@@ -165,6 +165,7 @@ content:
                 <li><a title="Comment améliorer l’expérience des développeurs (DevX) ?" href="https://welovedevs.com/fr/articles/comment-ameliorer-lexperience-du-developpeur-devx/" target="_blank" rel="noreferrer noopener">Comment améliorer l’expérience des développeurs (DevX) ?</a> sur le blog WeLoveDevs</li>
                 <li>Articles écrits sur le blog Ippon :</li>
                 <ul>
+                  <li><a title="Passer la certification GCP Professional Cloud Architect" href="https://blog.ippon.fr/2022/08/03/gcp-professional-cloud-architect/" target="_blank" rel="noreferrer noopener">Passer la certification GCP Professional Cloud Architect</a></li>
                   <li><a title="Test du cloud public IaaS de nua.ge" href="https://blog.ippon.fr/2022/02/25/test-du-cloud-public-iaas-de-nua-ge/" target="_blank" rel="noreferrer noopener">Test du cloud public IaaS de nua.ge</a></li>
                   <li><a title="Liquibase dans un init container sur GCP" href="https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/" target="_blank" rel="noreferrer noopener">Liquibase dans un init container sur GCP</a></li>
                   <li><a title="Créer un module JHipster : une façon de contribuer à l’open source" href="https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/" target="_blank" rel="noreferrer noopener">Créer un module JHipster : une façon de contribuer à l’open source</a></li>

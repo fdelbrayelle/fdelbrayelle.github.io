@@ -138,7 +138,6 @@ content:
         link: www.malt.fr
         description: | # this will include new lines to allow paragraphs
           <img alt="Logo de Malt" src="images/malt-logo.png" style="width: 300px; margin-bottom: 25px;" />
-          <h4>Lead Software Engineer :</h4>
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
           <p style="font-weight: bold;">Tribe Client - Squad Acquisition</p>
           <p><strong>Contexte :</strong>

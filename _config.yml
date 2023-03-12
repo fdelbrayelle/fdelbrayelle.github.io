@@ -132,9 +132,49 @@ content:
     layout: list
     content:
       - layout: left
+        title: Malt
+        sub_title: Lead / Senior Software Engineer
+        caption: Depuis Octobre 2022
+        link: www.malt.fr
+        description: | # this will include new lines to allow paragraphs
+          <img alt="Logo de Malt" src="images/malt-logo.png" style="width: 300px; margin-bottom: 25px;" />
+          <h4>Lead Software Engineer :</h4>
+          <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
+          <p style="font-weight: bold;">Tribe Client - Squad Acquisition</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Applicant Tracking System / Freelancing</li>
+              <li>Business : Domaines de la recherche de freelancers et de la création de projets par les entreprises clientes</li>
+              <li>Méthodologique : Kanban - No Estimates - Focus / Cool-Down</li>
+              <li>Équipe : +/- 7 personnes</li>
+              <li>Volumétrie : 500 000+ freelancers - 350 000+ entreprises clientes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Notion)</li>
+                  <li>Rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
+                  <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...)</li>
+                  <li>Points de synchronisation avec les <em>tech leads</em> des autres squads</li>
+                  <li>Points de synchronisation inter squads</li>
+                  <li>Collaboration rapprochée avec Product Manager et Product Designer</li>
+                  <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...)</li>
+                  <li>Organisation d'event stormings pour délimiter nos domaines</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>platform engineers</em>), <mark>mob-programming</mark>, CI/CD, ...</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur les modules du périmètre (recherche, proposition de projets, CMS, ...) notamment sur la convergence et la fusion de Comatch et l'intégration d'un nouveau funnel dédié à une catégorie stratégique de freelancers</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Kotlin</mark>, <mark>Java 17+</mark>, <mark>Monorepo</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Gradle</mark>, <mark>Vue 3</mark>, <mark>Nuxt 3</mark>, <mark>RabbitMQ</mark>, <mark>Kafka</mark>, <mark>jOOQ</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Memorystore, Cloud Storage, BigQuery, ...)</mark>, <mark>Testcontainers</mark>, <mark>PostgreSQL</mark>, <mark>Mongo</mark>, <mark>Redis</mark>, <mark>Keycloak</mark>, <mark>git</mark>, <mark>GitLab</mark>, <mark>GitLab CI</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Datadog</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <hr style="margin: 25px 0; clear: left;" />
+
+      - layout: left
         title: Ippon Technologies
         sub_title: Développeur Full-Stack / Tech-Lead senior - Architecte Solutions junior - Formateur
-        caption: Depuis Octobre 2019
+        caption: Octobre 2019 - Septembre 2022
         link: fr.ippon.tech
         # quote: >
         #   "Il n'est pas important d'être meilleur que quelqu'un d'autre, il est important d'être meilleur qu'hier"

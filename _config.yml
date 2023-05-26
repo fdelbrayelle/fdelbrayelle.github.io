@@ -169,6 +169,13 @@ content:
           </p>
           <p style="font-weight: bold;">Back-end, front-end and SRE guilds member</p>
           <p><strong>Environnement :</strong> <mark>Kotlin</mark>, <mark>Java 17+</mark>, <mark>Monorepo</mark>, <mark>Architecture hexagonale</mark>, <mark>CQRS</mark>, <mark>Spring Boot</mark>, <mark>Gradle</mark>, <mark>Vue 3</mark>, <mark>Nuxt 3</mark>, <mark>RabbitMQ</mark>, <mark>Kafka</mark>, <mark>jOOQ</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Memorystore, Cloud Storage, BigQuery, ...)</mark>, <mark>Testcontainers</mark>, <mark>PostgreSQL</mark>, <mark>Mongo</mark>, <mark>Redis</mark>, <mark>Keycloak</mark>, <mark>git</mark>, <mark>GitLab</mark>, <mark>GitLab CI</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Datadog</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <p>
+              <strong>🌍 Participation (spectateur) à des conférences :</strong>
+              <ul>
+                <li><a title="DevFest Lille 2023" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2023</li>
+                <li><a title="Devoxx 2023" href="https://www.devoxx.fr/" target="_blank" rel="noreferrer noopener">Devoxx</a> 2023</li>
+              </ul>
+            </p>
           <hr style="margin: 25px 0; clear: left;" />
 
       - layout: left
@@ -241,6 +248,7 @@ content:
                 <li><a title="Sunny Tech 2022" href="https://sunny-tech.io/schedule" target="_blank" rel="noreferrer noopener">Sunny Tech</a> 2022</li>
                 <li><a title="Voxxed Days Luxembourg 2022" href="https://cfp-voxxed-lux.yajug.org/2022/index.html" target="_blank" rel="noreferrer noopener">Voxxed Days Luxembourg</a> 2022</li>
                 <li><a title="DevFest Lille 2022" href="https://devfest.gdglille.org/agenda/index.html" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2022</li>
+                <li><a title="Devoxx 2022" href="https://www.devoxx.fr/" target="_blank" rel="noreferrer noopener">Devoxx</a> 2022</li>
                 <li><a title="Touraine Tech 2022" href="https://touraine.tech/#schedule" target="_blank" rel="noreferrer noopener">Touraine Tech</a> 2022</li>
                 <li><a title="Cloud Nord 2021" href="https://cloudnord.fr/programme2021" target="_blank" rel="noreferrer noopener">Cloud Nord</a> 2021</li>
                 <li><a title="WebStories 2021" href="https://webstoriesconf.com" target="_blank" rel="noreferrer noopener">WebStories</a> 2021</li>

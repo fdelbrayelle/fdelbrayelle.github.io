@@ -139,39 +139,71 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img alt="Logo de Malt" src="images/malt-logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
-          <p style="font-weight: bold;">Tribe Client - Squad Acquisition</p>
+          <p style="font-weight: bold;">Tribe Transaction - Squad Project (en cours)</p>
           <p><strong>Contexte :</strong>
             <ul>
-              <li>Fonctionnel : Applicant Tracking System / Freelancing</li>
-              <li>Business : Domaines de la recherche de freelancers et de la création de projets par les entreprises clientes</li>
+              <li>Fonctionnel : Gestion du suivi des projets / missions entre clients et freelances</li>
+              <li>Business : Domaines des devis, projets / missions, dépenses, suivi d'activité, recommandations suite à fin de mission</li>
               <li>Méthodologique : Kanban - No Estimates - Focus / Cool-Down</li>
-              <li>Équipe : +/- 7 personnes</li>
-              <li>Volumétrie : 500 000+ freelancers - 350 000+ entreprises clientes</li>
+              <li>Équipe : +/- 10 personnes</li>
+              <li>Volumétrie : 500 000+ freelancers - 350 000+ entreprises clientes - 60 000+ projets / missions signés sur les 12 derniers mois</li>
             </ul>
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li><strong>Architecture et leading technique</strong> :
-                <ul>
-                  <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Notion)</li>
-                  <li>Rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
-                  <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...)</li>
-                  <li>Points de synchronisation avec les <em>tech leads</em> des autres squads</li>
-                  <li>Points de synchronisation inter squads</li>
-                  <li>Collaboration rapprochée avec Product Manager et Product Designer</li>
-                  <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...)</li>
-                  <li>Organisation d'event stormings pour délimiter nos domaines</li>
-                </ul>
-              </li>
-              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>platform engineers</em>), <mark>mob-programming</mark>, CI/CD, ...</li>
-              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur les modules du périmètre (recherche, proposition de projets, CMS, ...) notamment sur la convergence et la fusion de Comatch et l'intégration d'un nouveau funnel dédié à une catégorie stratégique de freelancers</li>
+              <li></li>
             </ul>
+          </p>
+          <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
+          <p style="font-weight: bold;">Tribe Staffing - Squad Matching (18 mois)</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Applicant Tracking System / Freelancing</li>
+              <li>Business : Domaines de la recherche de freelancers et de la création de projets / briefs par les entreprises clientes</li>
+              <li>Méthodologique : Kanban - No Estimates - Focus / Cool-Down</li>
+              <li>Équipe : +/- 10 personnes</li>
+              <li>Volumétrie : 500 000+ freelancers - 350 000+ entreprises clientes - 200 000+ recherches / mois</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Suite au rachat de Comatch, intégration d'un nouveau funnel de projets / briefs dédié à une catégorie stratégique de freelancers</li>
+              <li>Refonte de la gestion de la date de démarrage et de la durée d'un projet / brief</li>
+              <li>Migration technique du domaine de la recherche de freelancers de JSP/HBS/JS (legacy) vers Vue 3 / Nuxt 3</li>
+              <li>Migration technique de la liste des projets Vue 2 (legacy) vers Vue 3 / Nuxt 3</li>
+              <li>Refonte du nouveau système de <em>service level</em> / <em>pricing plan</em> et mise en place d'un système de blocage pour éviter le <em>by-pass</em> (compteur de profils vus pour les utilisateurs connectés, obligation de créer un compte et de se connecter pour consulter un profil, retrait d'informations permettant de retrouver un freelance en dehors du site...)</li>
+            </ul>
+          </p>
+          <p><strong>Architecture et leading technique</strong> :
+              <ul>
+                <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Notion)</li>
+                <li>Rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
+                <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...)</li>
+                <li>Points de synchronisation avec les <em>tech leads</em> des autres squads</li>
+                <li>Points de synchronisation inter squads</li>
+                <li>Collaboration rapprochée avec Product Manager et Product Designer</li>
+                <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...)</li>
+                <li>Organisation d'<em>event stormings</em> pour délimiter nos domaines</li>
+              </ul>
+          </p>
+          <p>
+            <strong><em>Software craftsmanship</em></strong> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>platform engineers</em>), <mark>mob-programming</mark>, CI/CD, ...
+          </p>
+          <p>
+            <strong>Études, développement et tests</strong> : réalisation d'évolutions et correctifs. Support tournant.
           </p>
           <p style="font-weight: bold;">Back-end, front-end and SRE guilds member</p>
           <p><strong>Environnement :</strong> <mark>Kotlin</mark>, <mark>Java 17+</mark>, <mark>Monorepo</mark>, <mark>Architecture hexagonale</mark>, <mark>CQRS</mark>, <mark>Spring Boot</mark>, <mark>Gradle</mark>, <mark>Vue 3</mark>, <mark>Nuxt 3</mark>, <mark>RabbitMQ</mark>, <mark>Kafka</mark>, <mark>jOOQ</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Memorystore, Cloud Storage, BigQuery, ...)</mark>, <mark>Testcontainers</mark>, <mark>PostgreSQL</mark>, <mark>Mongo</mark>, <mark>Redis</mark>, <mark>Keycloak</mark>, <mark>git</mark>, <mark>GitLab</mark>, <mark>GitLab CI</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Datadog</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
           <p>
+            <strong>🗣️ <em>Talks</em> donnés :</strong>
+            <ul>
+              <li>Conférence <a title="RGPD pour les développeurs" href="https://devfest.gdglille.org/" target="_blank" rel="noreferrer noopener">"RGPD pour les développeurs"</a> (<a title="Support pour RGPD pour les développeurs" href="https://github.com/fdelbrayelle/talk-gdpr-for-developers" target="_blank" rel="noreferrer noopener">support</a>) aux Malt Tech Days 2023</li>
+            </ul>
+          </p>
+          <p>
               <strong>🌍 Participation (spectateur) à des conférences :</strong>
               <ul>
+                <li><a title="DevFest Lille 2024" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2024</li>
                 <li><a title="DevFest Lille 2023" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2023</li>
                 <li><a title="Devoxx 2023" href="https://www.devoxx.fr/" target="_blank" rel="noreferrer noopener">Devoxx</a> 2023</li>
               </ul>

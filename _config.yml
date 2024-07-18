@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: François Delbrayelle
-title: Développeur Full-Stack / Tech Lead senior - Architecte Solutions junior
+title: Développeur Full-Stack - Tech Lead - Architecte Solutions
 # email: fdelbrayelle@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -52,9 +52,11 @@ google_analytics: "UA-17958744-1"
 about_title: À propos
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Je suis <strong>développeur full-stack</strong> / <strong>tech lead</strong> senior et <strong>architecte solutions</strong> junior (en cours d'évolution). Je donne régulièrement en complément des formations sur l'écosystème Spring. Je tente également d'appliquer le <em>software craftsmanship</em> au quotidien dans mon travail. Je me passionne pour le développement depuis les années 90 et j'ai près de <strong>12 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a title="Test de Myers-Briggs" href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank" rel="noreferrer noopener">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression tels que la <a title="Communication non violente" href="https://fr.wikipedia.org/wiki/Communication_non_violente" target="_blank" rel="noreferrer noopener">CNV</a>.
+  Je peux prendre les rôles de <strong>développeur full-stack</strong>, <strong>tech lead</strong> et <strong>architecte solutions</strong>. J'ai donné régulièrement en complément des formations sur l'écosystème Spring et d'autres technos. Je tente également d'appliquer le <em>software craftsmanship</em> au quotidien dans mon travail. Je me passionne pour le développement depuis les années 90 et j'ai plus de <strong>15 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a title="Test de Myers-Briggs" href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank" rel="noreferrer noopener">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression tels que la <a title="Communication non violente" href="https://fr.wikipedia.org/wiki/Communication_non_violente" target="_blank" rel="noreferrer noopener">CNV</a>.
 
-  J'ai travaillé pour plusieurs ESN, en centre de services, en régie, dans différents contextes et modes d'organisation, pour des durées variées et dans divers domaines fonctionnels (<em>Data Asset Management</em>, <em>Product Information Management</em>, référencement/SEO, <em>merchandising</em>, vente/e-commerce sport/bricolage/luxe/prêt-à-porter, santé, banque et assurance). Depuis 2018, <strong>je suis régulièrement en télétravail</strong> et cela s'est accéléré en mars 2020 avec la crise sanitaire de la COVID-19 avec plusieurs mois en télétravail intégral ce qui m'a permis de changer mes habitudes et m'adapter pour être efficace et productif dans les meilleures conditions.
+  Depuis que j'ai rejoint Malt en 2022, j'ai découvert un nouveau mode de fonctionnement dans une scale-up en pleine croissance et avec des enjeux importants. Cela m'a permis de participer à des développements à fort impact et de m'impliquer pleinement en interne sur un produit innovant.
+
+  Avant cela, j'ai travaillé pour plusieurs ESN pendant 11 ans, en centre de services, en régie, dans différents contextes et modes d'organisation, pour des durées variées et dans divers domaines fonctionnels (<em>Data Asset Management</em>, <em>Product Information Management</em>, référencement/SEO, <em>merchandising</em>, vente/e-commerce sport/bricolage/luxe/prêt-à-porter, santé, banque et assurance). Depuis 2018, <strong>je suis régulièrement en télétravail</strong> et cela s'est accéléré en mars 2020 avec la crise sanitaire de la COVID-19 avec plusieurs mois en télétravail intégral ce qui m'a permis de changer mes habitudes et m'adapter pour être efficace et productif dans les meilleures conditions.
 
   Je suis plutôt orienté développement <em>back-end</em> à la base mais depuis quelques années je m'intéresse également au <em>front-end</em> (que ce soit à Angular, React ou Vue). Je suis utilisateur au quotidien de <mark>GNU/Linux</mark> et je tente d'avoir des connaissances larges tout en approfondissant mon expertise dans certains domaines (<em>"T-shaped"</em>).
 
@@ -143,15 +145,15 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Gestion du suivi des projets / missions entre clients et freelances</li>
-              <li>Business : Domaines des devis, projets / missions, dépenses, suivi d'activité, recommandations suite à fin de mission</li>
+              <li>Business : Domaines des devis, projets, dépenses, suivis d'activité, recommandations suite à fin de mission</li>
               <li>Méthodologique : Kanban - No Estimates - Focus / Cool-Down</li>
               <li>Équipe : +/- 10 personnes</li>
-              <li>Volumétrie : 500 000+ freelancers - 350 000+ entreprises clientes - 60 000+ projets / missions signés sur les 12 derniers mois</li>
+              <li>Volumétrie : 700 000+ freelancers - 350 000+ entreprises clientes - 60 000+ projets clients / an</li>
             </ul>
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li></li>
+              <li>Migration technique du domaine des recommandations clients et freelances suite à fin de mission de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3</li>
             </ul>
           </p>
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
@@ -159,19 +161,21 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Applicant Tracking System / Freelancing</li>
-              <li>Business : Domaines de la recherche de freelancers et de la création de projets / briefs par les entreprises clientes</li>
+              <li>Business : Domaines de la recherche de freelancers et de la création de projets par les entreprises clientes</li>
               <li>Méthodologique : Kanban - No Estimates - Focus / Cool-Down</li>
               <li>Équipe : +/- 10 personnes</li>
-              <li>Volumétrie : 500 000+ freelancers - 350 000+ entreprises clientes - 200 000+ recherches / mois</li>
+              <li>Volumétrie : 700 000+ freelancers - 350 000+ entreprises clientes - 200 000+ recherches / mois</li>
             </ul>
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li>Suite au rachat de Comatch, intégration d'un nouveau funnel de projets / briefs dédié à une catégorie stratégique de freelancers</li>
+              <li>Suite au rachat de Comatch, nouveau funnel de projets dédié à une catégorie stratégique de freelancers</li>
               <li>Refonte de la gestion de la date de démarrage et de la durée d'un projet / brief</li>
               <li>Migration technique du domaine de la recherche de freelancers de JSP/HBS/JS (legacy) vers Vue 3 / Nuxt 3</li>
               <li>Migration technique de la liste des projets Vue 2 (legacy) vers Vue 3 / Nuxt 3</li>
               <li>Refonte du nouveau système de <em>service level</em> / <em>pricing plan</em> et mise en place d'un système de blocage pour éviter le <em>by-pass</em> (compteur de profils vus pour les utilisateurs connectés, obligation de créer un compte et de se connecter pour consulter un profil, retrait d'informations permettant de retrouver un freelance en dehors du site...)</li>
+              <li>Conception d'une recherche avancée basée en partie sur l'IA générative</li>
+              <li><em>Proof of concept</em> réalisé lors d'un hackathon IA pour trouver des freelances dont le portfolio comporte des images correspondant à une recherche textuelle ou par image (<em>text to image</em>, <em>image to image</em>) via l'utilisation de Vertex AI et de QDrant (base de données vectorielles)</li>
             </ul>
           </p>
           <p><strong>Architecture et leading technique</strong> :

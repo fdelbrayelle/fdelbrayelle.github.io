@@ -50,7 +50,7 @@ google_analytics: "UA-17958744-1"
 
 # About Section
 about_title: À propos
-about_profile_image: images/profile.png
+about_profile_image: images/fdelbrayelle.jpg
 about_content: | # this will include new lines to allow paragraphs
   Je peux prendre les rôles de <strong>développeur full-stack</strong>, <strong>tech lead</strong> et <strong>architecte solutions</strong>. J'ai donné régulièrement en complément des formations sur l'écosystème Spring et d'autres technos. Je tente également d'appliquer le <em>software craftsmanship</em> au quotidien dans mon travail. Je me passionne pour le développement depuis les années 90 et j'ai plus de <strong>15 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a title="Test de Myers-Briggs" href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank" rel="noreferrer noopener">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression tels que la <a title="Communication non violente" href="https://fr.wikipedia.org/wiki/Communication_non_violente" target="_blank" rel="noreferrer noopener">CNV</a>.
 

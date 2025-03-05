@@ -87,6 +87,7 @@ about_content: | # this will include new lines to allow paragraphs
   - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
 
   <strong>Les livres que j'ai lus :</strong>
+  - "Learning Domain-Driven Design" de Vlad Khononov
   - "Functional Programming in Kotlin" de Marco Vermeulen, Rúnar Bjarnason et Paul Chiusano
   - "Staff Engineer" de Will Larson
   - "Software Craft" de Cyrille Martraire, Arnaud Thiéfaine, Dorra Bartaguiz, Fabien Hiegel, Houssam Fakih
@@ -141,7 +142,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img alt="Logo de Malt" src="images/malt-logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
-          <p style="font-weight: bold;">Tribe Transaction - Squad Project (en cours)</p>
+          <p style="font-weight: bold;">Tribe Transaction - Squad Project (en cours - 8 mois)</p>
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Gestion du suivi des projets / missions entre clients et freelances</li>
@@ -153,7 +154,9 @@ content:
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li>Migration technique du domaine des recommandations clients et freelances suite à fin de mission de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3</li>
+              <li>Migration technique importante du domaine des devis freelances de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3 + création d'un nouveau domaine et de nouvelles APIs.</li>
+              <li>Migration technique du domaine des recommandations freelances par les clients suite à fin de mission de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3 + création d'un nouveau domaine et de nouvelles APIs.</li>
+              <li>Animation de l'équipe avec introduction de nouveaux rituels : démo, daily sync, templates JIRA, document de suivi de QA, etc.</li>
             </ul>
           </p>
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>

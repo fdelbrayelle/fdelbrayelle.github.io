@@ -172,12 +172,12 @@ content:
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li>Suite au rachat de Comatch, nouveau funnel de projets dédié à une catégorie stratégique de freelancers</li>
+              <li>Suite au rachat de Comatch, <a href="https://www.malt.fr/c/maltstrategy/companies?source_component=hero-strategy" title="Malt Strategy" target="_blank">nouveau funnel de projets dédié à une catégorie stratégique de freelancers</a></li>
               <li>Refonte de la gestion de la date de démarrage et de la durée d'un projet / brief</li>
               <li>Migration technique du domaine de la recherche de freelancers de JSP/HBS/JS (legacy) vers Vue 3 / Nuxt 3</li>
               <li>Migration technique de la liste des projets Vue 2 (legacy) vers Vue 3 / Nuxt 3</li>
-              <li>Refonte du nouveau système de <em>service level</em> / <em>pricing plan</em> et mise en place d'un système de blocage pour éviter le <em>by-pass</em> (compteur de profils vus pour les utilisateurs connectés, obligation de créer un compte et de se connecter pour consulter un profil, retrait d'informations permettant de retrouver un freelance en dehors du site...)</li>
-              <li>Conception d'une recherche avancée basée en partie sur l'IA générative</li>
+              <li>Refonte du <a href="https://help.malt.com/kb/guide/fr/les-offres-et-frais-de-service-malt-HSSbMl3qrl/Steps/2689803" title="Offres et frais de service Malt" target="_blank">nouveau système de service level</a> et mise en place d'un système de blocage pour éviter le <em>by-pass</em> (compteur de profils vus pour les utilisateurs connectés, obligation de créer un compte et de se connecter pour consulter un profil, retrait d'informations permettant de retrouver un freelance en dehors du site...)</li>
+              <li>Conception d'une <a href="https://www.malt.fr/c/product-release" title="AI Search" target="_blank">recherche avancée basée en partie sur l'IA générative</a></li>
               <li><em>Proof of concept</em> réalisé lors d'un hackathon IA pour trouver des freelances dont le portfolio comporte des images correspondant à une recherche textuelle ou par image (<em>text to image</em>, <em>image to image</em>) via l'utilisation de Vertex AI et de QDrant (base de données vectorielles)</li>
             </ul>
           </p>

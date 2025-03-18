@@ -154,7 +154,7 @@ content:
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li>Migration technique importante du domaine des devis freelances de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3 + création d'un nouveau domaine et de nouvelles APIs.</li>
+              <li>Migration technique importante du domaine des <a href="https://www.youtube.com/watch?v=2ug1T0_ZDyA" target="_blank">devis freelances</a> de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3 + création d'un nouveau domaine et de nouvelles APIs.</li>
               <li>Migration technique du domaine des recommandations freelances par les clients suite à fin de mission de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3 + création d'un nouveau domaine et de nouvelles APIs.</li>
               <li>Animation de l'équipe avec introduction de nouveaux rituels : démo, daily sync, templates JIRA, document de suivi de QA, etc.</li>
             </ul>

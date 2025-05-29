@@ -137,12 +137,12 @@ content:
       - layout: left
         title: Malt
         sub_title: Senior / Lead Software Engineer
-        caption: Depuis Octobre 2022
+        caption: Octobre 2022 - Mai 2025
         link: www.malt.fr
         description: | # this will include new lines to allow paragraphs
           <img alt="Logo de Malt" src="images/malt-logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
-          <p style="font-weight: bold;">Tribe Transaction - Squad Project (en cours - 8 mois)</p>
+          <p style="font-weight: bold;">Tribe Transaction - Squad Project (10 mois)</p>
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Gestion du suivi des projets / missions entre clients et freelances</li>

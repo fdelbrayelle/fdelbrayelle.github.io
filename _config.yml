@@ -135,6 +135,39 @@ content:
     layout: list
     content:
       - layout: left
+        title: Kestra
+        sub_title: Lead Software Engineer
+        caption: Depuis Mai 2025
+        link: www.kestra.io
+        description: | # this will include new lines to allow paragraphs
+          <img alt="Logo de Kestra" src="images/kestra_logo.png" />
+          <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
+          <p style="font-weight: bold;">Équipe Plugins / Intégrations</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Création de workflows pour les data engineers, platform engineers et software engineers</li>
+              <li>Business : Orchestration et automatisation</li>
+              <li>Méthodologique : Cycles de 2 mois (versions mineures de Kestra core)</li>
+              <li>Équipe : +/- 30 personnes</li>
+              <li>Volumétrie : 30+ entreprises clientes - millions de workflows exécutés / mois</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Maintenance et maintien de la qualité de 150+ repositories de plugins, storages et secrets managers (OSS & EE)</li>
+              <li>Passage de 600 à 1000+ tâches de plugins en 6 mois (+ 67 %)</li>
+              <li>Accompagnement de la communauté open-source</li>
+              <li>Mise en place d'un nouveau cycle de vie et d'une nouvelle façon de release les plugins</li>
+              <li>Création de plugins OSS & EE pour les clients</li>
+              <li>Innovation, recherche & développement pour aller capter de nouvelles opportunités sur certaines intégrations</li>
+              <li>Mise en place de l'architecture de l'API pour récupérer les métadonnées des plugins</li>
+              <li>Rédaction d'articles</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 21+</mark>, <mark>Micronaut</mark>, <mark>Gradle</mark>, <mark>Vue 3</mark>, <mark>Nuxt 3</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Google Cloud Platform</mark>, <mark>PostgreSQL</mark>, <mark>git</mark>, <mark>GitHub Actions</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <hr style="margin: 25px 0; clear: left;" />
+
+      - layout: left
         title: Malt
         sub_title: Senior / Lead Software Engineer
         caption: Octobre 2022 - Mai 2025
@@ -208,13 +241,13 @@ content:
             </ul>
           </p>
           <p>
-              <strong>🌍 Participation (spectateur) à des conférences :</strong>
-              <ul>
-                <li><a title="DevFest Lille 2024" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2024</li>
-                <li><a title="DevFest Lille 2023" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2023</li>
-                <li><a title="Devoxx 2023" href="https://www.devoxx.fr/" target="_blank" rel="noreferrer noopener">Devoxx</a> 2023</li>
-              </ul>
-            </p>
+            <strong>🌍 Participation (spectateur) à des conférences :</strong>
+            <ul>
+              <li><a title="DevFest Lille 2024" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2024</li>
+              <li><a title="DevFest Lille 2023" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2023</li>
+              <li><a title="Devoxx 2023" href="https://www.devoxx.fr/" target="_blank" rel="noreferrer noopener">Devoxx</a> 2023</li>
+            </ul>
+          </p>
           <hr style="margin: 25px 0; clear: left;" />
 
       - layout: left

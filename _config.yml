@@ -140,7 +140,7 @@ content:
         caption: Depuis Mai 2025
         link: www.kestra.io
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Kestra" src="images/kestra_logo.png" />
+          <img alt="Logo de Kestra" src="images/kestra_logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
           <p style="font-weight: bold;">Équipe Plugins / Intégrations</p>
           <p><strong>Contexte :</strong>

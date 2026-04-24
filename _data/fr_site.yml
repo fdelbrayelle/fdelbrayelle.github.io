@@ -1,0 +1,862 @@
+about_title: À propos
+about_profile_image: images/fdelbrayelle.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Je peux prendre les rôles de <strong>développeur full-stack</strong>, <strong>tech lead</strong> et <strong>architecte solutions</strong>. J'ai donné régulièrement en complément des formations sur l'écosystème Spring et d'autres technos. Je tente également d'appliquer le <em>software craftsmanship</em> au quotidien dans mon travail. Je me passionne pour le développement depuis les années 90 et j'ai plus de <strong>15 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a title="Test de Myers-Briggs" href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank" rel="noreferrer noopener">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression tels que la <a title="Communication non violente" href="https://fr.wikipedia.org/wiki/Communication_non_violente" target="_blank" rel="noreferrer noopener">CNV</a>.
+
+  Depuis que j'ai rejoint Malt en 2022, j'ai découvert un nouveau mode de fonctionnement dans une scale-up en pleine croissance et avec des enjeux importants. Cela m'a permis de participer à des développements à fort impact et de m'impliquer pleinement en interne sur un produit innovant.
+
+  Avant cela, j'ai travaillé pour plusieurs ESN pendant 11 ans, en centre de services, en régie, dans différents contextes et modes d'organisation, pour des durées variées et dans divers domaines fonctionnels (<em>Data Asset Management</em>, <em>Product Information Management</em>, référencement/SEO, <em>merchandising</em>, vente/e-commerce sport/bricolage/luxe/prêt-à-porter, santé, banque et assurance). Depuis 2018, <strong>je suis régulièrement en télétravail</strong> et cela s'est accéléré en mars 2020 avec la crise sanitaire de la COVID-19 avec plusieurs mois en télétravail intégral ce qui m'a permis de changer mes habitudes et m'adapter pour être efficace et productif dans les meilleures conditions.
+
+  Je suis plutôt orienté développement <em>back-end</em> à la base mais depuis quelques années je m'intéresse également au <em>front-end</em> (que ce soit à Angular, React ou Vue). Je suis utilisateur au quotidien de <mark>GNU/Linux</mark> et je tente d'avoir des connaissances larges tout en approfondissant mon expertise dans certains domaines (<em>"T-shaped"</em>).
+
+  Ces domaines d'expertise principaux sont à la fois <em>back-end</em> et <em>front-end</em> avec l'écosystème <mark>Java EE</mark>, <mark>Spring</mark>, <mark>Kafka</mark>, <mark>Angular</mark>, <mark>React</mark> et <mark>Vue</mark>. Je suis capable de mettre en place différents types d'architecture pour des applications <em>cloud native</em> dans un contexte micro-services.
+
+  Je me retrouve beaucoup dans la notion de <a title="D'architecte à Métarchitecte : une évolution nécessaire (Rémi Cocula @ Devoxx 2019)" href="https://www.youtube.com/watch?v=sEK68arLUq0" target="_blank" rel="noreferrer noopener">"métarchitecte"</a> et je remets constamment mes connaissances en question : "Tu sais tout quand tu sais que tu ne sais rien" disait Socrate. Je suis en <strong>veille techno</strong> quasi quotidienne en essayant de m'intéresser aux nouveautés, tester certains frameworks et participer à des <em>meetups</em> <a title="Restitution des notes prises en meetups" href="https://francois-delbrayelle.fr/meetups" target="_blank" rel="noreferrer noopener">(voir mes notes)</a>. Je suis en recherche constante d'un équilibre, d'un <em><a title="Raison d'être en japonais" href="https://fr.wikipedia.org/wiki/Ikigai" target="_blank" rel="noreferrer noopener">ikigai</a></em>. C'est important pour moi de participer à des projets ayant une utilité pour l'intérêt général.
+
+  Je cherche à approfondir mes compétences en particulier dans en <mark>architecture</mark> et <mark>DDD</mark> mais également dans les langages <mark>Kotlin</mark>, <mark>Go</mark> et <mark>Rust</mark>. Je souhaite aussi compléter mon savoir-faire sur les <em>cloud providers</em> (en particulier <mark>GCP</mark> et <mark>AWS</mark> mais également sur les fournisseurs français tels que <mark>Clever Cloud</mark>). Enfin je reste curieux sur les sujets qui constitueront des piliers dans un avenir proche : <mark>blockchain</mark>, <mark>machine learning</mark>, <mark>deep learning</mark>, <mark>edge computing</mark> et <mark>IoT</mark>.
+
+  <strong>Les certifications que j'ai passées :</strong>
+
+  - [GCP Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) ([Credential](https://www.credential.net/5aa5d083-f600-4b98-b51b-5771a7ad5878?key=91213c5cc024a76c2b2c6b7746f8e17bcedc825c2014f7806da6d40d68593d76))
+  - [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) ([Credential](https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b?key=8f5de6e92912aa8a99a313d766af4a279615f0f3acd4ea48c23189c2765aa41e))
+
+  <p style="text-align: center;">
+    <img src="images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" style="width: 220px" />
+    <img src="images/gcp-professional-cloud-architect.png" alt="Professional Cloud Architect" style="width: 220px" />
+  </p>
+
+  <strong>Les <em>talks</em> que j'ai donnés :</strong>
+
+  - [RGPD pour les développeurs](https://github.com/fdelbrayelle/talk-gdpr-for-developers)
+  - [REST, gRPC, GraphQL, Webhooks : dans quelles situations ?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)
+  - [Micronaut et Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus)
+  - [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s)
+  - [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs)
+  - [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster)
+  - [L'après Java 8](https://github.com/fdelbrayelle/midi-tech-java-news)
+
+  <strong>Les livres que j'ai lus :</strong>
+  - "Learning Domain-Driven Design" de Vlad Khononov
+  - "Functional Programming in Kotlin" de Marco Vermeulen, Rúnar Bjarnason et Paul Chiusano
+  - "Staff Engineer" de Will Larson
+  - "Software Craft" de Cyrille Martraire, Arnaud Thiéfaine, Dorra Bartaguiz, Fabien Hiegel, Houssam Fakih
+  - "Clean Architecture" de Robert C. Martin
+  - "Domain-Driven Design: Tackling Complexity in the Heart of Software" de Eric Evans
+  - "Official Google Cloud Certified Professional Cloud Architect Study Guide" de Dan Sullivan
+  - "Official Google Cloud Certified Associate Cloud Engineer Study Guide" de Dan Sullivan
+  - "Kafka: The Definitive Guide" de Neha Narkhede, Gwen Shapira et Todd Palino
+  - "Deep Learning avec TensorFlow" de Aurélien Géron
+  - "Machine Learning avec Scikit-Learn" de Aurélien Géron
+  - "Kubernetes - Maîtrisez l'orchestrateur des infrastructures du futur" de Kelsey Hightower, Brendan Burns, Joe Beda
+  - "Docker - Pratique des architectures à base de conteneurs" de Pierre-Yves Cloux, Thomas Garlot et Johann Kohler
+  - "Design patterns pour Java" de Laurent Debrauwer
+  - "Java Spring - Le socle technique des applications Java EE" de Hervé Le Morvan
+  - "Clean Code: A Handbook of Agile Software Craftsmanship" de Robert C. Martin
+  - "SCJP Sun Certified Programmer for Java 6 Study Guide: Exam 310-065" de Katherine Sierra et Bert Bates
+  - "Réussir son référencement web" de Olivier Andrieux
+  - "Améliorer la qualité des services: Avec la Gestion des Problèmes ITIL" de Hamilton Mann
+  - "Métier : Développeur" de Jean-Christophe Arnulfo
+  - "Linux : Programmation système et réseau" (2ème édition) de Joëlle Delacroix
+  - "Introduction aux scripts shell" de Arnold Robbins et Nelson-H-F Beebe
+
+  Depuis 2019, je suis également <strong>contributeur open-source</strong> en participant au développement de <a title="Java Hipster" href="https://www.jhipster.tech" target="_blank" rel="noreferrer noopener">JHipster</a> où je suis stream leader sur le <a title="Module de génération Kafka pour JHipster" href="https://github.com/fdelbrayelle/generator-jhipster-kafka" target="_blank" rel="noreferrer noopener">module de génération Kafka</a> (consumers/producers...) associé.
+
+content:
+  - title: Expérience
+    layout: list
+    content:
+      - layout: left
+        title: Kestra
+        sub_title: Lead Software Engineer
+        caption: Depuis Mai 2025
+        link: www.kestra.io
+        description: | # this will include new lines to allow paragraphs
+          <img alt="Logo de Kestra" src="images/kestra_logo.png" style="width: 300px;" />
+          <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
+          <p style="font-weight: bold;">Équipe Plugins / Intégrations</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Création de workflows pour les data engineers, platform engineers et software engineers</li>
+              <li>Business : Orchestration et automatisation</li>
+              <li>Méthodologique : Cycles de 2 mois (versions mineures de Kestra core)</li>
+              <li>Équipe : +/- 30 personnes</li>
+              <li>Volumétrie : 30+ entreprises clientes - millions de workflows exécutés / mois</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Maintenance de <a href="https://github.com/orgs/kestra-io/repositories?q=plugin" target="_blank" rel="noreferrer noopener">150+ repositories de plugins</a>, storages et secrets managers (OSS &amp; EE)</li>
+              <li>Croissance de 600 à <a href="https://kestra.io/plugins" target="_blank" rel="noreferrer noopener">1100+ plugins</a> en 8 mois (+ 83 %) : création from scratch de plugins <a href="https://github.com/kestra-io/plugin-mistral/pull/1" target="_blank" rel="noreferrer noopener">Mistral</a>, <a href="https://github.com/kestra-io/plugin-deepseek/pull/2" target="_blank" rel="noreferrer noopener">Deepseek</a>, <a href="https://github.com/kestra-io/plugin-beam/pull/5" target="_blank" rel="noreferrer noopener">Beam</a>, <a href="https://github.com/kestra-io/plugin-bluesky/pull/3" target="_blank" rel="noreferrer noopener">Bluesky</a>, VMware EE, SAP EE, 1Password...</li>
+              <li><a href="https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&amp;type=pullrequests" target="_blank" rel="noreferrer noopener">6600+ contributions sur GitHub</a> depuis le début</li>
+              <li>Stabilisation des plugins critiques (JDBC, Git, FS, Serdes...) et réduction des tests flaky (ex. Kubernetes EE : de 2h15 à 15 min)</li>
+              <li>Ajout et correction de centaines de tests, mise en place d'une CI quotidienne sur kestra:develop</li>
+              <li>Support communautaire large : centaines d'issues traitées (Hacktoberfest, événements réguliers, tickets Pylon)</li>
+              <li>Mise en place d'un nouveau cycle de vie de release et de releases continues automatisées</li>
+              <li>Nouveau Git Sync avec <a href="https://github.com/kestra-io/plugin-git/pull/177" target="_blank" rel="noreferrer noopener">NamespaceSync</a> &amp; <a href="https://github.com/kestra-io/plugin-git/pull/180" target="_blank" rel="noreferrer noopener">TenantSync</a> (OSS &amp; EE)</li>
+              <li>Co-conception de l'architecture de l'API Plugin Metadata &amp; Releases, amélioration des performances</li>
+              <li>Structuration de l'équipe Plugins : priorités, dashboards, répartition du travail, mentoring, onboarding</li>
+              <li>Organisation de sujets cooldown : flakiness, tests désactivés, lib partagée OSS/EE, rapports hebdomadaires</li>
+              <li>Pionnier de l'adoption des outils IA chez Kestra : co-rédaction des AI Coding Agent Guidelines, création de l'Engineering AI Hub, intégration MCP pour plugins &amp; blueprints</li>
+              <li>Conférences : DevLille 2025 &amp; 2026 (talk sur Kestra, plugins &amp; agents IA), <a href="https://bigdataldn.com" target="_blank" rel="noreferrer noopener">Big Data London 2025</a>, Data Days Lille 2026</li>
+              <li>Contribution DevRel : vidéos (SDK Python/Go/JS, plugins Gemini/Ollama/OpenAI/Salesforce/VMware), <a href="https://kestra.io/blogs" target="_blank" rel="noreferrer noopener">articles de blog</a>, posts LinkedIn</li>
+              <li>Aide au recrutement (3 ingénieurs) et aux partenariats (Conapi GmbH, WeScale)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 21+</mark>, <mark>Micronaut</mark>, <mark>Gradle</mark>, <mark>Vue 3</mark>, <mark>Nuxt 3</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Google Cloud Platform</mark>, <mark>PostgreSQL</mark>, <mark>git</mark>, <mark>GitHub Actions</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <hr style="margin: 25px 0; clear: left;" />
+
+      - layout: left
+        title: Malt
+        sub_title: Senior / Lead Software Engineer
+        caption: Octobre 2022 - Mai 2025
+        link: www.malt.fr
+        description: | # this will include new lines to allow paragraphs
+          <img alt="Logo de Malt" src="images/malt-logo.png" style="width: 300px;" />
+          <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
+          <p style="font-weight: bold;">Tribe Transaction - Squad Project (10 mois)</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Gestion du suivi des projets / missions entre clients et freelances</li>
+              <li>Business : Domaines des devis, projets, dépenses, suivis d'activité, recommandations suite à fin de mission</li>
+              <li>Méthodologique : Kanban - No Estimates - Focus / Cool-Down</li>
+              <li>Équipe : +/- 10 personnes</li>
+              <li>Volumétrie : 700 000+ freelancers - 350 000+ entreprises clientes - 60 000+ projets clients / an</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Migration technique importante du domaine des <a href="https://www.youtube.com/watch?v=2ug1T0_ZDyA" target="_blank">devis freelances</a> de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3 + création d'un nouveau domaine et de nouvelles APIs.</li>
+              <li>Migration technique du domaine des recommandations freelances par les clients suite à fin de mission de JSP/HBS/JS/Vue 2 (legacy) vers Vue 3 / Nuxt 3 + création d'un nouveau domaine et de nouvelles APIs.</li>
+              <li>Animation de l'équipe avec introduction de nouveaux rituels : démo, daily sync, templates JIRA, document de suivi de QA, etc.</li>
+            </ul>
+          </p>
+          <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
+          <p style="font-weight: bold;">Tribe Staffing - Squad Matching (21 mois)</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Applicant Tracking System / Freelancing</li>
+              <li>Business : Domaines de la recherche de freelancers et de la création de projets par les entreprises clientes</li>
+              <li>Méthodologique : Kanban - No Estimates - Focus / Cool-Down</li>
+              <li>Équipe : +/- 10 personnes</li>
+              <li>Volumétrie : 700 000+ freelancers - 350 000+ entreprises clientes - 200 000+ recherches / mois</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Suite au rachat de Comatch, <a href="https://www.malt.fr/c/maltstrategy/companies?source_component=hero-strategy" title="Malt Strategy" target="_blank">nouveau funnel de projets dédié à une catégorie stratégique de freelancers</a></li>
+              <li>Refonte de la gestion de la date de démarrage et de la durée d'un projet / brief</li>
+              <li>Migration technique du domaine de la recherche de freelancers de JSP/HBS/JS (legacy) vers Vue 3 / Nuxt 3</li>
+              <li>Migration technique de la liste des projets Vue 2 (legacy) vers Vue 3 / Nuxt 3</li>
+              <li>Refonte du <a href="https://help.malt.com/kb/guide/fr/les-offres-et-frais-de-service-malt-HSSbMl3qrl/Steps/2689803" title="Offres et frais de service Malt" target="_blank">nouveau système de service level</a> et mise en place d'un système de blocage pour éviter le <em>by-pass</em> (compteur de profils vus pour les utilisateurs connectés, obligation de créer un compte et de se connecter pour consulter un profil, retrait d'informations permettant de retrouver un freelance en dehors du site...)</li>
+              <li>Conception d'une <a href="https://www.malt.fr/c/product-release" title="AI Search" target="_blank">recherche avancée basée en partie sur l'IA générative</a></li>
+              <li><em>Proof of concept</em> réalisé lors d'un hackathon IA pour trouver des freelances dont le portfolio comporte des images correspondant à une recherche textuelle ou par image (<em>text to image</em>, <em>image to image</em>) via l'utilisation de Vertex AI et de QDrant (base de données vectorielles)</li>
+            </ul>
+          </p>
+          <p><strong>Architecture et leading technique</strong> :
+              <ul>
+                <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Notion)</li>
+                <li>Rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
+                <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...)</li>
+                <li>Points de synchronisation avec les <em>tech leads</em> des autres squads</li>
+                <li>Points de synchronisation inter squads</li>
+                <li>Collaboration rapprochée avec Product Manager et Product Designer</li>
+                <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...)</li>
+                <li>Organisation d'<em>event stormings</em> pour délimiter nos domaines</li>
+              </ul>
+          </p>
+          <p>
+            <strong><em>Software craftsmanship</em></strong> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>platform engineers</em>), <mark>mob-programming</mark>, CI/CD, ...
+          </p>
+          <p>
+            <strong>Études, développement et tests</strong> : réalisation d'évolutions et correctifs. Support tournant.
+          </p>
+          <p style="font-weight: bold;">Back-end, front-end and SRE guilds member</p>
+          <p><strong>Environnement :</strong> <mark>Kotlin</mark>, <mark>Java 17+</mark>, <mark>Monorepo</mark>, <mark>Architecture hexagonale</mark>, <mark>CQRS</mark>, <mark>Spring Boot</mark>, <mark>Gradle</mark>, <mark>Vue 3</mark>, <mark>Nuxt 3</mark>, <mark>RabbitMQ</mark>, <mark>Kafka</mark>, <mark>jOOQ</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Memorystore, Cloud Storage, BigQuery, ...)</mark>, <mark>Testcontainers</mark>, <mark>PostgreSQL</mark>, <mark>Mongo</mark>, <mark>Redis</mark>, <mark>Keycloak</mark>, <mark>git</mark>, <mark>GitLab</mark>, <mark>GitLab CI</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Datadog</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <p>
+            <strong>🗣️ <em>Talks</em> donnés :</strong>
+            <ul>
+              <li>Conférence <a title="RGPD pour les développeurs" href="https://devfest.gdglille.org/" target="_blank" rel="noreferrer noopener">"RGPD pour les développeurs"</a> (<a title="Support pour RGPD pour les développeurs" href="https://github.com/fdelbrayelle/talk-gdpr-for-developers" target="_blank" rel="noreferrer noopener">support</a>) aux Malt Tech Days 2023</li>
+            </ul>
+          </p>
+          <p>
+            <strong>🌍 Participation (spectateur) à des conférences :</strong>
+            <ul>
+              <li><a title="DevFest Lille 2024" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2024</li>
+              <li><a title="DevFest Lille 2023" href="https://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2023</li>
+              <li><a title="Devoxx 2023" href="https://www.devoxx.fr/" target="_blank" rel="noreferrer noopener">Devoxx</a> 2023</li>
+            </ul>
+          </p>
+          <hr style="margin: 25px 0; clear: left;" />
+
+      - layout: left
+        title: Ippon Technologies
+        sub_title: Développeur Full-Stack / Tech-Lead senior - Architecte Solutions junior - Formateur
+        caption: Octobre 2019 - Septembre 2022
+        link: fr.ippon.tech
+        description: | # this will include new lines to allow paragraphs
+          <img alt="Logo de Ippon Technologies" src="images/ippon_new_logo.png" style="width: 300px; margin-bottom: 25px;" />
+          <p>
+            <h4>Capitalisation :</h4>
+            <br />
+            <p>
+              <strong>🧑‍🏫 Formations données :</strong>
+              <ul>
+                <li>Expert Spring (Core, Hibernate, JPA, Boot, Data, Batch, Web MVC, Security, Integration...) sur plusieurs sessions de 3 jours en interne Ippon et pour des clients (Brittany Ferries). Amélioration et refonte du support de formation (<em>slides</em> et exercices) en équipe.</li>
+              </ul>
+            </p>
+            <p>
+              <strong>👨‍🎓 Formations reçues :</strong>
+              <ul>
+                <li>Solutions Architect (2 jours en interne) avec mises en situations (katas d'architecture)</li>
+                <li>Keycloak (2 jours en interne) avec exercices (utilisation de l'interface d'admin, <em>kcadm</em>, <em>social login</em>, création d'un <em>plugin</em>, personnalisation d'une page de <em>login</em>)</li>
+                <li>API management (2 jours en interne) avec <a href="https://docs.microsoft.com/en-us/learn/modules/publish-manage-apis-with-azure-api-management/1-introduction?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.architect-api-integration" target="_blank" rel="noreferrer noopener">exercices sur Azure API Management</a></li>
+                <li><a title="Formation Udemy Apache Kafka" href="https://www.udemy.com/course/apache-kafka/" target="_blank" rel="noreferrer noopener">Udemy Apache Kafka</a> avec pour objectif la certification <a title="Confluent Certified Developer for Apache Kafka" href="https://www.confluent.io/certification/" target="_blank" rel="noreferrer noopener">Confluent Certified Developer for Apache Kafka</a></li>
+              </ul>
+            </p>
+            <p>
+              <strong>📰 Rédaction de contenu technique :</strong>
+              <ul>
+                <li>Référent du <a title="Blog Ippon" href="https://blog.ippon.fr" target="_blank" rel="noreferrer noopener">blog Ippon</a> pour la <em>practice full-stack</em> (organisation, accompagnement, choix éditoriaux...)</li>
+                <li><a title="Comment améliorer l'expérience des développeurs (DevX) ?" href="https://welovedevs.com/fr/articles/comment-ameliorer-lexperience-du-developpeur-devx/" target="_blank" rel="noreferrer noopener">Comment améliorer l'expérience des développeurs (DevX) ?</a> sur le blog WeLoveDevs</li>
+                <li>Articles écrits sur le blog Ippon :</li>
+                <ul>
+                  <li><a title="Passer la certification GCP Professional Cloud Architect" href="https://blog.ippon.fr/2022/08/03/gcp-professional-cloud-architect/" target="_blank" rel="noreferrer noopener">Passer la certification GCP Professional Cloud Architect</a></li>
+                  <li><a title="Test du cloud public IaaS de nua.ge" href="https://blog.ippon.fr/2022/02/25/test-du-cloud-public-iaas-de-nua-ge/" target="_blank" rel="noreferrer noopener">Test du cloud public IaaS de nua.ge</a></li>
+                  <li><a title="Liquibase dans un init container sur GCP" href="https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/" target="_blank" rel="noreferrer noopener">Liquibase dans un init container sur GCP</a></li>
+                  <li><a title="Créer un module JHipster : une façon de contribuer à l'open source" href="https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/" target="_blank" rel="noreferrer noopener">Créer un module JHipster : une façon de contribuer à l'open source</a></li>
+                  <li><a title="Kafka et JHipster ? C'est possible !" href="https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/" target="_blank" rel="noreferrer noopener">Kafka et JHipster ? C'est possible !</a></li>
+                  <li><a title="WebStories Lille 2021" href="https://blog.ippon.fr/2021/02/26/webstories-lille-2021/" target="_blank" rel="noreferrer noopener">WebStories Lille 2021</a></li>
+                </ul>
+              </ul>
+            </p>
+            <p>
+              <strong>🗣️ <em>Talks</em> donnés :</strong>
+              <ul>
+                <li>Conférence <a title="REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://sunny-tech.io/schedule/2022-07-01?sessionId=MkEtWfsIOK8wQl2xXpVN" target="_blank" rel="noreferrer noopener">"REST, gRPC, GraphQL, Webhooks : dans quelles situations ?"</a> (<a title="Support pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks" target="_blank" rel="noreferrer noopener">support</a> - <a title="Vidéo pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://www.youtube.com/watch?v=EajuaPWdESo" target="_blank" rel="noreferrer noopener">vidéo</a>) à <a title="Sunny Tech 2022" href="https://sunny-tech.io" target="_blank" rel="noreferrer noopener">Sunny Tech 2022</a> (01/07/2022)</li>
+                <li>Conférence <a title="REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://cfp-voxxed-lux.yajug.org/2022/talk/PJG-5716/REST,_gRPC,_GraphQL,_Webhooks_:_dans_quelles_situations_%3F" target="_blank" rel="noreferrer noopener">"REST, gRPC, GraphQL, Webhooks : dans quelles situations ?"</a> (<a title="Support pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks" target="_blank" rel="noreferrer noopener">support</a> - <a title="Vidéo pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://www.youtube.com/watch?v=xMTlq7PvPYU" target="_blank" rel="noreferrer noopener">vidéo</a>) à <a title="Voxxed Days Luxembourg 2022" href="https://luxembourg.voxxeddays.com" target="_blank" rel="noreferrer noopener">Voxxed Days Luxembourg 2022</a> (22/06/2022)</li>
+                <li>Conférence <a title="RGPD pour les développeurs" href="https://devfest.gdglille.org/" target="_blank" rel="noreferrer noopener">"RGPD pour les développeurs"</a> (<a title="Support pour RGPD pour les développeurs" href="https://github.com/fdelbrayelle/talk-gdpr-for-developers" target="_blank" rel="noreferrer noopener">support</a> - <a title="Vidéo pour RGPD pour les développeurs" href="https://www.youtube.com/watch?v=wkbQ6Ec4qXY" target="_blank" rel="noreferrer noopener">vidéo</a>) au <a title="DevFest Lille 2022" href="https://devfest.gdglille.org/" target="_blank" rel="noreferrer noopener">DevFest Lille 2022</a> (10/06/2022)</li>
+                <li>Twitch <a title="Présentation de l'offre de Nua.ge avec François Delbrayelle, Nathan Sens et Olivier Doucet (CEO Nua.ge)" href="https://www.twitch.tv/videos/1412982113" target="_blank" rel="noreferrer noopener">Présentation de l'offre de Nua.ge</a> (25/02/2022)</li>
+                <li>Conférence <a title="REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://touraine.tech/talk/MkEtWfsIOK8wQl2xXpVN" target="_blank" rel="noreferrer noopener">"REST, gRPC, GraphQL, Webhooks : dans quelles situations ?"</a> (<a title="Support pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks" target="_blank" rel="noreferrer noopener">support</a> - <a title="Vidéo pour REST, gRPC, GraphQL, Webhooks : dans quelles situations ?" href="https://www.youtube.com/watch?v=s5qRho_FIyc" target="_blank" rel="noreferrer noopener">vidéo</a>) à <a title="Touraine Tech 2022" href="https://touraine.tech/#schedule" target="_blank" rel="noreferrer noopener">Touraine Tech 2022</a> (21/01/2022)</li>
+                <li>IppDéj en binôme sur les tests de contrats avec <a title="Tavern Testing" href="https://taverntesting.github.io/" target="_blank" rel="noreferrer noopener">Tavern Testing</a> (24/02/2020)</li>
+                <li>Présentation de JHipster en midi technique à l'école Epitech Lille (27/11/2019)</li>
+              </ul>
+            </p>
+            <p>
+              <strong>🗣️ <em>Tech Community Ambassador</em> :</strong>
+              <ul>
+                <li>Sponsoring lors de Meetups locaux</li>
+                <li>Relai entre <em>speakers</em> Ippon et organisations de Meetups locaux</li>
+                <li>Membre de l'organisation du DevFest Lille 2022 en tant que <em>reviewer</em> de CFPs (sans droit de délibération)</li>
+                <li>IppDéj et IppApéro en binôme pour lancer un comité de relecture des CFPs pour les gros évènements et s'organiser au niveau national et local</li>
+              </ul>
+            </p>
+            <p>
+              <strong>🌍 Participation (spectateur) à des conférences :</strong>
+              <ul>
+                <li><a title="Sunny Tech 2022" href="https://sunny-tech.io/schedule" target="_blank" rel="noreferrer noopener">Sunny Tech</a> 2022</li>
+                <li><a title="Voxxed Days Luxembourg 2022" href="https://cfp-voxxed-lux.yajug.org/2022/index.html" target="_blank" rel="noreferrer noopener">Voxxed Days Luxembourg</a> 2022</li>
+                <li><a title="DevFest Lille 2022" href="https://devfest.gdglille.org/agenda/index.html" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2022</li>
+                <li><a title="Devoxx 2022" href="https://www.devoxx.fr/" target="_blank" rel="noreferrer noopener">Devoxx</a> 2022</li>
+                <li><a title="Touraine Tech 2022" href="https://touraine.tech/#schedule" target="_blank" rel="noreferrer noopener">Touraine Tech</a> 2022</li>
+                <li><a title="Cloud Nord 2021" href="https://cloudnord.fr/programme2021" target="_blank" rel="noreferrer noopener">Cloud Nord</a> 2021</li>
+                <li><a title="WebStories 2021" href="https://webstoriesconf.com" target="_blank" rel="noreferrer noopener">WebStories</a> 2021</li>
+                <li><a title="Cloud Nord 2020" href="https://cloudnord.fr/agenda" target="_blank" rel="noreferrer noopener">Cloud Nord</a> 2020</li>
+                <li><a title="Agile Tour Lille" href="http://2019.agiletour-lille.org/programme" target="_blank" rel="noreferrer noopener">Agile Tour Lille</a> 2019</li>
+                <li><a title="Microsoft Ignite The Tour" href="https://paris.myignitetour.techcommunity.microsoft.com/" target="_blank" rel="noreferrer noopener">Microsoft Ignite the Tour</a> 2019</li>
+              </ul>
+            </p>
+          </p>
+          <p style="margin-top: 25px;">
+            <h4>Évolution et vie d'agence :</h4>
+            <br />
+            <p>
+              <strong>🥋 <em>Black Belt</em> (programme d'objectifs d'évolution) :</strong>
+              <ul>
+                <li>🟢 <em>Solution Architecture</em> : <em>green belt</em> en cours (11/14 objectifs validés)</li>
+                <li>⚫ <em>Full-Stack</em> : <em>black belt</em> en cours (8/12 objectifs validés)</li>
+                <li>🟤 <em>Full-Stack</em> : <em>brown belt</em> validée (12/12 objectifs validés)</li>
+              </ul>
+            </p>
+            <p>
+              <strong>🧙‍♂️ <em>Mentoring</em> :</strong>
+              <ul>
+                <li>Encadrement de plusieurs développeurs <em>full-stack</em> plus junior (<em>belts</em> orange, verte, bleue, marron) dans leurs objectifs annuels (mission, capitalisation, rédaction d'articles, évènements...)</li>
+              </ul>
+            </p>
+            <p>
+              <strong>🤝 Auditeur pour entretiens techniques</strong> de profils de différents niveaux (stagiaires, alternants, débutants, confirmés) en lien avec le service RH.
+            </p>
+          </p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>Galeries Lafayette - Février 2021 à Septembre 2022 (20 mois)</h4>
+          <img alt="Logo des Galeries Lafayette" src="images/gl_logo.png" style="float: right; width: 250px; margin: 25px;" />
+          <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
+          <p style="font-weight: bold;">Services / APIs multi-canaux (e-commerce, mobile...)</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Vente / E-Commerce</li>
+              <li>Business : PIM et tunnel de commandes. Refonte du <a title="Galeries Lafayette" href="https://www.galerieslafayette.com/" target="_blank" rel="noreferrer noopener">site e-commerce des Galeries Lafayette</a> (B2C) dans le cadre du programme accélérateur NewGL pour décommissionner le <em>legacy</em> et unifier les fiches produits avec STEP pour outil central du PIM. Services et APIs pour le SI GL (e-commerce, portail vendeur en magasin, encaissement, application mobile).</li>
+              <li>Méthodologique : Agile (Scrum - Sprints de 2 semaines - SAFe avec PI plannings mensuels)</li>
+              <li>Équipe : +/- 10 personnes</li>
+              <li>Volumétrie : Centaines de milliers de produits indexés chaque jour - <a href="https://www.groupegalerieslafayette.fr/groupe" title="Groupe Galeries Lafayette" target="_blank" rel="noreferrer noopener">60 millions de visiteurs dans 290 magasins et sur ses sites e-commerce chaque année</a></li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li><em>Tech lead</em> transverse sur le <em>Product Information Management</em> (PIM) et le tunnel de commandes</li>
+                  <li>Création et modification de micro-services avec approche <em>design first</em> (OpenAPI) et en architecture hexagonale pour l'implémentation</li>
+                  <li>Conception de diagrammes UML : composants (cartographie du périmètre), cas d'utilisations et de séquences</li>
+                  <li>Maintien d'un partage de connaissances avancé (capitalisation/documentation/impacts sur Confluence)</li>
+                  <li>Rédaction d'<a href="https://adr.github.io/" title="architectural decision records" target="_blank" rel="noreferrer noopener">ADR</a> (<em>architectural decision records</em>) pour tracer les échanges</li>
+                  <li>Animation d'ateliers techniques et de points dévs avec l'équipe et d'autres parties prenantes (ops, ...)</li>
+                  <li>Points de synchronisation avec les <em>tech leads</em> des autres équipes</li>
+                  <li>Relance de la communauté des développeurs NewGL</li>
+                  <li>Support en tant qu'interlocuteur technique avec les différentes équipes et acteurs : front, BFF, application du portail vendeur, application d'encaissement, applications <em>legacy</em> et ops</li>
+                  <li>Collaboration rapprochée avec PO et SM</li>
+                  <li>Ateliers d'architecture et rédaction de RICEFW (<em>Reports, Interface, Conversion, Enhancements, Forms, and Workflows</em>), IFS (<em>InterFace Specifications</em>) et NFR (<em>Non Functional Requirements</em>) pour accompagner la mise en place de SAP Commerce Cloud (<em>replatforming</em>)</li>
+                  <li><em>On-boarding</em> des nouveaux arrivants (documentation spécifique, accompagnement, <em>pair/mob-programming</em>...)</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <em>Behavior-Driven Development</em> (<mark>BDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur les APIs et briques du périmètre (Offer, Merch, Product, Asset, Cart, Delivery, Payment, Customer, ...)</li>
+              <li>Mission 100 % <em>back-end</em> autour d'une vingtaine de microservices (RESTful APIs) mais avec nécessité d'aller parfois comprendre le code des BFFs (Apollo Server GraphQL), du front (en Vue 3 et GraphQL) ou de librairies Jenkins (en Groovy)</li>
+              <li>Rôle de <em>scrum master</em> pour animer notamment l'équipe sur les rituels Scrum (<em>daily</em>, rétrospectives, ...)</li>
+              <li>Promotion de pratiques agiles et DevOps au sein de l'équipe et en relation avec les autres</li>
+              <li>Utilisation de Kafka en <em>backbone</em> pour communiquer entre les différentes briques</li>
+              <li>Utilisation de Webhooks pour les Incoming Webhooks Slack et la mise à jour des prix et stocks pour les offres marketplace depuis Mirakl</li>
+              <li>Utilisation d'outils relatifs au e-commerce : <a href="https://www.mirakl.fr/" title="Mirakl" target="_blank" rel="noreferrer noopener">Mirakl</a> (marketplace), <a href="https://www.stibosystems.com/fr/solution/step-mdm-platform" title="STEP" target="_blank" rel="noreferrer noopener">STEP</a> (PIM) (<em>Master Data Management</em>), <a href="https://attraqt.gitbook.io/developer-documentation/collect-online-users-activities/tracking-plans/fhr-complete" title="Fredhopper (FHR)" target="_blank" rel="noreferrer noopener">Fredhopper</a> (pages catalogues et facettes), <a href="https://www.grand-shooting.com/fr/" title="Grand Shooting" target="_blank" rel="noreferrer noopener">Grand Shooting</a> (gestion des <em>assets</em>), <a href="https://www.target2sell.com/produits/recommend/" title="Target2Sell" target="_blank" rel="noreferrer noopener">Target2Sell</a> (moteur de recommandations), <a href="https://www.attraqt.com/fr-fr/blog/attraqt-acquiert-eb/" title="Early Birds" target="_blank" rel="noreferrer noopener">Early Birds</a>, <a href="https://www.sap.com/france/acquired-brands/what-is-hybris.html" title="Hybris" target="_blank" rel="noreferrer noopener">Hybris</a> (<em>legacy</em>), <a href="https://www.cloudflare.com/fr-fr/" title="Cloudflare" target="_blank" rel="noreferrer noopener">Cloudflare</a>, <a href="https://www.twicpics.com/fr" title="TwicPics" target="_blank" rel="noreferrer noopener">TwicPics</a>, <a href="https://www.algolia.com/" title="Algolia" target="_blank" rel="noreferrer noopener">Algolia</a> (<em>Site Search</em>), <a href="https://www.ingenico.com/fr/login/ogone/" title="Ogone" target="_blank" rel="noreferrer noopener">Ogone</a> (PSP cartes), <a href="https://www.odigo.com/" title="Prosodie" target="_blank" rel="noreferrer noopener">Prosodie</a> (PSP cartes cadeaux), <a href="https://www.braintreepayments.com/" title="Braintree" target="_blank" rel="noreferrer noopener">Braintree</a> (PSP PayPal)...</li>
+              <li>Organisation 100 % <em>full remote</em> (Slack, Mural, Google Meet, <a href="https://plugins.jetbrains.com/plugin/14896-code-with-me" title="Plugin Code With Me pour IntelliJ" target="_blank" rel="noreferrer noopener">IntelliJ Code With Me</a>, ...) sur l'ensemble de la mission</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 12 et 17</mark>, <mark>Kotlin</mark>, <mark>Python</mark>, <mark>Groovy</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Cucumber</mark>, <mark>Open API</mark>, <mark>PlantUML</mark>, <mark>Kafka</mark>, <mark>Kafka Streams</mark>, <mark>Kafka Connect</mark>, <mark>Aiven</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Arrow</mark>, <mark>MockK</mark>, <mark>vavr</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Cloud SQL, Memorystore, Cloud Storage, Cloud Functions, BigQuery, ...)</mark>, <mark>Testcontainers</mark>, <mark>Cerberus</mark>, <mark>Karate</mark>, <mark>PostgreSQL</mark>, <mark>Redis</mark>, <mark>GraphQL</mark>, <mark>Webhooks</mark>, <mark>Keycloak</mark>, <mark>git</mark>, <mark>Bitbucket</mark>, <mark>Jenkins</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Dynatrace</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <hr style="margin: 25px 0; clear: left;" />
+
+          <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
+          <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: right; width: 250px; margin: 25px;" />
+          <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes) - Télétravail partiel et intégral</p>
+          <p style="font-weight: bold;">Application web d'installation de suivi des chantiers clients</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Vente</li>
+              <li>Business : Déploiement à l'international (et notamment au Portugal et au Brésil) de l'application intranet d'installation (<a href="https://instala.leroymerlin.fr" title="Instala" target="_blank" rel="noreferrer noopener">Instala</a>) liée au hub de pose des chantiers clients dans un secteur fortement concurrentiel (vente / e-commerce et chantiers de bricolage) avec convergence des applications françaises (LMFR) et portugaise (LMPT)</li>
+              <li>Méthodologique : Agile (Scrum - Kanban - <em>No Estimates</em> - <em>3 Amigos</em> - <em>Squads</em>), équipe orientée produit selon le <a href="https://www.thiga.co/fr/livre-organisations-produit" title="Les organisations orientées Produit" target="_blank" rel="noreferrer noopener">référentiel Thiga</a> (OKR...)</li>
+              <li>Équipe : +/- 25 personnes</li>
+              <li>Volumétrie : Centaines de chantiers chaque semaine - Milliers d'utilisateurs (conseillers en magasin et artisans)</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li><em>Lead dev</em> sur l'une des squads de l'équipe produit en lien avec le <em>tech lead</em></li>
+                  <li>Création et modification de micro-services</li>
+                  <li>Co-construction de l'architecture pour <em>matcher</em> des plateformes partenaires d'artisans pour les produits d'une commande client et mise en relation de ces plateformes avec l'application principale via des adapters, mise en place du mode direct artisans</li>
+                  <li>Conception de nouveaux composants front avec React et utilisation de Storybook</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark> (avec développeurs, <em>cloud engineers</em>, QA, UI/UX...), <mark>mob-programming</mark>, CI/CD, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs <em>back-end</em> et <em>front-end</em> sur de nouveaux écrans</li>
+              <li>Participation à des <em>event stormings</em> pour faire émerger les besoins, domaines, évènements, agrégats...</li>
+              <li>Contribution à l'infrastructure DevOps notamment à travers la guilde DevOps : mise à jour de charts Helm, utilisation de Terraform,  création/modification de pipelines GitHub Actions...</li>
+              <li>Réduction de la dette technique notamment lors de semaines dédiées par streams alloués à des sujets spécifiques</li>
+              <li>Prise en charge du run à hauteur d'une semaine chaque mois environ : <em>You build it, you run it!</em></li>
+              <li>Participation à la guilde de développeurs de Leroy Merlin : retour d'expérience d'utilisation de Quarkus sur la migration d'un module développé initialement en Spring Boot (21/02/2019)</li>
+              <li>Organisation <em>remote</em> et <em>full remote</em> (Discord, <a href="https://code.visualstudio.com/learn/collaboration/live-share" title="Collaborate with Live Share" target="_blank" rel="noreferrer noopener">VS Code Live Share</a>, Miro, Slack, Google Meet...) pendant une partie de la mission</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 11</mark>, <mark>Scala</mark>, <mark>Micro-services</mark>, <mark>Architecture hexagonale</mark>, <mark>Spring Boot</mark>, <mark>Quarkus</mark>, <mark>Kafka</mark>, <mark>Kafka Streams</mark>, <mark>Aiven</mark>, <mark>Elasticsearch</mark>, <mark>React</mark>, <mark>Formik</mark>, <mark>Storybook</mark>, <mark>Google Cloud Platform (Kubernetes Engine, Cloud SQL, ...)</mark>, <mark>Google Data Studio</mark>, <mark>Docker</mark>, <mark>OpenShift</mark>, <mark>Kubernetes</mark>, <mark>Helm</mark>, <mark>Terraform</mark>, <mark>git</mark>, <mark>GitLab CI</mark>, <mark>GitHub Actions</mark>, <mark>Hibernate</mark>, <mark>Flyway</mark>, <mark>PostgreSQL</mark>, <mark>MongoDB</mark>, <mark>MongoDB Atlas</mark>, <mark>Cerberus</mark>, <mark>Datadog</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>
+          <hr style="margin: 25px 0; clear: left;" />
+
+      - layout: left
+        title: Gfi Informatique (devenu Inetum)
+        sub_title: Développeur Full-Stack / Tech-Lead senior - Formateur
+        caption: Avril 2015 - Octobre 2019
+        link: www.gfi.world
+        description: | # this will include new lines to allow paragraphs
+          <img alt="Logo de Gfi Informatique" src="images/gfi_logo.png" />
+          <p>
+            <h4>Capitalisation :</h4>
+            <br />
+            <p>
+              <strong>🧑‍🏫 Formations données :</strong>
+              <ul>
+                <li><strong>Java EE</strong> et <strong>Spring</strong> entre avril 2015 et septembre 2019 lors des sessions "Welcome" de deux semaines (plusieurs fois par an)</li>
+                <li><strong>Angular</strong> et <strong>AngularJS</strong></li>
+              </ul>
+            </p>
+            <p>
+              <strong>👨‍🎓 Formations reçues :</strong>
+              <ul>
+                <li>IBM WebSphere Application Server v8.5.5 - Administration (5 jours à temps plein - IB Formation)</li>
+              </ul>
+            </p>
+            <p>
+              <strong>🗣️ <em>Talks</em> donnés :</strong>
+              <ul>
+                <li>Midi technique sur <a title="Midi technique sur Micronaut et Quarkus" href="https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus" target="_blank" rel="noreferrer noopener">Micronaut et Quarkus</a></li>
+                <li>Midi technique sur <a title="Midi technique sur Kubernetes" href="https://github.com/fdelbrayelle/midi-tech-k8s" target="_blank" rel="noreferrer noopener">Kubernetes</a></li>
+                <li>Midi technique sur <a title="Midi technique sur Vue.js" href="https://github.com/fdelbrayelle/midi-tech-vuejs" target="_blank" rel="noreferrer noopener">Vue.js</a></li>
+                <li>Midi technique sur <a title="Midi technique sur JHipster" href="https://github.com/fdelbrayelle/midi-tech-jhipster" target="_blank" rel="noreferrer noopener">JHipster</a></li>
+                <li>Midi technique sur <a title="Midi technique sur l'après Java 8" href="http://github.com/fdelbrayelle/midi-tech-java-news" target="_blank" rel="noreferrer noopener">l'après Java 8</a></li>
+              </ul>
+            </p>
+            <p>
+              <strong>🌍 Participation (spectateur) à des conférences :</strong>
+              <ul>
+                <li><a title="DevFest Lille" href="http://devfest.gdglille.org" target="_blank" rel="noreferrer noopener">DevFest Lille</a> 2017 et 2019</li>
+                <li><a title="JHipster Conf" href="https://jhipster-conf.github.io" target="_blank" rel="noreferrer noopener">JHipster Conf</a> 2</li>
+                <li><a title="Forum International de la Cybersécurité" href="https://www.forum-fic.com" target="_blank" rel="noreferrer noopener">Forum International de la Cybersécurité</a> à Lille Grand Palais (2 jours en janvier 2018).</li>
+                <li>Atelier On-Board Google Cloud Platform 2019 organisé par Sfeir</li>
+              </ul>
+            </p>
+            <p>
+              <strong>🚀 Organisation de challenges techniques en interne</strong>
+            </p>
+          </p>
+          <p style="margin-top: 25px;">
+            <h4>Membre actif de la communauté des experts techniques :</h4>
+            <br />
+            <p>
+              <strong>🖥️ Interventions techniques ponctuelles sur divers projets :</strong>
+              <ul>
+                <li>Configuration d'applications sur <mark>IBM WebSphere Application Server</mark></li>
+                <li>Consultation sur des projets <mark>Spring Batch</mark></li>
+                <li>Déploiement d'applications et résolutions de problèmes DevOps sur <mark>Docker</mark>, <mark>Kubernetes</mark>, <mark>Jenkins Blue Ocean</mark>...</li>
+                <li>Monitoring, profiling, supervision et optimisation de la mémoire et du code, résolution de fuites mémoire...</li>
+                <li>Consultation sur des projets front <mark>Angular</mark></li>
+              </ul>
+            </p>
+            <p>
+              <strong>🤝 Auditeur pour entretiens techniques</strong> de profils de différents niveaux (stagiaires, alternants, débutants, confirmés) en lien avec le service RH.
+            </p>
+          </p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>BNP Leasing Solutions - Avril 2018 à Septembre 2019 (18 mois)</h4>
+          <img alt="Logo de BNP Leasing Solutions" src="images/bpls_logo.png" style="float: right; width: 300px; margin: 25px;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille) - Télétravail partiel</p>
+          <p style="font-weight: bold;">Applications web multiples</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Banque</li>
+              <li>Business :
+                <ul>
+                  <li>Nouvelle version de l'application web intranet de plate-forme d'acquisitions fournisseurs (PAF) (application monolithique entièrement nouvelle + plusieurs applications 100 % back pour l'appel aux fournisseurs via différents protocoles)</li>
+                  <li>Nouveaux écrans et maintien en condition opérationnelle (MCO) sur l'application web intranet "Know Your Customer" (KYC) (mesure de sensibilité des dossiers de financement, automatisation des processus, rendu de décisions pour études en risque...)</li>
+                  <li>Nouvelle application web intranet pour la mise en conformité avec le <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0679" title="règlement général sur la protection des données" target="_blank" rel="noreferrer noopener">règlement général sur la protection des données</a> (RGPD) (entré en vigueur le 25 mai 2018, délais courts) dans le cadre de la gestion des demandes d'accès ou de retrait des données personnelles</li>
+                </ul>
+              </li>
+              <li>Méthodologique : Agile (Scrum - Sprints de 2 à 3 semaines)</li>
+              <li>Équipe : +/- 10 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Contributions aux dossiers d'architecture technique (DAT)</li>
+                  <li>Production d'un document avec propositions dans le cadre d'un audit d'amélioration continue : mise en place de pipelines CI/CD, prévention des fuites mémoire, migration vers Java 11, migration de AngularJS vers Angular, mise en place de tests de montée en charge (JMeter), ...</li>
+                  <li>Conception avec approche <em>design first</em> (Swagger)</li>
+                  <li>Analyse technique</li>
+                  <li>Participation aux réunions d'architecture et force de proposition sur de nombreux sujets du projet pilote (PAF v2) chez le client sur plusieurs sujets (DevOps, Liquibase, ELK, OWASP...)</li>
+                  <li>Participation à la mise en place de la tierce maintenance applicative (TMA) lors de l'appel d'offres</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI/CD, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur plusieurs lots</li>
+              <li>Étude d'impacts de la mise en place et mise en place de JHipster pour générer les applications sur Angular 7 et Spring Boot 2 après présentations techniques auprès du client pour retenir ce choix. Accompagnement du client pour le lancement d'un blueprint JHipster avec des parties spécifiques à son SI (authentification Web SSO SAML V2, gestion des logs, base de données Oracle, charte graphique et thème)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 8</mark>, <mark>Java 11</mark>, <mark>JHipster</mark>, <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Spring Data JPA</mark>, <mark>Spring Batch</mark>, <mark>Spring JMS</mark>, <mark>ActiveMQ</mark>, <mark>TIBCO JMS</mark>, <mark>Hibernate</mark>, <mark>Hibernate Envers</mark>, <mark>Netflix Zuul</mark>, <mark>Oracle</mark>, <mark>Liquibase</mark>, <mark>IBM WebSphere Liberty Profile</mark>, <mark>UML</mark>, <mark>Merise</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>Pacifica - Février 2018 à Mars 2018 (2 mois)</h4>
+          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
+          <p style="font-weight: bold;">Application web pour les assurances</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Assurance</li>
+              <li>Business : Implémenter de nouveaux écrans pour une application web intranet de gestion des assurances</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur de nouveaux écrans du projet existant NewSesame sur les cotisations financières (incidents de paiement)</li>
+              <li>Mission 100 % <em>front-end</em> avec liens entre les étapes et appels au <em>back-end</em> Spring Boot <em>mockés</em> en JSON</li>
+              <li><em>Software craftsmanship</em> : revue de code, <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Angular</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>Lantik BFA - Décembre 2017 à Janvier 2018 (2 mois)</h4>
+          <img alt="Logo de Lantik BFA" src="images/lantik_bfa_logo.jpg" style="float: right; width: 300px;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
+          <p style="font-weight: bold;">Application web pour un portail du secteur public espagnol</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Secteur public</li>
+              <li>Business : Transformation digitale du SI interne de la <a title="Députation forale de Biscaye" href="https://fr.wikipedia.org/wiki/D%C3%A9putation_forale_de_Biscaye" target="_blank" rel="noreferrer noopener">députation forale de Biscaye</a> (province du Pays Basque : secteur public espagnol)</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 10 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Mise en place de l'environnement technique du client et des différents projets au sein du centre de services de Gfi Informatique Lille</li>
+                  <li>Suivi, accompagnement, formation et affectation des tâches techniques aux développeurs juniors</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur plusieurs projets</li>
+              <li>Prise de connaissances pour reprise de tâches de développement avec déplacement de 3 jours sur le site de Gfi Informatique Bilbao en Espagne</li>
+              <li>Communication en anglais et en espagnol au quotidien avec le client et l'équipe de Bilbao</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java</mark>, <mark>JSF 2.1</mark>, <mark>EJB</mark>, <mark>JBoss</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>Société générale - Octobre 2017 à Novembre 2017 (2 mois)</h4>
+          <img alt="Logo de la Société générale" src="images/sg_logo.png" style="float: right; width: 250px; margin: 12px;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
+          <p style="font-weight: bold;">Services Métier Distants (API)</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Banque</li>
+              <li>Business : Moderniser le back-end pour fédérer les appelants et appelés sur le système d'information de la Société générale</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Création de micro-services (APIsation de plusieurs services existants) avec approche <em>design first</em> (Swagger)</li>
+                  <li>Accompagnement de développeurs débutants (alternants, stagiaires et prestataires)</li>
+                  <li>Expertise technique pour le lancement du projet</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs</li>
+              <li>Mission 100 % <em>back-end</em> de REST APIs</li>
+              <li>Prise de connaissances au lancement du projet avec déplacement d'une journée avec toute l'équipe sur le site de la Société Générale à Fontenay-sous-Bois</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java 8</mark>, <mark>Jersey</mark>, <mark>Netflix Hystrix</mark>, <mark>JAX-RS</mark>, <mark>JAX-WS</mark>, <mark>Tanit</mark>, <mark>Comporsys</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>Pacifica - Juillet 2017 à Septembre 2017 (3 mois)</h4>
+          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
+          <p style="font-weight: bold;">Application web pour les assurances 2 roues</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Assurance</li>
+              <li>Business : Implémenter le front pour une nouvelle application web intranet de gestion des assurances 2 roues</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur la refonte d'une partie du projet NewSesame pour les assurances deux roues (A2) (partie formules et options)</li>
+              <li>Mission 100 % <em>front-end</em> avec liens entre les étapes et appels au <em>back-end</em> Spring Boot <em>mockés</em> en JSON</li>
+              <li><em>Software craftsmanship</em> : revue de code, <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Analyse de code existant en AngularJS sur la partie assurances quatre roues (A4) pour orienter les développements en Angular</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Angular</mark>, <mark>AngularJS</mark>, <mark>Spring Boot</mark>, <mark>Spring MVC</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>Crédit agricole - Janvier 2016 à Juin 2017 (18 mois)</h4>
+          <img alt="Logo du Crédit agricole" src="images/credit_agricole_logo.png" style="float: right;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
+          <p style="font-weight: bold;">Application web de gestion des risques opérationnels</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Banque / Finance</li>
+              <li>Business : Maintien en condition opérationnelle (MCO) et évolutions sur l'application web intranet gestion des risques opérationnels (projet "CAROline") et autres projets sensibles liés à la finance</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 10 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Contributions aux dossiers d'architecture technique (DAT)</li>
+                  <li>Ateliers de conception avec l'équipe et réunions avec le client</li>
+                  <li>Analyses techniques avec études d'impacts</li>
+                  <li>Transmission des bonnes pratiques</li>
+                  <li>Rédaction des spécifications techniques détaillées (STD) (sur un périmètre de plusieurs applications Java EE pour les filiales et caisses régionales web)</li>
+                  <li>Intégration et accueil des nouveaux développeurs (formation et passage de connaissances)</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Prise du rôle de responsable d'application et backup de développeurs</li>
+              <li>Études, développement et tests : réalisation d'évolutions et correctifs sur plusieurs lots</li>
+              <li>Conception des modèles objets</li>
+              <li>Chiffrages, abaques et devis sur des évolutions futures</li>
+              <li>Analyses causales d'incidents de production</li>
+              <li>Analyses et corrections suite à audits de sécurité et de qualité</li>
+              <li>Démos auprès de nombreux interlocuteurs</li>
+              <li>Reprise d'un projet en TMA</li>
+              <li>Assistance MOE/MOA pour la rédaction des spécifications fonctionnelles détaillées (SFD)</li>
+              <li>Rétrodocumentation</li>
+              <li>Suivi de la recette MOA et métier avec correction des anomalies</li>
+              <li>Modification de rapports BIRT</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>JSF 1.2</mark>, <mark>JSF 2.0</mark>, <mark>RichFaces</mark>, <mark>Tomahawk</mark>, <mark>SOAP</mark>, <mark>JDBC Template</mark>, <mark>JBoss</mark>, <mark>WebSphere</mark>, <mark>IBM WebSphere Liberty Profile</mark>, <mark>DB2</mark>, <mark>MQ</mark>, <mark>Jenkins</mark>, <mark>Sonar</mark>, <mark>UML</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>BNP Paribas - Avril 2015 à Décembre 2015 (9 mois)</h4>
+          <img alt="Logo de BNP Paribas" src="images/bnp_logo.png" style="float: right; margin: 25px;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
+          <p style="font-weight: bold;">Applications web multiples</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Banque</li>
+              <li>Business :
+                <ul>Maintien en condition opérationnelle (MCO) et évolutions :
+                  <li>Applications web pour la gestion des cartes "corporate" sur le site des cartes entreprise « corporate » BNP Paribas (<a title="BNP Paribas Cartes Entreprise" href="http://cartesentreprise.bnpparibas.com" target="_blank" rel="noreferrer noopener">internet</a> et intranet)</li>
+                  <li>Applications web RSDD, Souscription et RSDD CAFF</li>
+                  <li>Serveur de notifications <em>push</em> (servlet recevant des requêtes depuis un <em>mainframe</em>) vers différentes applications mobiles de la BNP Paribas</li>
+                  <li>Serveur vocal par téléphone</li>
+                </ul>
+              </li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipes : plusieurs de +/- 5 personnes (partie du centre de services banque/finance/assurance dédiée au client)</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li><strong>Architecture et leading technique</strong> :
+                <ul>
+                  <li>Contributions aux dossiers d'architecture technique (DAT)</li>
+                  <li>Ateliers de conception</li>
+                  <li>Transmission des bonnes pratiques</li>
+                  <li>Rédaction de spécifications techniques détaillées (STD) via RSM pour le centre de services offshore RSDD</li>
+                </ul>
+              </li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+              <li>Études, développement et tests dans le cadre de la tierce maintenance applicative (TMA) : correction d'anomalies, suivi des demandes et incidents et réalisation d'évolutions</li>
+              <li>Réécriture d'un script de contrôle des données lancé quotidiennement le matin</li>
+              <li>Diverses interventions et mises en qualification et production</li>
+              <li>Réalisation d'évolutions sur la TMA TELRES sur le projet de serveur d'envoi de notifications <em>push</em> (intégration d'une nouvelle application, lecture de notifications via fichiers CFT, stabilisation et amélioration des performances)</li>
+              <li>Préparation et présentation de la réversibilité du projet de serveur d'envoi de notifications <em>push</em> pendant 2 jours complets à un prestataire roumain en anglais</li>
+              <li>Intervention sur la TMA Canaux sur le projet de serveur vocal pour correction d'anomalies et évolutions</li>
+              <li>Participation à une présentation de la BNP Paribas sur la dette technique à Montreuil (93)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>WebSphere</mark>, <mark>DB2</mark>, <mark>bash</mark>, <mark>UML</mark>, <mark>Jenkins</mark>, <mark>SOAP</mark></p>
+          <hr style="margin: 25px 0; clear: left;" />
+
+      - layout: left
+        title: Norsys
+        sub_title: Développeur Full-Stack
+        caption: Avril 2011 - Avril 2015
+        link: www.norsys.fr
+        description: | # this will include new lines to allow paragraphs
+          <img alt="Logo de Norsys" src="images/norsys_logo.jpg" style="width: 325px;" />
+          <p>
+            <h4>👨‍🎓 Formations reçues :</h4>
+            <br />
+            <p>
+              <ul>
+                <li><strong>Techno Maker</strong> (clean code) : devenir polyglotte, pyramide de tests, TDD (exercice résolution du jeu de la vie), BDD, <em>design patterns</em>, DevOps, gestion des exceptions, <em>fail fast</em>, logs, <em>monitoring</em>, <em>circuit breaker</em>, tests de montée en charge, utilisation d'un IDE sans la souris ou sans le clavier, raccourcis clavier, SOLID/YAGNI/KISS, ...</li>
+                <li><strong>Easy Maker</strong> (facilitateur) : formations sur les <em>soft-skills</em> (prise de parole, aisance à l'oral, créativité, motivation, écoute active, préjugés...)</li>
+              </ul>
+            </p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>Décathlon - Septembre 2013 à Avril 2015 (19 mois)</h4>
+          <img alt="Logo de Décathlon" src="images/decathlon_logo.png" style="float: right; margin: 25px;" />
+          <p style="font-style: italic; margin-top: 25px;">Régie (Villeneuve d'Ascq)</p>
+          <p style="font-weight: bold;">Applications web de sélection de produits pour les magasins</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Vente</li>
+              <li>Business : Structurer la présentation des produits pour les magasins sur des applications web intranet (projet "FIRST")</li>
+              <li>Méthodologique : Agile (Scrum)</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement et tests dans le cadre de la tierce maintenance applicative (TMA) : stabilisation de l'application, nouvelles évolutions (migration et création de services sur cet existant) et correction d'anomalies</li>
+              <li>Maintenance et évolution technique du framework de gestion des transactions</li>
+              <li>Études, développement et tests sur un nouveau projet pour gérer une nouvelle notion dans l'arborescence des produits</li>
+              <li>Mise en place du framework de tests unitaires</li>
+              <li>Développement de scripts de revue de code notamment pour détecter les mauvaises pratiques de développement</li>
+              <li>Intégration au pôle support en tant que développeur référent technique (analyse des impacts, proposition de solutions techniques pour résoudre plusieurs anomalies, réalisation de batchs et fiabilisation de pans applicatifs entiers)</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java</mark>, <mark>Struts</mark>, <mark>Salto</mark>, <mark>Tiles</mark>, <mark>GWT</mark>, <mark>H2</mark>, <mark>bash</mark>, <mark>Groovy</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>CNSA - Novembre 2012 à Août 2013 (9 mois)</h4>
+          <img alt="Logo de la CNSA" src="images/cnsa_logo.png" style="float: right; width: 30%;" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin)</p>
+          <p style="font-weight: bold;">Application web de tarification des établissements médico-sociaux</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Santé (secteur public)</li>
+              <li>Business : Application web extranet <a title="HArmonisation et Partage d'Information" href="http://hapi.cnsa.fr" target="_blank" rel="noreferrer noopener">HAPI</a> à destination des agences régionales de santé (ARS) pour harmoniser les processus de tarification (allocations de capacités et de budgets aux établissements médico-sociaux) dans le cadre de la loi <a title="Loi portant réforme de l'hôpital et relative aux patients, à la santé et aux territoires" href="https://fr.wikipedia.org/wiki/Loi_portant_r%C3%A9forme_de_l'h%C3%B4pital_et_relative_aux_patients%2C_%C3%A0_la_sant%C3%A9_et_aux_territoires" target="_blank" rel="noreferrer noopener">HPST</a></li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement et tests dans le cadre de la tierce maintenance applicative (TMA) : évolutions et corrections d'anomalies</li>
+              <li>Études d'impacts techniques</li>
+              <li>Intégration/livraison de nouveaux développements</li>
+              <li>Création de procédures en T-SQL (SQL Server) pour diverses opérations sur les données</li>
+              <li>Exploitation de divers environnements (recette, qualification)</li>
+              <li>Ateliers techniques avec le client</li>
+              <li>Déplacement à Paris dans l'équipe MOA de l'agence Norsys Paris pendant 2 mois : nombreux ateliers pour évolutions techniques et études d'impacts, lien technique entre l'équipe MOE parisienne et l'équipe MOE lilloise (développement)</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong><mark>Java (EE)</mark>, <mark>Spring MVC</mark>, <mark>Hibernate</mark>, <mark>GNU/Linux</mark>, <mark>SQL Server</mark>, <mark>UML</mark>, <mark>svn</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>3 Suisses - Mai 2012 à Novembre 2012 (6 mois)</h4>
+          <img alt="Logo des 3 Suisses" src="images/3_suisses_logo.png" style="float: right" />
+          <p style="font-style: italic; margin-top: 25px;">Régie (Croix)</p>
+          <p style="font-weight: bold;">Application web du site e-commerce des 3 Suisses (tunnel de commandes)</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Vente / E-Commerce</li>
+              <li>Business : Refonte du tunnel de commandes du <a title="3 Suisses" href="https://3suisses.fr" target="_blank" rel="noreferrer noopener">site e-commerce des 3 Suisses</a> (B2C) dans un secteur fortement concurrentiel</li>
+              <li>Méthodologique : Agile (Scrum / Kanban)</li>
+              <li>Équipe : +/- 10 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement et tests de <em>user stories</em> et d'anomalies sur chaque étape du tunnel (panier, avantages, livraison, paiement, récapitulatif)</li>
+              <li>Mise en place d'APIs web RESTful multi-canaux (web et mobile)</li>
+              <li>Mise en place d'un <em>fail-over switch</em> pour le mode dégradé d'accès à certains services comme le paiement</li>
+              <li>Mise en place d'un moteur de règles basé sur les prédicats</li>
+              <li>Pratique du <em>Domain-Driven Design</em> (<mark>DDD</mark>) pour la conception (langage ubiquitaire, contextes bornés, architecture en couches...)</li>
+              <li>Déploiement des fonctionnalités sur l'ESB</li>
+              <li>Rétroingénierie (analyse et extraction de règles métier depuis l'application de gestion des commandes courrier et téléphone sur le lot 0 d'initialisation)</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <em>Behavior-Driven Development</em> (<mark>BDD</mark>), <mark>pair-programming</mark>, tests d'intégration, CI/CD, mocks, <em>pomodoro</em>, anticipation de la dette technique, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Spring MVC</mark>, <mark>REST</mark>, <mark>SOAP</mark>, <mark>JDBC Template</mark>, <mark>Google Guava</mark>, <mark>Thymeleaf</mark>, <mark>UML</mark>, <mark>TDD</mark>, <mark>BDD</mark>, <mark>DDD</mark>, <mark>Tomcat</mark>, <mark>Weblogic</mark>, <mark>git</mark>, <mark>Jenkins</mark></p>
+
+          <hr style="margin: 25px 0; clear: left;" />
+          <h4>3 Suisses - Avril 2011 à Mai 2012 (13 mois)</h4>
+          <img alt="Logo des 3 Suisses" src="images/3_suisses_logo.png" style="float: right" />
+          <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin), dont 6 mois de stage de fin d'études</p>
+          <p style="font-weight: bold">Applications web de gestion des commandes courrier et téléphone (VPT)</p>
+          <p><strong>Contexte :</strong>
+            <ul>
+              <li>Fonctionnel : Vente</li>
+              <li>Business : Maintien en condition opérationnelle (MCO) d'applications web intranet (projet "FORCE") en fin de vie dans un contexte où le e-commerce explose</li>
+              <li>Méthodologique : Cycles en V</li>
+              <li>Équipe : +/- 5 personnes</li>
+            </ul>
+          </p>
+          <p><strong>Réalisations :</strong>
+            <ul>
+              <li>Études, développement et tests dans le cadre de la tierce maintenance applicative (TMA) : évolutions et corrections d'anomalies sur les applications web "semi clients lourds"</li>
+              <li>Migration d'une base de données DB2 à Oracle</li>
+              <li><em>Software craftsmanship</em> : revue de code, <em>Test-Driven Development</em> (<mark>TDD</mark>), <mark>pair-programming</mark>, CI, mocks, ...</li>
+              <li>Amélioration continue de la qualité des développements (suivi Sonar)</li>
+            </ul>
+          </p>
+          <p><strong>Environnement :</strong> <mark>Java (EE)</mark>, <mark>Struts</mark>, <mark>Tiles</mark>, <mark>Salto</mark>, <mark>DB2</mark>, <mark>Oracle</mark>, <mark>Tomcat</mark>, <mark>Weblogic</mark>, <mark>svn</mark>, <mark>Jenkins</mark></p>
+
+  - title: Formation
+    layout: list
+    content:
+      - layout: left
+        title: SUPINFO
+        sub_title: MSc Computer Science
+        caption: 2008 - 2011
+        description: | # this will include new lines to allow paragraphs
+          Obtention du Master of Science in Computer Science (<strong>équivalent au Master 2 d'informatique</strong> - 5ème année) à l'école supérieure d'informatique de Lille. Rédaction d'un mémoire en lien avec le stage de fin d'études sur le thème suivant : "Comment le développeur peut-il améliorer la qualité logicielle au sein d'un centre de services ?"
+
+          Obtention de la <strong>certification "Mandriva Certified Administrator"</strong> et <strong>membre du Laboratoire Java</strong> de 2008 à 2010 (réalisations de projets individuels ou de groupe, présentations de sujets).
+
+          <strong>71 semaines de stages</strong> au total (en partenariat, forme d'alternance, durant l'année et en stages de fin d'année) :
+            - En 2009 (2 jours par semaine de janvier à juin puis 15 semaines en fin d'année) chez Compario (Lille - Euratechnologies) devenu <a title="Sparkow" href="http://sparkow.com/fr" target="_blank" rel="noreferrer noopener">Sparkow</a>, société éditrice d'une solution de merchandising : développement en <mark>.NET</mark> (<mark>C#</mark> et <mark>WPF</mark>) sur un site client exportateur de produits français vers le Japon, optimisation du site, référencement, utilisation de <mark>SQL Server</mark> et JavaScript (TreeMap, <mark>JQuery</mark>) ; création d'un outil de reporting, anticipation de l'expérience utilisateur ; mise en place de RIA pour des catalogues produits ; environnement <mark>Windows Server</mark>.
+            - En 2010 (2 jours par semaine de mars à juin puis 13 semaines en fin d'année) chez Odimat (Liévin), agence de référencement web : leading technique et développement de nouveaux modules (référencement web, gestion de la relation client, finances, facturation, optimisation des pages web, positionnement...) en <mark>Python</mark> pour OpenERP devenu <a title="Odoo (anciennement OpenERP)" href="https://www.odoo.com/fr_FR" target="_blank" rel="noreferrer noopener">Odoo</a>, utilisation de <mark>PostgreSQL</mark> et apprentissage des notions principales liées au référencement naturel <mark>SEO</mark> ; utilisation et administration de <mark>GNU/Linux</mark> au quotidien (administration système) ; pratique de l'<mark>extreme programming</mark>.
+            - En 2011 (6 mois en fin d'études) chez <a title="Norsys" href="https://www.norsys.fr" target="_blank" rel="noreferrer noopener">Norsys</a> (Ennevelin) : voir ci-dessus (expérience) ; développement d'une application <mark>Android</mark> de communication interne pour l'entreprise.
+
+          Réalisation en groupe d'un outil de gestion d'emploi du temps en <mark>Ruby on Rails</mark> : <a title="Code source de Timetableasy" href="https://github.com/fdelbrayelle/timetableasy" target="_blank" rel="noreferrer noopener">Timetableasy</a> (sources).
+
+      - layout: left
+        title: Université d'Artois
+        sub_title: DUT informatique
+        caption: 2005 - 2008
+        description: | # this will include new lines to allow paragraphs
+          <strong>Stage de 10 semaines</strong> en 2007 chez <a title="Idea7" href="https://www.idea7.fr" target="_blank" rel="noreferrer noopener">Idea7</a> (Mérignies) : développement Java EE (<mark>API Servlet</mark>, <mark>JSP</mark>, <mark>JQuery</mark>) sur l'application Canto Cumulus de gestion documentaire d'assets digitaux.
+
+          Réalisation d'un <a title="Code source du jeu d'échecs" href="https://github.com/fdelbrayelle/echecs" target="_blank" rel="noreferrer noopener">jeu d'échecs</a> (sources) en Java avec <mark>Swing</mark> et les sockets pour le projet libre de deuxième année.
+
+          Réalisation d'un <a title="Code source du minishell" href="https://github.com/fdelbrayelle/minishell" target="_blank" rel="noreferrer noopener">interpréteur en lignes de commande</a> (sources) en <mark>C</mark> dans le cadre du cours de programmation système.
+
+          Réalisation d'un solveur de <em>sudoku</em> en C++.
+
+          Président du BDE du département informatique de l'IUT de Lens de 2006 à 2007.
+
+      - layout: left
+        title: Lycée de Gondecourt
+        sub_title: Baccalauréat série scientifique
+        caption: 2005
+        description: | # this will include new lines to allow paragraphs
+          Spécialité mathématiques
+
+  - title: En savoir plus sur moi
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Je pratique plusieurs langues à différentes fréquences :
+      - 🇫🇷 <mark>Français</mark> - Langue maternelle
+      - 🇬🇧 <mark>Anglais</mark> - Niveau C1 - Pratique quotidienne en contexte international (depuis 2022) - 840 points au TOEIC en mars 2011
+      - 🇯🇵 <mark>Japonais</mark> - Niveau B2 / C1 :
+        <ul>
+          <li>Japanese Language Proficiency Test N2 (日本語能力試験2級) en février 2014</li>
+          <li>Kanji Kentei niveau 5 (漢字検定5級) en janvier 2010</li>
+          <li>école japonaise du Nord Pas-de-Calais en 2008/2009 et 2010/2011</li>
+        </ul>
+      - 🇬🇪 <mark>Géorgien</mark> - Niveau A2 / B1 - Pratique régulière (famille)
+      - 🇪🇸 <mark>Espagnol</mark> - Niveau A2 - Scolaire lycée (LV2), révisions régulières
+      - 🇩🇪 <mark>Allemand</mark> - Niveau A1 - Notions de base
+
+      Quand on me demande ce que je fais dans la vie j'ai souvent tendance à parler de mes centres d'intérêt et passions :
+      - 🇫🇷 La <strong>France</strong>, sa culture, sa langue, son patrimoine culturel et naturel
+      - 🇯🇵 Le <strong>Japon</strong>, sa culture, sa langue, son patrimoine culturel et naturel : voyages en octobre 2010, mai 2013 et janvier 2017 et <a title="Mon blog sur le Japon" href="http://www.francois-delbrayelle.fr/blog-japon" target="_blank" rel="noreferrer noopener">blog sur la culture nippone</a>
+      - 🏊 La pratique de plusieurs <strong>sports</strong> régulièrement (natation, aikido, randonnée, cyclisme)
+      - 🎻 La musique avec la pratique du <strong>violoncelle</strong> et de la <strong>guitare</strong>
+      - 📚 La <strong>lecture</strong> de romans de science-fiction, steampunk et fantasy mais aussi de classiques, livres d'histoire et essais divers
+      - 🎬 Le <strong>cinéma</strong> de genres divers et variés
+      - 🌼 La <strong>botanique</strong> que j'ai notamment découverte via le <a title="MOOC Botanique" href="https://mooc.tela-botanica.org/course/view.php?id=3" target="_blank" rel="noreferrer noopener">MOOC Botanique</a> de Tela Botanica en 2018
+      - 🌌 L'<strong>astronomie</strong> amateur avec la tête dans les étoiles, toujours prêt à observer le ciel !
+
+      J'ai suivi également la <strong>formation SST</strong> (sauveteur-secouriste du travail) le 22 octobre 2018 et la formation incendie.<br /><br />

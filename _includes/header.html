@@ -106,6 +106,14 @@
         {% endfor %}
       </ul>
 
+      <p class="no-print" style="margin-top: 0.5em;">
+        {%- if page.url contains '/fr' -%}
+          <a href="{{ '/' | relative_url }}" title="English version">🇬🇧</a>
+        {%- else -%}
+          <a href="{{ '/fr/' | relative_url }}" title="Version française">🇫🇷</a>
+        {%- endif -%}
+      </p>
+
       {%- if site.email -%}
         <p>
           {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>

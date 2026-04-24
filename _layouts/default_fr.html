@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+{%- include head.html -%}
+
+<body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
+
+  {%- include header.html -%}
+
+  <main class="page-content" aria-label="Contenu">
+    <div class="wrapper">
+
+      {%- if jekyll.environment == 'production' and site.gtm -%}
+        {%- include gtm_body.html -%}
+      {%- endif -%}
+
+      {%- assign fr = site.data.fr_site -%}
+      <div class="container intro-container">
+        <h3>{{ fr.about_title | default: "À propos" }}</h3>
+        <div class="row clearfix">
+          {%- if fr.about_profile_image -%}
+            <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+              <span class="profile-img" style="background-image: url({{ fr.about_profile_image | relative_url }})"></span>
+            </div>
+          {%- endif -%}
+          <div class="{{ 'col-xs-12 ' }}{%- if fr.about_profile_image -%}col-sm-8 col-md-9 col-print-12{%- endif -%}">
+            {{ fr.about_content | strip | markdownify }}
+          </div>
+        </div>
+      </div>
+
+      {%- if site.version == 2 -%}
+        {% for section in fr.content %}
+          <div class="container {{ section.layout }}-container">
+            <h3>{{ section.title }}</h3>
+            {% include {{ section.layout | prepend: "section-" | append: ".html" }} content=section.content %}
+          </div>
+        {% endfor %}
+      {% else %}
+        {%- include v1/default.html -%}
+      {%- endif -%}
+    </div>
+  </main>
+
+  <!-- {%- include footer.html -%} -->
+  {% if site.darkmode == false %}
+    <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+  {% endif %}
+</body>
+
+</html>

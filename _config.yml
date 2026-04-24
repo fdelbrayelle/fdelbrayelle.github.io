@@ -154,14 +154,21 @@ content:
           </p>
           <p><strong>Réalisations :</strong>
             <ul>
-              <li>Maintenance et maintien de la qualité de 150+ repositories de plugins, storages et secrets managers (OSS & EE)</li>
-              <li>Passage de 600 à 1000+ tâches de plugins en 6 mois (+ 67 %)</li>
-              <li>Accompagnement de la communauté open-source</li>
-              <li>Mise en place d'un nouveau cycle de vie et d'une nouvelle façon de release les plugins</li>
-              <li>Création de plugins OSS & EE pour les clients</li>
-              <li>Innovation, recherche & développement pour aller capter de nouvelles opportunités sur certaines intégrations</li>
-              <li>Mise en place de l'architecture de l'API pour récupérer les métadonnées des plugins</li>
-              <li>Rédaction d'articles</li>
+              <li>Maintenance de 150+ repositories de plugins, storages et secrets managers (OSS &amp; EE)</li>
+              <li>Croissance de 600 à 1100+ plugins en 8 mois (+ 83 %) : création from scratch de plugins Mistral, Deepseek, Beam, VMware EE, SAP EE, 1Password...</li>
+              <li>6600+ contributions sur GitHub depuis le début</li>
+              <li>Stabilisation des plugins critiques (JDBC, Git, FS, Serdes...) et réduction des tests flaky (ex. Kubernetes EE : de 2h15 à 15 min)</li>
+              <li>Ajout et correction de centaines de tests, mise en place d'une CI quotidienne sur kestra:develop</li>
+              <li>Support communautaire large : centaines d'issues traitées (Hacktoberfest, événements réguliers, tickets Pylon)</li>
+              <li>Mise en place d'un nouveau cycle de vie de release et de releases continues automatisées</li>
+              <li>Nouveau Git Sync avec TenantSync &amp; NamespaceSync (OSS &amp; EE)</li>
+              <li>Co-conception de l'architecture de l'API Plugin Metadata &amp; Releases, amélioration des performances</li>
+              <li>Structuration de l'équipe Plugins : priorités, dashboards, répartition du travail, mentoring, onboarding</li>
+              <li>Organisation de sujets cooldown : flakiness, tests désactivés, lib partagée OSS/EE, rapports hebdomadaires</li>
+              <li>Pionnier de l'adoption des outils IA chez Kestra : co-rédaction des AI Coding Agent Guidelines, création de l'Engineering AI Hub, intégration MCP pour plugins &amp; blueprints</li>
+              <li>Conférences : DevLille 2025 &amp; 2026 (talk sur Kestra, plugins &amp; agents IA), Big Data London 2025, Data Days Lille 2026</li>
+              <li>Contribution DevRel : vidéos (SDK Python/Go/JS, plugins Gemini/Ollama/OpenAI/Salesforce/VMware), articles de blog, posts LinkedIn</li>
+              <li>Aide au recrutement (3 ingénieurs) et aux partenariats (Conapi GmbH, WeScale)</li>
             </ul>
           </p>
           <p><strong>Environnement :</strong> <mark>Java 21+</mark>, <mark>Micronaut</mark>, <mark>Gradle</mark>, <mark>Vue 3</mark>, <mark>Nuxt 3</mark>, <mark>Kafka</mark>, <mark>ElasticSearch</mark>, <mark>Kubernetes</mark>, <mark>Docker</mark>, <mark>Google Cloud Platform</mark>, <mark>PostgreSQL</mark>, <mark>git</mark>, <mark>GitHub Actions</mark>, <mark>ArgoCD</mark>, <mark>Terraform</mark>, <mark>Elasticsearch Logstash Kibana</mark>, <mark>Grafana</mark></p>

@@ -57,10 +57,12 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 - Implémentation de [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) pour le Git Sync (OSS & EE)
 - Co-conception de l'architecture de l'API Plugin Metadata & Releases ; amélioration des performances
 - Releases continues automatisées sur 1100+ plugins
-- Support communautaire large : centaines d'issues traitées (Hacktoberfest, événements, tickets Pylon)
+- [Centaines d'issues traitées](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, événements, tickets Pylon)
+- Releases continues automatisées sur 1100+ plugins (post LinkedIn & article de blog à venir)
+- Périmètre transverse : interface principale de l'écosystème plugins avec toutes les équipes — Engineering, Sales, Customer Success, DevRel, Product
 - Structuration de l'équipe Plugins : priorités, dashboards, répartition, mentoring, onboarding
-- Pionnier de l'adoption IA chez Kestra : co-rédaction des AI Coding Agent Guidelines, création de l'Engineering AI Hub, intégration MCP pour plugins & blueprints
-- Conférences : DevLille 2025 & 2026 (talk : Kestra, plugins & agents IA), [Big Data London 2025](https://bigdataldn.com), Data Days Lille 2026
+- Pionnier de l'adoption IA chez Kestra : co-rédaction des AI Coding Agent Guidelines (interne), création de l'Engineering AI Hub (interne) ; MCP public pour plugins & blueprints — article de blog à venir sur [kestra.io/blogs](https://kestra.io/blogs)
+- Conférences : DevLille 2025 & 2026 (talk : Kestra, plugins & agents IA — slides & vidéo à venir pour 2026), [Big Data London 2025](https://bigdataldn.com), Data Days Lille 2026
 - DevRel : vidéos (SDK Python/Go/JS, plugins Gemini/Ollama/OpenAI/Salesforce/VMware), [articles de blog](https://kestra.io/blogs), posts LinkedIn
 - Aide au recrutement (3 ingénieurs) et aux partenariats (Conapi GmbH, WeScale)
 

@@ -36,11 +36,12 @@ Key metrics:
 - **Plugins from scratch**: Mistral, Deepseek, Beam, Bluesky, VMware EE, SAP EE, 1Password
 - **Git Sync**: NamespaceSync & TenantSync (multi-tenant, OSS & EE)
 - **Plugin Metadata & Releases API**: co-designed architecture + performance improvements
-- **Continuous releases**: automated versioning across 1,100+ plugins
-- **AI adoption at Kestra**: AI Coding Agent Guidelines, Engineering AI Hub, MCP integrations
+- **Continuous releases**: automated versioning across 1,100+ plugins (blog post incoming)
+- **AI adoption at Kestra**: AI Coding Agent Guidelines (internal), Engineering AI Hub (internal), public MCP for plugins & blueprints (blog post incoming)
 - **Test reliability**: Kubernetes EE suite reduced from 2h15 to 15 min
-- **Community**: hundreds of issues (Hacktoberfest + regular support + Pylon tickets)
-- **Conferences**: DevLille 2025 & 2026, Big Data London 2025, Data Days Lille 2026
+- **Community**: [hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest + regular support + Pylon tickets)
+- **Org-wide scope**: main interface between plugin ecosystem and every team — Engineering, Sales, Customer Success, DevRel, Product
+- **Conferences**: DevLille 2025 & 2026 (slides & video incoming for 2026), Big Data London 2025, Data Days Lille 2026
 - **Hiring**: contributed to onboarding 3 engineers
 
 ---

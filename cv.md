@@ -57,10 +57,12 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 - Shipped [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) for Git Sync (OSS & EE)
 - Co-designed Plugin Metadata & Releases API architecture; drove performance improvements
 - Implemented continuous automated releases across 1,100+ plugins
-- Broad community support: hundreds of issues tackled (Hacktoberfest, regular events, Pylon tickets)
+- [Hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, regular events, Pylon tickets)
+- Implemented continuous automated releases across 1,100+ plugins (LinkedIn post & blog article incoming)
+- Org-wide scope: main interface between the plugin ecosystem and every team — Engineering, Sales, Customer Success, DevRel, Product
 - Structured Plugins team: priorities, dashboards, workload split, mentoring, onboarding docs
-- Led AI adoption: co-authored AI Coding Agent Guidelines, built Engineering AI Hub, integrated MCP for plugins & blueprints
-- Conferences: DevLille 2025 & 2026 (talk: Kestra, plugins & AI agents), [Big Data London 2025](https://bigdataldn.com), Data Days Lille 2026
+- Led AI adoption: co-authored AI Coding Agent Guidelines (internal), built Engineering AI Hub (internal); public MCP for plugins & blueprints — blog post incoming on [kestra.io/blogs](https://kestra.io/blogs)
+- Conferences: DevLille 2025 & 2026 (talk: Kestra, plugins & AI agents — slides & video incoming for 2026), [Big Data London 2025](https://bigdataldn.com), Data Days Lille 2026
 - DevRel: videos (Python/Go/JS SDK, Gemini/Ollama/OpenAI/Salesforce/VMware plugins), [blog posts](https://kestra.io/blogs), LinkedIn posts
 - Contributed to hiring 3 engineers; built partnerships (Conapi GmbH, WeScale)
 

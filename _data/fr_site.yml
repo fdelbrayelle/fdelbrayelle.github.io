@@ -92,14 +92,15 @@ content:
               <li><a href="https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&amp;type=pullrequests" target="_blank" rel="noreferrer noopener">6600+ contributions sur GitHub</a> depuis le début</li>
               <li>Stabilisation des plugins critiques (JDBC, Git, FS, Serdes...) et réduction des tests flaky (ex. Kubernetes EE : de 2h15 à 15 min)</li>
               <li>Ajout et correction de centaines de tests, mise en place d'une CI quotidienne sur kestra:develop</li>
-              <li>Support communautaire large : centaines d'issues traitées (Hacktoberfest, événements réguliers, tickets Pylon)</li>
-              <li>Mise en place d'un nouveau cycle de vie de release et de releases continues automatisées</li>
+              <li>Support communautaire large : <a href="https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&amp;type=issues" target="_blank" rel="noreferrer noopener">centaines d'issues traitées</a> (Hacktoberfest, événements réguliers, tickets Pylon)</li>
+              <li>Mise en place d'un nouveau cycle de vie de release et de releases continues automatisées sur 1100+ plugins (post LinkedIn &amp; article de blog à venir)</li>
               <li>Nouveau Git Sync avec <a href="https://github.com/kestra-io/plugin-git/pull/177" target="_blank" rel="noreferrer noopener">NamespaceSync</a> &amp; <a href="https://github.com/kestra-io/plugin-git/pull/180" target="_blank" rel="noreferrer noopener">TenantSync</a> (OSS &amp; EE)</li>
               <li>Co-conception de l'architecture de l'API Plugin Metadata &amp; Releases, amélioration des performances</li>
+              <li>Périmètre transverse : interface principale de l'écosystème plugins avec toutes les équipes (Engineering, Sales, Customer Success, DevRel, Product)</li>
               <li>Structuration de l'équipe Plugins : priorités, dashboards, répartition du travail, mentoring, onboarding</li>
               <li>Organisation de sujets cooldown : flakiness, tests désactivés, lib partagée OSS/EE, rapports hebdomadaires</li>
-              <li>Pionnier de l'adoption des outils IA chez Kestra : co-rédaction des AI Coding Agent Guidelines, création de l'Engineering AI Hub, intégration MCP pour plugins &amp; blueprints</li>
-              <li>Conférences : DevLille 2025 &amp; 2026 (talk sur Kestra, plugins &amp; agents IA), <a href="https://bigdataldn.com" target="_blank" rel="noreferrer noopener">Big Data London 2025</a>, Data Days Lille 2026</li>
+              <li>Pionnier de l'adoption des outils IA chez Kestra : co-rédaction des AI Coding Agent Guidelines (interne), création de l'Engineering AI Hub (interne), MCP public pour plugins &amp; blueprints (article de blog à venir sur <a href="https://kestra.io/blogs" target="_blank" rel="noreferrer noopener">kestra.io/blogs</a>)</li>
+              <li>Conférences : DevLille 2025 &amp; 2026 (talk sur Kestra, plugins &amp; agents IA — slides &amp; vidéo à venir pour 2026), <a href="https://bigdataldn.com" target="_blank" rel="noreferrer noopener">Big Data London 2025</a>, Data Days Lille 2026</li>
               <li>Contribution DevRel : vidéos (SDK Python/Go/JS, plugins Gemini/Ollama/OpenAI/Salesforce/VMware), <a href="https://kestra.io/blogs" target="_blank" rel="noreferrer noopener">articles de blog</a>, posts LinkedIn</li>
               <li>Aide au recrutement (3 ingénieurs) et aux partenariats (Conapi GmbH, WeScale)</li>
             </ul>

@@ -50,20 +50,20 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 - Maintained [150+ plugin repositories](https://github.com/orgs/kestra-io/repositories?q=plugin) (storages, secret managers, OSS & EE)
 - Grew [plugin ecosystem from 600 to 1,100+](https://kestra.io/plugins) in 8 months (+83%)
-- Created plugins from scratch: [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), VMware EE, SAP EE, 1Password (private repos)
+- Created plugins from scratch: [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password (private repos)
 - [6,600+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org
 - Stabilized critical plugins (JDBC, Git, FS, Serdes); reduced Kubernetes EE test suite from 2h15 to 15 min
 - Added/fixed hundreds of tests; introduced daily CI pipeline against kestra:develop
 - Shipped [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) for Git Sync (OSS & EE)
+- Contribution to Kestra core: [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174)
 - Co-designed Plugin Metadata & Releases API architecture; drove performance improvements
-- Implemented continuous automated releases across 1,100+ plugins
+- Implemented continuous automated releases across 1,100+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr))
 - [Hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, regular events, Pylon tickets)
-- Implemented continuous automated releases across 1,100+ plugins (LinkedIn post & blog article incoming)
 - Org-wide scope: main interface between the plugin ecosystem and every team — Engineering, Sales, Customer Success, DevRel, Product
 - Structured Plugins team: priorities, dashboards, workload split, mentoring, onboarding docs
 - Led AI adoption: co-authored AI Coding Agent Guidelines (internal), built Engineering AI Hub (internal); public MCP for plugins & blueprints — blog post incoming on [kestra.io/blogs](https://kestra.io/blogs)
-- Conferences: DevLille 2025 & 2026 (talk: Kestra, plugins & AI agents — slides & video incoming for 2026), [Big Data London 2025](https://bigdataldn.com), Data Days Lille 2026
-- DevRel: videos (Python/Go/JS SDK, Gemini/Ollama/OpenAI/Salesforce/VMware plugins), [blog posts](https://kestra.io/blogs), LinkedIn posts
+- Conferences: DevLille 2025 & [DevLille 2026](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) (talk: Kestra, plugins & AI agents), [Big Data London 2025](https://bigdataldn.com), [Data Days Lille 2026](https://fdelbrayelle.github.io/meetups/datadayslille2026/en/)
+- DevRel: videos (Python/Go/JS SDK, Gemini/Ollama/OpenAI/Salesforce/VMware plugins), blog posts ([VMware](https://kestra.io/blogs/control-vmware-with-kestra), [infrastructure plugins](https://kestra.io/blogs/infra-automation)), LinkedIn posts
 - Contributed to hiring 3 engineers; built partnerships (Conapi GmbH, WeScale)
 
 **Stack:** Java 21+, Micronaut, Gradle, Vue 3, Nuxt 3, Kafka, Elasticsearch, Kubernetes, Docker, GCP, PostgreSQL, GitHub Actions, ArgoCD, Terraform, Grafana

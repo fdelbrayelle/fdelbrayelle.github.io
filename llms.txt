@@ -33,15 +33,16 @@ Key metrics:
 
 ## Key Achievements
 
-- **Plugins from scratch**: Mistral, Deepseek, Beam, Bluesky, VMware EE, SAP EE, 1Password
+- **Plugins from scratch**: Mistral, Deepseek, Beam, Bluesky, [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password
 - **Git Sync**: NamespaceSync & TenantSync (multi-tenant, OSS & EE)
+- **Kestra core**: [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174)
 - **Plugin Metadata & Releases API**: co-designed architecture + performance improvements
-- **Continuous releases**: automated versioning across 1,100+ plugins (blog post incoming)
+- **Continuous releases**: automated versioning across 1,100+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr))
 - **AI adoption at Kestra**: AI Coding Agent Guidelines (internal), Engineering AI Hub (internal), public MCP for plugins & blueprints (blog post incoming)
 - **Test reliability**: Kubernetes EE suite reduced from 2h15 to 15 min
 - **Community**: [hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest + regular support + Pylon tickets)
 - **Org-wide scope**: main interface between plugin ecosystem and every team — Engineering, Sales, Customer Success, DevRel, Product
-- **Conferences**: DevLille 2025 & 2026 (slides & video incoming for 2026), Big Data London 2025, Data Days Lille 2026
+- **Conferences**: DevLille 2025 & [DevLille 2026](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) (Kestra, plugins & AI agents), [Big Data London 2025](https://bigdataldn.com), [Data Days Lille 2026](https://fdelbrayelle.github.io/meetups/datadayslille2026/en/)
 - **Hiring**: contributed to onboarding 3 engineers
 
 ---
@@ -59,6 +60,12 @@ Key metrics:
 | Bluesky plugin (init PR) | https://github.com/kestra-io/plugin-bluesky/pull/3 |
 | NamespaceSync (Git Sync) | https://github.com/kestra-io/plugin-git/pull/177 |
 | TenantSync (Git Sync) | https://github.com/kestra-io/plugin-git/pull/180 |
+| AI Copilot (Speech-to-Text, Kestra core) | https://github.com/kestra-io/kestra/pull/14174 |
+| VMware EE plugin blog post | https://kestra.io/blogs/control-vmware-with-kestra |
+| Infrastructure plugins blog post | https://kestra.io/blogs/infra-automation |
+| DevLille 2026 talk | https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/ |
+| Data Days Lille 2026 talk | https://fdelbrayelle.github.io/meetups/datadayslille2026/en/ |
+| Dogfooding Kestra (LinkedIn) | https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr |
 | GCP Professional Cloud Architect | https://www.credential.net/5aa5d083-f600-4b98-b51b-5771a7ad5878 |
 | GCP Associate Cloud Engineer | https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b |
 | GitHub profile | https://github.com/fdelbrayelle |

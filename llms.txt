@@ -13,6 +13,10 @@ Currently Lead Software Engineer at [Kestra](https://kestra.io) (open-source wor
 
 15+ years of experience in Java ecosystem, cloud-native architecture, microservices, and open-source software. Deep expertise in Java 21+, Micronaut, Kubernetes, Kafka, Vue.js, and Google Cloud Platform.
 
+Since 2022, part of the scale-up and startup world — first at Malt (European freelance marketplace), then at Kestra leading the entire plugin ecosystem in a high-growth, open-source context.
+
+Role has changed dramatically since 2022, and even more so since 2025 with agentic AI. Writes at most 5% of code himself. Value lies in: Product Thinking, software architecture, code review, agentic orchestration, and inference economics. Built [AI Watchtower](https://github.com/fdelbrayelle/ai-watchtower) for tech watch beyond code generation.
+
 ---
 
 ## Current Role

@@ -20,7 +20,11 @@ permalink: /fr/cv/
 
 ## Résumé
 
-Développeur full-stack et leader technique avec 15+ ans d'expérience dans l'écosystème Java, l'architecture cloud-native, les microservices et l'open-source. Actuellement Lead Software Engineer chez [Kestra](https://kestra.io), responsable de l'équipe Plugins/Intégrations pour une plateforme d'orchestration de workflows open-source. Expertise approfondie en Java 21+, Micronaut, Kubernetes, Kafka, GCP et Vue.js. Français natif, anglais C1, japonais JLPT N2, géorgien A2/B1. Passionné par l'expérience développeur, le software craftsmanship et l'ingénierie assistée par IA.
+Développeur full-stack et leader technique avec 15+ ans d'expérience dans l'écosystème Java, l'architecture cloud-native, les microservices et l'open-source. Actuellement Lead Software Engineer chez [Kestra](https://kestra.io), responsable de l'équipe Plugins/Intégrations pour une plateforme d'orchestration de workflows open-source. Expertise approfondie en Java 21+, Micronaut, Kubernetes, Kafka, GCP et Vue.js. Français natif, anglais C1, japonais JLPT N2, géorgien A2/B1.
+
+À partir de 2022, j'ai rejoint le monde des scale-ups et start-ups — d'abord chez Malt, marketplace européenne pour freelances en pleine croissance, puis chez Kestra où j'ai en charge tout l'écosystème des plugins dans un contexte à forte croissance et 100 % open-source.
+
+Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor de l'IA agentique. Aujourd'hui, j'écris au maximum 5 % de mon code moi-même. Ma valeur réside désormais ailleurs : Product Thinking, architecture logicielle, revue de code, et surtout orchestration agentique et économie de l'inférence. C'est pour cela que j'ai construit [AI Watchtower](https://github.com/fdelbrayelle/ai-watchtower) — un outil pour ma veille technologique et consolider mes acquis dans tout ce qui n'est pas de la génération de code.
 
 ---
 

@@ -20,7 +20,11 @@ permalink: /cv/
 
 ## Summary
 
-Full-stack engineer and technical leader with 15+ years of experience in Java ecosystem, cloud-native architecture, microservices, and open-source software. Currently serving as Lead Software Engineer at [Kestra](https://kestra.io), leading the Plugins/Integrations team for an open-source workflow orchestration platform. Deep expertise in Java 21+, Micronaut, Kubernetes, Kafka, GCP, and Vue.js. Fluent in French (native), English (C1), Japanese (JLPT N2), and Georgian (A2/B1). Passionate about developer experience, software craftsmanship, and AI-assisted engineering.
+Full-stack engineer and technical leader with 15+ years of experience in Java ecosystem, cloud-native architecture, microservices, and open-source software. Currently Lead Software Engineer at [Kestra](https://kestra.io), leading the Plugins/Integrations team for an open-source workflow orchestration platform. Deep expertise in Java 21+, Micronaut, Kubernetes, Kafka, GCP, and Vue.js. Fluent in French (native), English (C1), Japanese (JLPT N2), and Georgian (A2/B1).
+
+Since 2022, I have been part of the scale-up and startup world — first at Malt, a fast-growing European freelance marketplace, then at Kestra where I lead the entire plugin ecosystem in a high-growth, open-source context.
+
+My job has changed dramatically since 2022, and even more so since 2025 with the rise of agentic AI. Today I write at most 5% of my code myself. My value lies elsewhere: Product Thinking, software architecture, code review, and above all agentic orchestration and inference economics. That's why I built [AI Watchtower](https://github.com/fdelbrayelle/ai-watchtower) — a tool to fuel my tech watch and consolidate everything that goes beyond code generation.
 
 ---
 

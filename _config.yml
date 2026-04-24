@@ -17,7 +17,7 @@ description: Lead Software Engineer at Kestra. 15+ years experience in Java, clo
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: false
 
 # Social links
 twitter_username: fdelbrayelle

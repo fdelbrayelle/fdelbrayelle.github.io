@@ -92,6 +92,7 @@ about_content: | # this will include new lines to allow paragraphs
   <strong>Books I have read:</strong>
   - "Learning Domain-Driven Design" by Vlad Khononov
   - "Functional Programming in Kotlin" by Marco Vermeulen, Rúnar Bjarnason and Paul Chiusano
+  - "Fundamentals of Data Engineering" by Joe Reis and Matt Housley
   - "Staff Engineer" by Will Larson
   - "Software Craft" by Cyrille Martraire, Arnaud Thiéfaine, Dorra Bartaguiz, Fabien Hiegel, Houssam Fakih
   - "Clean Architecture" by Robert C. Martin

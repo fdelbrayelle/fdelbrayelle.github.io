@@ -1,5 +1,5 @@
 about_title: À propos
-about_profile_image: images/fdelbrayelle.jpg
+about_profile_image: /images/fdelbrayelle.jpg
 about_content: | # this will include new lines to allow paragraphs
   Je peux prendre les rôles de <strong>développeur full-stack</strong>, <strong>tech lead</strong> et <strong>architecte solutions</strong>. J'ai donné régulièrement en complément des formations sur l'écosystème Spring et d'autres technos. Je tente également d'appliquer le <em>software craftsmanship</em> au quotidien dans mon travail. Je me passionne pour le développement depuis les années 90 et j'ai plus de <strong>15 ans d'expérience</strong> depuis le DUT informatique que j'ai effectué à Lens et le master informatique à SUPINFO Lille. De <a title="Test de Myers-Briggs" href="https://www.16personalities.com/fr/la-personnalite-infj" target="_blank" rel="noreferrer noopener">personnalité INFJ</a>, je suis particulièrement sensible aux moyens d'expression tels que la <a title="Communication non violente" href="https://fr.wikipedia.org/wiki/Communication_non_violente" target="_blank" rel="noreferrer noopener">CNV</a>.
 
@@ -21,8 +21,8 @@ about_content: | # this will include new lines to allow paragraphs
   - [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) ([Credential](https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b?key=8f5de6e92912aa8a99a313d766af4a279615f0f3acd4ea48c23189c2765aa41e))
 
   <p style="text-align: center;">
-    <img src="images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" style="width: 220px" />
-    <img src="images/gcp-professional-cloud-architect.png" alt="Professional Cloud Architect" style="width: 220px" />
+    <img src="/images/gcp-associate-cloud-engineer.png" alt="Associate Cloud Engineer" style="width: 220px" />
+    <img src="/images/gcp-professional-cloud-architect.png" alt="Professional Cloud Architect" style="width: 220px" />
   </p>
 
   <strong>Les <em>talks</em> que j'ai donnés :</strong>
@@ -71,7 +71,7 @@ content:
         caption: Depuis Mai 2025
         link: www.kestra.io
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Kestra" src="images/kestra_logo.png" style="width: 300px;" />
+          <img alt="Logo de Kestra" src="/images/kestra_logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
           <p style="font-weight: bold;">Équipe Plugins / Intégrations</p>
           <p><strong>Contexte :</strong>
@@ -111,7 +111,7 @@ content:
         caption: Octobre 2022 - Mai 2025
         link: www.malt.fr
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Malt" src="images/malt-logo.png" style="width: 300px;" />
+          <img alt="Logo de Malt" src="/images/malt-logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
           <p style="font-weight: bold;">Tribe Transaction - Squad Project (10 mois)</p>
           <p><strong>Contexte :</strong>
@@ -194,7 +194,7 @@ content:
         caption: Octobre 2019 - Septembre 2022
         link: fr.ippon.tech
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Ippon Technologies" src="images/ippon_new_logo.png" style="width: 300px; margin-bottom: 25px;" />
+          <img alt="Logo de Ippon Technologies" src="/images/ippon_new_logo.png" style="width: 300px; margin-bottom: 25px;" />
           <p>
             <h4>Capitalisation :</h4>
             <br />
@@ -290,7 +290,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Galeries Lafayette - Février 2021 à Septembre 2022 (20 mois)</h4>
-          <img alt="Logo des Galeries Lafayette" src="images/gl_logo.png" style="float: right; width: 250px; margin: 25px;" />
+          <img alt="Logo des Galeries Lafayette" src="/images/gl_logo.png" style="float: right; width: 250px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Télétravail intégral</p>
           <p style="font-weight: bold;">Services / APIs multi-canaux (e-commerce, mobile...)</p>
           <p><strong>Contexte :</strong>
@@ -336,7 +336,7 @@ content:
           <hr style="margin: 25px 0; clear: left;" />
 
           <h4>Leroy Merlin - Octobre 2019 à Février 2021 (17 mois)</h4>
-          <img alt="Logo de Leroy Merlin" src="images/lmfr_logo.png" style="float: right; width: 250px; margin: 25px;" />
+          <img alt="Logo de Leroy Merlin" src="/images/lmfr_logo.png" style="float: right; width: 250px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Régie (Lezennes) - Télétravail partiel et intégral</p>
           <p style="font-weight: bold;">Application web d'installation de suivi des chantiers clients</p>
           <p><strong>Contexte :</strong>
@@ -378,7 +378,7 @@ content:
         caption: Avril 2015 - Octobre 2019
         link: www.gfi.world
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Gfi Informatique" src="images/gfi_logo.png" />
+          <img alt="Logo de Gfi Informatique" src="/images/gfi_logo.png" />
           <p>
             <h4>Capitalisation :</h4>
             <br />
@@ -438,7 +438,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>BNP Leasing Solutions - Avril 2018 à Septembre 2019 (18 mois)</h4>
-          <img alt="Logo de BNP Leasing Solutions" src="images/bpls_logo.png" style="float: right; width: 300px; margin: 25px;" />
+          <img alt="Logo de BNP Leasing Solutions" src="/images/bpls_logo.png" style="float: right; width: 300px; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille) - Télétravail partiel</p>
           <p style="font-weight: bold;">Applications web multiples</p>
           <p><strong>Contexte :</strong>
@@ -477,7 +477,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Pacifica - Février 2018 à Mars 2018 (2 mois)</h4>
-          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
+          <img alt="Logo de Pacifica" src="/images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
           <p style="font-weight: bold;">Application web pour les assurances</p>
           <p><strong>Contexte :</strong>
@@ -500,7 +500,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Lantik BFA - Décembre 2017 à Janvier 2018 (2 mois)</h4>
-          <img alt="Logo de Lantik BFA" src="images/lantik_bfa_logo.jpg" style="float: right; width: 300px;" />
+          <img alt="Logo de Lantik BFA" src="/images/lantik_bfa_logo.jpg" style="float: right; width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
           <p style="font-weight: bold;">Application web pour un portail du secteur public espagnol</p>
           <p><strong>Contexte :</strong>
@@ -529,7 +529,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Société générale - Octobre 2017 à Novembre 2017 (2 mois)</h4>
-          <img alt="Logo de la Société générale" src="images/sg_logo.png" style="float: right; width: 250px; margin: 12px;" />
+          <img alt="Logo de la Société générale" src="/images/sg_logo.png" style="float: right; width: 250px; margin: 12px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
           <p style="font-weight: bold;">Services Métier Distants (API)</p>
           <p><strong>Contexte :</strong>
@@ -560,7 +560,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Pacifica - Juillet 2017 à Septembre 2017 (3 mois)</h4>
-          <img alt="Logo de Pacifica" src="images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
+          <img alt="Logo de Pacifica" src="/images/pacifica_logo.png" style="float: right; margin: 25px; width: 25%;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille), branche assurances du Crédit agricole</p>
           <p style="font-weight: bold;">Application web pour les assurances 2 roues</p>
           <p><strong>Contexte :</strong>
@@ -584,7 +584,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Crédit agricole - Janvier 2016 à Juin 2017 (18 mois)</h4>
-          <img alt="Logo du Crédit agricole" src="images/credit_agricole_logo.png" style="float: right;" />
+          <img alt="Logo du Crédit agricole" src="/images/credit_agricole_logo.png" style="float: right;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
           <p style="font-weight: bold;">Application web de gestion des risques opérationnels</p>
           <p><strong>Contexte :</strong>
@@ -627,7 +627,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>BNP Paribas - Avril 2015 à Décembre 2015 (9 mois)</h4>
-          <img alt="Logo de BNP Paribas" src="images/bnp_logo.png" style="float: right; margin: 25px;" />
+          <img alt="Logo de BNP Paribas" src="/images/bnp_logo.png" style="float: right; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Lille)</p>
           <p style="font-weight: bold;">Applications web multiples</p>
           <p><strong>Contexte :</strong>
@@ -675,7 +675,7 @@ content:
         caption: Avril 2011 - Avril 2015
         link: www.norsys.fr
         description: | # this will include new lines to allow paragraphs
-          <img alt="Logo de Norsys" src="images/norsys_logo.jpg" style="width: 325px;" />
+          <img alt="Logo de Norsys" src="/images/norsys_logo.jpg" style="width: 325px;" />
           <p>
             <h4>👨‍🎓 Formations reçues :</h4>
             <br />
@@ -688,7 +688,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>Décathlon - Septembre 2013 à Avril 2015 (19 mois)</h4>
-          <img alt="Logo de Décathlon" src="images/decathlon_logo.png" style="float: right; margin: 25px;" />
+          <img alt="Logo de Décathlon" src="/images/decathlon_logo.png" style="float: right; margin: 25px;" />
           <p style="font-style: italic; margin-top: 25px;">Régie (Villeneuve d'Ascq)</p>
           <p style="font-weight: bold;">Applications web de sélection de produits pour les magasins</p>
           <p><strong>Contexte :</strong>
@@ -715,7 +715,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>CNSA - Novembre 2012 à Août 2013 (9 mois)</h4>
-          <img alt="Logo de la CNSA" src="images/cnsa_logo.png" style="float: right; width: 30%;" />
+          <img alt="Logo de la CNSA" src="/images/cnsa_logo.png" style="float: right; width: 30%;" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin)</p>
           <p style="font-weight: bold;">Application web de tarification des établissements médico-sociaux</p>
           <p><strong>Contexte :</strong>
@@ -743,7 +743,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>3 Suisses - Mai 2012 à Novembre 2012 (6 mois)</h4>
-          <img alt="Logo des 3 Suisses" src="images/3_suisses_logo.png" style="float: right" />
+          <img alt="Logo des 3 Suisses" src="/images/3_suisses_logo.png" style="float: right" />
           <p style="font-style: italic; margin-top: 25px;">Régie (Croix)</p>
           <p style="font-weight: bold;">Application web du site e-commerce des 3 Suisses (tunnel de commandes)</p>
           <p><strong>Contexte :</strong>
@@ -771,7 +771,7 @@ content:
 
           <hr style="margin: 25px 0; clear: left;" />
           <h4>3 Suisses - Avril 2011 à Mai 2012 (13 mois)</h4>
-          <img alt="Logo des 3 Suisses" src="images/3_suisses_logo.png" style="float: right" />
+          <img alt="Logo des 3 Suisses" src="/images/3_suisses_logo.png" style="float: right" />
           <p style="font-style: italic; margin-top: 25px;">Centre de services (Ennevelin), dont 6 mois de stage de fin d'études</p>
           <p style="font-weight: bold">Applications web de gestion des commandes courrier et téléphone (VPT)</p>
           <p><strong>Contexte :</strong>

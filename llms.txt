@@ -1,7 +1,7 @@
 # François Delbrayelle
 
-Lead Software Engineer · Tech Lead · Solutions Architect
-Currently at [Kestra](https://kestra.io) (open-source workflow orchestration), leading the Plugins/Integrations team.
+Staff Software Engineer
+Currently Lead Software Engineer at [Kestra](https://kestra.io) (open-source workflow orchestration), leading the Plugins/Integrations team.
 
 > Full CV (EN): https://fdelbrayelle.github.io/cv/
 > Full CV (FR): https://fdelbrayelle.github.io/fr/cv/
@@ -61,11 +61,15 @@ Key metrics:
 
 ---
 
-## Previous Employers
+## Employment History
 
-- **Malt** (2022–2025) — Senior/Lead Software Engineer, freelance marketplace
-- **Ippon Technologies** (2018–2022) — Tech Lead / Solutions Architect, consulting
-- **Decathlon** (2015–2018) — Lead Developer / Tech Lead, e-commerce
+| Period | Employer | Role | Notable clients |
+|---|---|---|---|
+| 2025–present | Kestra | Lead Software Engineer | — |
+| 2022–2025 | Malt | Senior/Lead Software Engineer | — |
+| 2019–2022 | Ippon Technologies | Tech Lead / Solutions Architect | Galeries Lafayette, Leroy Merlin |
+| 2015–2019 | Gfi Informatique (now Inetum) | Senior Tech Lead | BNP Leasing Solutions, Société Générale, Crédit Agricole, BNP Paribas |
+| 2011–2015 | Norsys | Full-Stack Developer | Décathlon, CNSA, 3 Suisses |
 
 ---
 

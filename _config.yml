@@ -153,7 +153,7 @@ content:
               <li>Business: Orchestration and automation</li>
               <li>Methodology: 2-month cycles (minor versions of Kestra core)</li>
               <li>Squad of 3; close collaboration with Engineering, Product, Sales, Marketing/GTM, Customer Success, and Direction</li>
-              <li>Scale: 30+ enterprise customers - millions of workflows executed / month</li>
+              <li>Scale: 40+ enterprise customers - millions of workflows executed / month</li>
             </ul>
           </p>
           <p><strong>Achievements:</strong>
@@ -161,7 +161,7 @@ content:
               <li>Maintenance of <a href="https://github.com/orgs/kestra-io/repositories?q=plugin" target="_blank" rel="noreferrer noopener">150+ plugin repositories</a>, storages and secrets managers (OSS &amp; EE)</li>
               <li>Growth from 600 to <a href="https://kestra.io/plugins" target="_blank" rel="noreferrer noopener">1300+ plugins</a> in 11 months (+117%, doubled in 9 months): creation from scratch of <a href="https://github.com/kestra-io/plugin-mistral/pull/1" target="_blank" rel="noreferrer noopener">Mistral</a>, <a href="https://github.com/kestra-io/plugin-deepseek/pull/2" target="_blank" rel="noreferrer noopener">Deepseek</a>, <a href="https://github.com/kestra-io/plugin-beam/pull/5" target="_blank" rel="noreferrer noopener">Beam</a>, <a href="https://github.com/kestra-io/plugin-bluesky/pull/3" target="_blank" rel="noreferrer noopener">Bluesky</a>, <a href="https://kestra.io/blogs/control-vmware-with-kestra" target="_blank" rel="noreferrer noopener">VMware EE</a>, SAP EE, 1Password plugins...</li>
               <li><a href="https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&amp;type=pullrequests" target="_blank" rel="noreferrer noopener">7000+ GitHub contributions</a> since joining</li>
-              <li>Stabilization of critical plugins (JDBC, Git, FS, Serdes...) and reduction of flaky tests (e.g. Kubernetes EE: from 2h15 to 15 min)</li>
+              <li>Improved most used plugins (FS, Debezium, JDBC, Scripts, AWS, GCP, Azure, Serdes, Git, EE Git, EE Kubernetes, Docker, Terraform, Slack, AMQP, MinIO…) and reduction of flaky tests (e.g. Kubernetes EE: from 2h15 to 15 min)</li>
               <li>Added and fixed hundreds of tests, set up a daily CI on kestra:develop</li>
               <li>Broad community support: <a href="https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&amp;type=issues" target="_blank" rel="noreferrer noopener">hundreds of issues handled</a> (Hacktoberfest, regular events, Pylon tickets)</li>
               <li>Implementation of a new release lifecycle and automated continuous releases across 1300+ plugins; dogfooding Kestra for plugin automation (<a href="https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr" target="_blank" rel="noreferrer noopener">LinkedIn post</a>, <a href="https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins" target="_blank" rel="noreferrer noopener">blog post</a>)</li>

@@ -42,7 +42,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ### Kestra — Lead Software Engineer
 **Mai 2025 – présent | Télétravail intégral**
-[kestra.io](https://kestra.io) — Plateforme open-source d'orchestration et d'automatisation de workflows. Squad de 3 personnes ; collaboration étroite avec Engineering, Product, Sales, Marketing/GTM, Customer Success et Direction. 30+ entreprises clientes, millions de workflows/mois.
+[kestra.io](https://kestra.io) — Plateforme open-source d'orchestration et d'automatisation de workflows. Squad de 3 personnes ; collaboration étroite avec Engineering, Product, Sales, Marketing/GTM, Customer Success et Direction. 40+ entreprises clientes, millions de workflows/mois.
 
 **Équipe :** Plugins / Intégrations
 
@@ -52,7 +52,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 - Croissance de [600 à 1300+ plugins](https://kestra.io/plugins) en 11 mois (+117%, doublé en 9 mois)
 - Création de plugins from scratch : [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password (repos privés)
 - [7000+ contributions GitHub](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) sur l'organisation Kestra
-- Stabilisation des plugins critiques (JDBC, Git, FS, Serdes) ; réduction de la suite de tests Kubernetes EE de 2h15 à 15 min
+- Amélioration des plugins les plus utilisés (FS, Debezium, JDBC, Scripts, AWS, GCP, Azure, Serdes, Git, EE Git, EE Kubernetes, Docker, Terraform, Slack, AMQP, MinIO…) ; réduction de la suite de tests Kubernetes EE de 2h15 à 15 min
 - Ajout et correction de centaines de tests ; CI quotidienne sur kestra:develop
 - Implémentation de [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) pour le Git Sync (OSS & EE)
 - Contribution au cœur de Kestra : [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174)

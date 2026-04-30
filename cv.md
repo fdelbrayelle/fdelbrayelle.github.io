@@ -42,7 +42,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ### Kestra — Lead Software Engineer
 **May 2025 – present | Remote**
-[kestra.io](https://kestra.io) — Open-source workflow orchestration and automation platform. Squad of 3; close collaboration with Engineering, Product, Sales, Marketing/GTM, Customer Success, and Direction. 30+ enterprise customers, millions of workflows/month.
+[kestra.io](https://kestra.io) — Open-source workflow orchestration and automation platform. Squad of 3; close collaboration with Engineering, Product, Sales, Marketing/GTM, Customer Success, and Direction. 40+ enterprise customers, millions of workflows/month.
 
 **Team:** Plugins / Integrations Squad
 
@@ -52,7 +52,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 - Grew [plugin ecosystem from 600 to 1,300+](https://kestra.io/plugins) in 11 months (+117%, doubled in 9 months)
 - Created plugins from scratch: [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password (private repos)
 - [7,000+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org
-- Stabilized critical plugins (JDBC, Git, FS, Serdes); reduced Kubernetes EE test suite from 2h15 to 15 min
+- Improved most used plugins (FS, Debezium, JDBC, Scripts, AWS, GCP, Azure, Serdes, Git, EE Git, EE Kubernetes, Docker, Terraform, Slack, AMQP, MinIO…); reduced Kubernetes EE test suite from 2h15 to 15 min
 - Added/fixed hundreds of tests; introduced daily CI pipeline against kestra:develop
 - Shipped [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) for Git Sync (OSS & EE)
 - Contribution to Kestra core: [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174)

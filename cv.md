@@ -1,7 +1,7 @@
 ---
 layout: clean
 title: "François Delbrayelle — CV"
-description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,300+ plugins (+83%) in 8 months. 6,600+ GitHub contributions. GCP Professional Cloud Architect certified."
+description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,300+ plugins (+117%) in 8 months. 7,000+ GitHub contributions. GCP Professional Cloud Architect certified."
 lang: en
 permalink: /cv/
 ---
@@ -49,9 +49,9 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 **Key achievements:**
 
 - Maintained [150+ plugin repositories](https://github.com/orgs/kestra-io/repositories?q=plugin) (storages, secret managers, OSS & EE)
-- Grew [plugin ecosystem from 600 to 1,300+](https://kestra.io/plugins) in 8 months (+83%)
+- Grew [plugin ecosystem from 600 to 1,300+](https://kestra.io/plugins) in 8 months (+117%)
 - Created plugins from scratch: [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password (private repos)
-- [6,600+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org
+- [7,000+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org
 - Stabilized critical plugins (JDBC, Git, FS, Serdes); reduced Kubernetes EE test suite from 2h15 to 15 min
 - Added/fixed hundreds of tests; introduced daily CI pipeline against kestra:develop
 - Shipped [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) for Git Sync (OSS & EE)
@@ -238,7 +238,7 @@ Legacy mail-order/phone order management app (FORCE project). TMA: bug fixes and
 
 ## Open Source
 
-- Kestra plugins: [github.com/kestra-io](https://github.com/kestra-io) ([6,600+ contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests))
+- Kestra plugins: [github.com/kestra-io](https://github.com/kestra-io) ([7,000+ contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests))
 - JHipster Kafka module: [generator-jhipster-kafka](https://github.com/fdelbrayelle/generator-jhipster-kafka) (stream leader)
 - DevFest Lille 2022: CFP reviewer (no deliberation rights), community ambassador
 

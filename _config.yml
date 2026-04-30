@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: François Delbrayelle
 title: Staff Software Engineer
-description: Lead Software Engineer at Kestra. 15+ years experience in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,300+ plugins (+83%) in 8 months. 6,600+ GitHub contributions. GCP Professional Cloud Architect certified.
+description: Lead Software Engineer at Kestra. 15+ years experience in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,300+ plugins (+117%) in 8 months. 7,000+ GitHub contributions. GCP Professional Cloud Architect certified.
 # email: fdelbrayelle@gmail.com
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -159,8 +159,8 @@ content:
           <p><strong>Achievements:</strong>
             <ul>
               <li>Maintenance of <a href="https://github.com/orgs/kestra-io/repositories?q=plugin" target="_blank" rel="noreferrer noopener">150+ plugin repositories</a>, storages and secrets managers (OSS &amp; EE)</li>
-              <li>Growth from 600 to <a href="https://kestra.io/plugins" target="_blank" rel="noreferrer noopener">1300+ plugins</a> in 8 months (+83%): creation from scratch of <a href="https://github.com/kestra-io/plugin-mistral/pull/1" target="_blank" rel="noreferrer noopener">Mistral</a>, <a href="https://github.com/kestra-io/plugin-deepseek/pull/2" target="_blank" rel="noreferrer noopener">Deepseek</a>, <a href="https://github.com/kestra-io/plugin-beam/pull/5" target="_blank" rel="noreferrer noopener">Beam</a>, <a href="https://github.com/kestra-io/plugin-bluesky/pull/3" target="_blank" rel="noreferrer noopener">Bluesky</a>, <a href="https://kestra.io/blogs/control-vmware-with-kestra" target="_blank" rel="noreferrer noopener">VMware EE</a>, SAP EE, 1Password plugins...</li>
-              <li><a href="https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&amp;type=pullrequests" target="_blank" rel="noreferrer noopener">6600+ GitHub contributions</a> since joining</li>
+              <li>Growth from 600 to <a href="https://kestra.io/plugins" target="_blank" rel="noreferrer noopener">1300+ plugins</a> in 8 months (+117%): creation from scratch of <a href="https://github.com/kestra-io/plugin-mistral/pull/1" target="_blank" rel="noreferrer noopener">Mistral</a>, <a href="https://github.com/kestra-io/plugin-deepseek/pull/2" target="_blank" rel="noreferrer noopener">Deepseek</a>, <a href="https://github.com/kestra-io/plugin-beam/pull/5" target="_blank" rel="noreferrer noopener">Beam</a>, <a href="https://github.com/kestra-io/plugin-bluesky/pull/3" target="_blank" rel="noreferrer noopener">Bluesky</a>, <a href="https://kestra.io/blogs/control-vmware-with-kestra" target="_blank" rel="noreferrer noopener">VMware EE</a>, SAP EE, 1Password plugins...</li>
+              <li><a href="https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&amp;type=pullrequests" target="_blank" rel="noreferrer noopener">7000+ GitHub contributions</a> since joining</li>
               <li>Stabilization of critical plugins (JDBC, Git, FS, Serdes...) and reduction of flaky tests (e.g. Kubernetes EE: from 2h15 to 15 min)</li>
               <li>Added and fixed hundreds of tests, set up a daily CI on kestra:develop</li>
               <li>Broad community support: <a href="https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&amp;type=issues" target="_blank" rel="noreferrer noopener">hundreds of issues handled</a> (Hacktoberfest, regular events, Pylon tickets)</li>

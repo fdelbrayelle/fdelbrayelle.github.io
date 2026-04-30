@@ -25,7 +25,7 @@ Role has changed dramatically since 2022, and even more so since 2025 with agent
 Remote. Plugins/Integrations team.
 
 Key metrics:
-- Grew plugin ecosystem from 600 to 1,100+ plugins in 8 months (+83%)
+- Grew plugin ecosystem from 600 to 1,300+ plugins in 8 months (+83%)
 - Maintained 150+ plugin repositories (OSS & EE)
 - 6,600+ GitHub contributions to the Kestra org
 
@@ -37,7 +37,7 @@ Key metrics:
 - **Git Sync**: NamespaceSync & TenantSync (multi-tenant, OSS & EE)
 - **Kestra core**: [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174)
 - **Plugin Metadata & Releases API**: co-designed architecture + performance improvements
-- **Continuous releases**: automated versioning across 1,100+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr))
+- **Continuous releases**: automated versioning across 1,300+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr))
 - **AI adoption at Kestra**: AI Coding Agent Guidelines (internal), Engineering AI Hub (internal), public MCP for plugins & blueprints (blog post incoming)
 - **Test reliability**: Kubernetes EE suite reduced from 2h15 to 15 min
 - **Community**: [hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest + regular support + Pylon tickets)
@@ -53,7 +53,7 @@ Key metrics:
 |---|---|
 | 6,600+ GitHub contributions | https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests |
 | 150+ plugin repos | https://github.com/orgs/kestra-io/repositories?q=plugin |
-| 1,100+ plugins | https://kestra.io/plugins |
+| 1,300+ plugins | https://kestra.io/plugins |
 | Mistral plugin (init PR) | https://github.com/kestra-io/plugin-mistral/pull/1 |
 | Deepseek plugin (init PR) | https://github.com/kestra-io/plugin-deepseek/pull/2 |
 | Apache Beam plugin (init PR) | https://github.com/kestra-io/plugin-beam/pull/5 |

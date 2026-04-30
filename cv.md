@@ -1,7 +1,7 @@
 ---
 layout: clean
 title: "François Delbrayelle — CV"
-description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,100+ plugins (+83%) in 8 months. 6,600+ GitHub contributions. GCP Professional Cloud Architect certified."
+description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,300+ plugins (+83%) in 8 months. 6,600+ GitHub contributions. GCP Professional Cloud Architect certified."
 lang: en
 permalink: /cv/
 ---
@@ -49,7 +49,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 **Key achievements:**
 
 - Maintained [150+ plugin repositories](https://github.com/orgs/kestra-io/repositories?q=plugin) (storages, secret managers, OSS & EE)
-- Grew [plugin ecosystem from 600 to 1,100+](https://kestra.io/plugins) in 8 months (+83%)
+- Grew [plugin ecosystem from 600 to 1,300+](https://kestra.io/plugins) in 8 months (+83%)
 - Created plugins from scratch: [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password (private repos)
 - [6,600+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org
 - Stabilized critical plugins (JDBC, Git, FS, Serdes); reduced Kubernetes EE test suite from 2h15 to 15 min
@@ -57,7 +57,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 - Shipped [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) for Git Sync (OSS & EE)
 - Contribution to Kestra core: [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174)
 - Co-designed Plugin Metadata & Releases API architecture; drove performance improvements
-- Implemented continuous automated releases across 1,100+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr), [blog post](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins))
+- Implemented continuous automated releases across 1,300+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr), [blog post](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins))
 - [Hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, regular events, Pylon tickets)
 - Org-wide scope: main interface between the plugin ecosystem and every team — Engineering, Sales, Customer Success, DevRel, Product
 - Structured Plugins team: priorities, dashboards, workload split, mentoring, onboarding docs

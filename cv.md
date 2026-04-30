@@ -57,7 +57,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 - Shipped [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) for Git Sync (OSS & EE)
 - Contribution to Kestra core: [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174)
 - Co-designed Plugin Metadata & Releases API architecture; drove performance improvements
-- Implemented continuous automated releases across 1,100+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr))
+- Implemented continuous automated releases across 1,100+ plugins; dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr), [blog post](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins))
 - [Hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, regular events, Pylon tickets)
 - Org-wide scope: main interface between the plugin ecosystem and every team — Engineering, Sales, Customer Success, DevRel, Product
 - Structured Plugins team: priorities, dashboards, workload split, mentoring, onboarding docs

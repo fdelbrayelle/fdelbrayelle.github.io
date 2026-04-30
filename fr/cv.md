@@ -59,7 +59,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 - Co-conception de l'architecture de l'API Plugin Metadata & Releases ; amélioration des performances
 - Releases continues automatisées sur 1100+ plugins
 - [Centaines d'issues traitées](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, événements, tickets Pylon)
-- Releases continues automatisées sur 1100+ plugins ; dogfooding de Kestra pour l'automatisation des plugins ([post LinkedIn](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr))
+- Releases continues automatisées sur 1100+ plugins ; dogfooding de Kestra pour l'automatisation des plugins ([post LinkedIn](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr), [article de blog](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins))
 - Périmètre transverse : interface principale de l'écosystème plugins avec toutes les équipes — Engineering, Sales, Customer Success, DevRel, Product
 - Structuration de l'équipe Plugins : priorités, dashboards, répartition, mentoring, onboarding
 - Pionnier de l'adoption IA chez Kestra : co-rédaction des AI Coding Agent Guidelines (interne), création de l'Engineering AI Hub (interne) ; MCP public pour plugins & blueprints — article de blog à venir sur [kestra.io/blogs](https://kestra.io/blogs)

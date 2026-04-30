@@ -44,7 +44,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 **May 2025 – present | Remote**
 [kestra.io](https://kestra.io) — Open-source workflow orchestration and automation platform. Team of ~30. 30+ enterprise customers, millions of workflows/month.
 
-**Team:** Plugins / Integrations
+**Team:** Plugins / Integrations Squad
 
 **Key achievements:**
 
@@ -74,12 +74,12 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 **October 2022 – May 2025 | Remote**
 [malt.fr](https://www.malt.fr) — European freelance marketplace. 700,000+ freelancers, 350,000+ client companies.
 
-**Tribe Transaction — Squad Project (10 months)**
+**Transaction Tribe - Project Squad (10 months)**
 - Major technical migration of [freelance quotes domain](https://www.youtube.com/watch?v=2ug1T0_ZDyA) from JSP/HBS/JS/Vue 2 to Vue 3/Nuxt 3 + new APIs and domain
 - Migration of post-mission freelance recommendation domain from legacy stack to Vue 3/Nuxt 3
 - Introduced new team rituals: demos, daily syncs, JIRA templates, QA tracking docs
 
-**Tribe Staffing — Squad Matching (21 months)**
+**Staffing Tribe - Matching Squad (21 months)**
 - [New project funnel for Malt Strategy](https://www.malt.fr/c/maltstrategy/companies?source_component=hero-strategy) following Comatch acquisition
 - Rebuilt project start date / duration management
 - Migration of freelancer search from legacy JSP/HBS/JS to Vue 3/Nuxt 3; new enterprise project creation flow

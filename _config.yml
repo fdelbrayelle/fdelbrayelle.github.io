@@ -146,7 +146,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img alt="Kestra logo" src="images/kestra_logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Fully remote</p>
-          <p style="font-weight: bold;">Plugins / Integrations team</p>
+          <p style="font-weight: bold;">Plugins / Integrations Squad</p>
           <p><strong>Context:</strong>
             <ul>
               <li>Functional: Creating workflows for data engineers, platform engineers and software engineers</li>
@@ -188,7 +188,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <img alt="Malt logo" src="images/malt-logo.png" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Fully remote</p>
-          <p style="font-weight: bold;">Tribe Transaction - Squad Project (10 months)</p>
+          <p style="font-weight: bold;">Transaction Tribe - Project Squad (10 months)</p>
           <p><strong>Context:</strong>
             <ul>
               <li>Functional: Management of project / mission tracking between clients and freelancers</li>
@@ -206,7 +206,7 @@ content:
             </ul>
           </p>
           <p style="font-style: italic; margin-top: 25px;">Fully remote</p>
-          <p style="font-weight: bold;">Tribe Staffing - Squad Matching (21 months)</p>
+          <p style="font-weight: bold;">Staffing Tribe - Matching Squad (21 months)</p>
           <p><strong>Context:</strong>
             <ul>
               <li>Functional: Applicant Tracking System / Freelancing</li>

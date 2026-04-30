@@ -151,7 +151,7 @@ content:
             <ul>
               <li>Functional: Creating workflows for data engineers, platform engineers and software engineers</li>
               <li>Business: Orchestration and automation</li>
-              <li>Methodology: 2-month cycles (minor versions of Kestra core)</li>
+              <li>Methodology: <a href="https://basecamp.com/shapeup" target="_blank" rel="noreferrer noopener">Shape-up</a>, 2-month cycles (minor versions of Kestra core), continuous plugin releases</li>
               <li>Squad of 3; close collaboration with Engineering, Product, Sales, Marketing/GTM, Customer Success, and Direction</li>
               <li>Scale: 40+ enterprise customers - millions of workflows executed / month</li>
             </ul>

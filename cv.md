@@ -46,6 +46,8 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 **Team:** Plugins / Integrations Squad
 
+**Methodology:** [Shape-up](https://basecamp.com/shapeup), 2-month cycles (minor versions of Kestra core), continuous plugin releases
+
 **Key achievements:**
 
 - Maintained [150+ plugin repositories](https://github.com/orgs/kestra-io/repositories?q=plugin) (storages, secret managers, OSS & EE)

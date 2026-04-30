@@ -46,6 +46,8 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 **Équipe :** Plugins / Intégrations
 
+**Méthodologie :** [Shape-up](https://basecamp.com/shapeup), cycles de 2 mois (versions mineures de Kestra core), releases continues des plugins
+
 **Réalisations clés :**
 
 - Maintenance de [150+ repositories de plugins](https://github.com/orgs/kestra-io/repositories?q=plugin) (storages, secrets managers, OSS & EE)

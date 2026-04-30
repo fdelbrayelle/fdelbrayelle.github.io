@@ -112,7 +112,7 @@ content:
 
       - layout: left
         title: Malt
-        sub_title: Senior / Lead Software Engineer
+        sub_title: Lead Software Engineer
         caption: Octobre 2022 - Mai 2025
         link: www.malt.fr
         description: | # this will include new lines to allow paragraphs
@@ -195,7 +195,7 @@ content:
 
       - layout: left
         title: Ippon Technologies
-        sub_title: Développeur Full-Stack / Tech-Lead senior - Architecte Solutions junior - Formateur
+        sub_title: Lead Software Engineer
         caption: Octobre 2019 - Septembre 2022
         link: fr.ippon.tech
         description: | # this will include new lines to allow paragraphs
@@ -379,7 +379,7 @@ content:
 
       - layout: left
         title: Gfi Informatique (devenu Inetum)
-        sub_title: Développeur Full-Stack / Tech-Lead senior - Formateur
+        sub_title: Lead Software Engineer
         caption: Avril 2015 - Octobre 2019
         link: www.gfi.world
         description: | # this will include new lines to allow paragraphs
@@ -676,7 +676,7 @@ content:
 
       - layout: left
         title: Norsys
-        sub_title: Développeur Full-Stack
+        sub_title: Software Engineer
         caption: Avril 2011 - Avril 2015
         link: www.norsys.fr
         description: | # this will include new lines to allow paragraphs

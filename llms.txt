@@ -25,7 +25,7 @@ Role has changed dramatically since 2022, and even more so since 2025 with agent
 Remote. Plugins/Integrations team.
 
 Key metrics:
-- Grew plugin ecosystem from 600 to 1,300+ plugins in 8 months (+117%)
+- Grew plugin ecosystem from 600 to 1,300+ plugins in 11 months (+117%, doubled in 9 months)
 - Maintained 150+ plugin repositories (OSS & EE)
 - 7,000+ GitHub contributions to the Kestra org
 

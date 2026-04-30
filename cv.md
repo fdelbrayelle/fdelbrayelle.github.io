@@ -1,7 +1,7 @@
 ---
 layout: clean
 title: "François Delbrayelle — CV"
-description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,300+ plugins (+117%) in 8 months. 7,000+ GitHub contributions. GCP Professional Cloud Architect certified."
+description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,300+ plugins (+117%, doubled in 9 months) in 11 months. 7,000+ GitHub contributions. GCP Professional Cloud Architect certified."
 lang: en
 permalink: /cv/
 ---
@@ -49,7 +49,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 **Key achievements:**
 
 - Maintained [150+ plugin repositories](https://github.com/orgs/kestra-io/repositories?q=plugin) (storages, secret managers, OSS & EE)
-- Grew [plugin ecosystem from 600 to 1,300+](https://kestra.io/plugins) in 8 months (+117%)
+- Grew [plugin ecosystem from 600 to 1,300+](https://kestra.io/plugins) in 11 months (+117%, doubled in 9 months)
 - Created plugins from scratch: [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password (private repos)
 - [7,000+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org
 - Stabilized critical plugins (JDBC, Git, FS, Serdes); reduced Kubernetes EE test suite from 2h15 to 15 min
@@ -70,7 +70,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ---
 
-### Malt — Senior / Lead Software Engineer
+### Malt — Lead Software Engineer
 **October 2022 – May 2025 | Remote**
 [malt.fr](https://www.malt.fr) — European freelance marketplace. 700,000+ freelancers, 350,000+ client companies.
 
@@ -93,7 +93,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ---
 
-### Ippon Technologies — Full-Stack Developer / Senior Tech Lead / Solutions Architect / Trainer
+### Ippon Technologies — Lead Software Engineer
 **October 2019 – September 2022 | Paris / Remote**
 [fr.ippon.tech](https://fr.ippon.tech) — Software consulting firm (~300 people).
 
@@ -134,7 +134,7 @@ Spring expert trainer (3-day sessions, internal + client Brittany Ferries). Blog
 
 ---
 
-### Gfi Informatique (now Inetum) — Full-Stack Developer / Senior Tech Lead / Trainer
+### Gfi Informatique (now Inetum) — Lead Software Engineer
 **April 2015 – October 2019 | Lille**
 [gfi.world](https://www.gfi.world) (now [inetum.com](https://www.inetum.com)) — IT services, ~10,000 people.
 
@@ -168,7 +168,7 @@ Multiple banking apps: corporate cards (internet + intranet), RSDD/Souscription 
 
 ---
 
-### Norsys — Full-Stack Developer
+### Norsys — Software Engineer
 **April 2011 – April 2015 | Ennevelin / Paris**
 [norsys.fr](https://www.norsys.fr) — Ethical IT services company (~500 people).
 
@@ -216,10 +216,10 @@ Legacy mail-order/phone order management app (FORCE project). TMA: bug fixes and
 ## Education
 
 - **MSc Computer Science** — SUPINFO Lille (2008–2011)
-  - Internship: Sparkow (Lille, e-commerce merchandising), Odimat (Liévin, SEO/web), Norsys (final internship)
+  - Software Engineer Intern: Compario (now Sparkow, Lille, e-commerce merchandising), Odimat (Liévin, SEO/web), Norsys (final internship)
   - Mandriva Certified Administrator; Java Lab member (2008–2010)
 - **DUT Informatique** — Université d'Artois / IUT de Lens (2005–2008)
-  - Internship: Idea7 (Java EE asset management)
+  - Software Engineer Intern: Idea7 (Java EE asset management)
   - President of IUT Lens computer science students' association (2006–2007)
 - **Baccalauréat Scientifique** — Lycée de Gondecourt (2005), specialty mathematics
 

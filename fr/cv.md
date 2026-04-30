@@ -1,7 +1,7 @@
 ---
 layout: clean
 title: "François Delbrayelle — CV"
-description: "Staff Software Engineer. Lead Software Engineer chez Kestra. 15+ ans d'expérience Java, architecture cloud-native et open-source. Croissance de l'écosystème de plugins Kestra de 600 à 1300+ en 8 mois (+117%). 7000+ contributions GitHub. Certifié GCP Professional Cloud Architect."
+description: "Staff Software Engineer. Lead Software Engineer chez Kestra. 15+ ans d'expérience Java, architecture cloud-native et open-source. Croissance de l'écosystème de plugins Kestra de 600 à 1300+ en 11 mois (+117%, doublé en 9 mois). 7000+ contributions GitHub. Certifié GCP Professional Cloud Architect."
 lang: fr
 permalink: /fr/cv/
 ---
@@ -49,7 +49,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 **Réalisations clés :**
 
 - Maintenance de [150+ repositories de plugins](https://github.com/orgs/kestra-io/repositories?q=plugin) (storages, secrets managers, OSS & EE)
-- Croissance de [600 à 1300+ plugins](https://kestra.io/plugins) en 8 mois (+117%)
+- Croissance de [600 à 1300+ plugins](https://kestra.io/plugins) en 11 mois (+117%, doublé en 9 mois)
 - Création de plugins from scratch : [Mistral](https://github.com/kestra-io/plugin-mistral/pull/1), [Deepseek](https://github.com/kestra-io/plugin-deepseek/pull/2), [Beam](https://github.com/kestra-io/plugin-beam/pull/5), [Bluesky](https://github.com/kestra-io/plugin-bluesky/pull/3), [VMware EE](https://kestra.io/blogs/control-vmware-with-kestra), SAP EE, 1Password (repos privés)
 - [7000+ contributions GitHub](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) sur l'organisation Kestra
 - Stabilisation des plugins critiques (JDBC, Git, FS, Serdes) ; réduction de la suite de tests Kubernetes EE de 2h15 à 15 min
@@ -71,7 +71,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ---
 
-### Malt — Senior / Lead Software Engineer
+### Malt — Lead Software Engineer
 **Octobre 2022 – Mai 2025 | Télétravail intégral**
 [malt.fr](https://www.malt.fr) — Marketplace européenne pour freelances. 700 000+ freelances, 350 000+ entreprises clientes.
 
@@ -94,7 +94,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ---
 
-### Ippon Technologies — Développeur Full-Stack / Tech Lead senior / Architecte Solutions junior / Formateur
+### Ippon Technologies — Lead Software Engineer
 **Octobre 2019 – Septembre 2022 | Paris / Télétravail**
 [fr.ippon.tech](https://fr.ippon.tech) — Cabinet de conseil en technologie (~300 personnes).
 
@@ -135,7 +135,7 @@ Formateur Spring expert (sessions 3 jours, interne + clients dont Brittany Ferri
 
 ---
 
-### Gfi Informatique (devenu Inetum) — Développeur Full-Stack / Tech Lead senior / Formateur
+### Gfi Informatique (devenu Inetum) — Lead Software Engineer
 **Avril 2015 – Octobre 2019 | Lille**
 [gfi.world](https://www.gfi.world) (aujourd'hui [inetum.com](https://www.inetum.com)) — SSII / ESN (~10 000 personnes).
 
@@ -169,7 +169,7 @@ Applications bancaires multiples : cartes corporate, RSDD/Souscription, serveur 
 
 ---
 
-### Norsys — Développeur Full-Stack
+### Norsys — Software Engineer
 **Avril 2011 – Avril 2015 | Ennevelin / Paris**
 [norsys.fr](https://www.norsys.fr) — SSII éthique (~500 personnes).
 
@@ -217,10 +217,10 @@ Application de gestion des commandes courrier et téléphone (projet FORCE). TMA
 ## Formation
 
 - **MSc Computer Science** — SUPINFO Lille (2008–2011)
-  - Stages : Sparkow (Lille, e-commerce merchandising), Odimat (Liévin, SEO/web), Norsys (stage de fin d'études)
+  - Software Engineer Intern : Compario (ex-Sparkow, Lille, e-commerce merchandising), Odimat (Liévin, SEO/web), Norsys (stage de fin d'études)
   - Certification Mandriva Certified Administrator ; membre du Laboratoire Java (2008–2010)
 - **DUT Informatique** — Université d'Artois / IUT de Lens (2005–2008)
-  - Stage : Idea7 (Java EE, gestion documentaire d'assets)
+  - Software Engineer Intern : Idea7 (Java EE, gestion documentaire d'assets)
   - Président du BDE du département informatique de l'IUT de Lens (2006–2007)
 - **Baccalauréat Scientifique** — Lycée de Gondecourt (2005), spécialité mathématiques
 

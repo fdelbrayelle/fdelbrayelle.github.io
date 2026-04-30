@@ -26,7 +26,7 @@ Remote. Plugins/Integrations team.
 
 Key metrics:
 - Grew plugin ecosystem from 600 to 1,300+ plugins in 11 months (+117%, doubled in 9 months)
-- Maintained 150+ plugin repositories (OSS & EE)
+- Maintained 180+ plugin repositories (OSS & EE)
 - 7,000+ GitHub contributions to the Kestra org
 
 ---
@@ -52,7 +52,7 @@ Key metrics:
 | Claim | Link |
 |---|---|
 | 7,000+ GitHub contributions | https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests |
-| 150+ plugin repos | https://github.com/orgs/kestra-io/repositories?q=plugin |
+| 180+ plugin repos | https://github.com/orgs/kestra-io/repositories?q=plugin |
 | 1,300+ plugins | https://kestra.io/plugins |
 | Mistral plugin (init PR) | https://github.com/kestra-io/plugin-mistral/pull/1 |
 | Deepseek plugin (init PR) | https://github.com/kestra-io/plugin-deepseek/pull/2 |

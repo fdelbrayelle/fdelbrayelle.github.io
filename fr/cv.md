@@ -42,7 +42,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ### Kestra — Lead Software Engineer
 **Mai 2025 – présent | Télétravail intégral**
-[kestra.io](https://kestra.io) — Plateforme open-source d'orchestration et d'automatisation de workflows. Squad de 3 personnes ; collaboration étroite avec Engineering, Product, Sales, Marketing/GTM, Customer Success et Direction. 40+ entreprises clientes, millions de workflows/mois.
+[kestra.io](https://kestra.io) — Orchestrateur open-source, agnostique et event-driven pour les workflows mission-critical (IA, Data Engineering, Infrastructure). Squad de 3 personnes ; collaboration étroite avec Engineering, Product, Sales, Marketing/GTM, Customer Success et Direction. 40+ entreprises clientes, millions de workflows/mois, [Kestra](https://github.com/kestra-io/kestra) ~30 000 étoiles GitHub.
 
 **Équipe :** Plugins / Intégrations
 

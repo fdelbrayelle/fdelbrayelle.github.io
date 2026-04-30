@@ -80,10 +80,10 @@ content:
           <p><strong>Contexte :</strong>
             <ul>
               <li>Fonctionnel : Création de workflows pour les data engineers, platform engineers et software engineers</li>
-              <li>Business : Orchestration et automatisation</li>
+              <li>Business : Orchestrateur agnostique et event-driven pour les workflows mission-critical — verticales : IA, Data Engineering, Infrastructure</li>
               <li>Méthodologique : <a href="https://basecamp.com/shapeup" target="_blank" rel="noreferrer noopener">Shape-up</a>, cycles de 2 mois (versions mineures de Kestra core), releases continues des plugins</li>
               <li>Squad de 3 personnes ; collaboration étroite avec Engineering, Product, Sales, Marketing/GTM, Customer Success et Direction</li>
-              <li>Volumétrie : 40+ entreprises clientes - millions de workflows exécutés / mois</li>
+              <li>Volumétrie : <a href="https://github.com/kestra-io/kestra" target="_blank" rel="noreferrer noopener">Kestra</a> ~30 000 étoiles GitHub ; 40+ entreprises clientes ; millions de workflows exécutés / mois</li>
             </ul>
           </p>
           <p><strong>Réalisations :</strong>

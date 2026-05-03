@@ -20,7 +20,7 @@ permalink: /cv/
 
 ## Summary
 
-Full-stack engineer and technical leader with 15+ years of experience in Java ecosystem, cloud-native architecture, microservices, and open-source software. Currently Lead Software Engineer at [Kestra](https://kestra.io), leading the Plugins/Integrations team for an open-source workflow orchestration platform. Deep expertise in Java 21+, Micronaut, Kubernetes, Kafka, GCP, and Vue.js. Fluent in French (native), English (C1), Japanese (JLPT N2), and Georgian (A2/B1).
+Full-stack engineer and technical leader with 15+ years of experience in Java ecosystem, cloud-native architecture, microservices, and open-source software. Currently Lead Software Engineer at [Kestra](https://kestra.io), leading the Plugins & Ecosystem Squad for an open-source workflow orchestration platform. Deep expertise in Java 21+, Micronaut, Kubernetes, Kafka, GCP, and Vue.js. Fluent in French (native), English (C1), Japanese (JLPT N2), and Georgian (A2/B1).
 
 Since 2022, I have been part of the scale-up and startup world — first at Malt, a fast-growing European freelance marketplace, then at Kestra where I lead the entire plugin ecosystem in a high-growth, open-source context.
 
@@ -62,11 +62,12 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 - **Tooling:** Full ownership of non-plugin integrations — [GitHub Actions](https://github.com/kestra-io/github-actions), [kestractl](https://github.com/kestra-io/kestractl), [libs for scripts](https://github.com/kestra-io/libs), [plugins-devtools](https://github.com/kestra-io/plugins-devtools), [client SDK](https://github.com/kestra-io/client-sdk), [Terraform provider](https://github.com/kestra-io/terraform-provider-kestra), [VS Code extension](https://github.com/kestra-io/vscode-kestra)
 
-*Leadership & Impact*
+*Scope & Impact*
 
-- **AI Enablement:** Led adoption of AI in engineering: co-authored AI Coding Agent Guidelines (internal), built Engineering AI Hub (internal); public MCP for plugins & blueprints ([blog post](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints))
-- **Product & Leadership:** Acted as technical product partner, aligning roadmap and priorities with Product; org-wide scope — main interface between plugin ecosystem and every team (Engineering, Sales, Customer Success, DevRel, Product); structured team: priorities, dashboards, workload split, mentoring, onboarding docs; contributed to [docs](https://github.com/kestra-io/docs); [hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, regular events, Pylon tickets); contributed to hiring 3 engineers; built partnerships (Conapi GmbH, WeScale)
-- **Evangelism:** Conferences: DevLille 2025 & [DevLille 2026](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) (talk: Kestra, plugins & AI agents), Belgium JUG Ghent, [Big Data London 2025](https://bigdataldn.com), [Data Days Lille 2026](https://fdelbrayelle.github.io/meetups/datadayslille2026/en/); DevRel: contributed to videos (Python/Go/JS SDK, Gemini/Ollama/OpenAI/Salesforce/VMware plugins), blog posts ([VMware](https://kestra.io/blogs/control-vmware-with-kestra), [infrastructure plugins](https://kestra.io/blogs/infra-automation)), LinkedIn posts
+- **AI Enablement:** Led adoption of AI in engineering: co-authored AI Coding Agent Guidelines (internal), built [Engineering AI Hub](https://github.com/kestra-io/engineering-ai-hub); public MCP for plugins & blueprints ([blog post](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints))
+- **Product:** Acted as technical product partner, aligning roadmap and priorities with Product; org-wide scope — main interface between plugin ecosystem and every team (Engineering, Sales, Customer Success, DevRel, Product); contributed to [docs](https://github.com/kestra-io/docs); [hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, regular events, Pylon tickets)
+- **Leadership:** Structured team: priorities, dashboards, workload split, mentoring, onboarding docs; contributed to hiring 3 engineers (including 1 for the squad); built partnerships (Conapi GmbH, WeScale)
+- **Evangelism:** Conferences: DevLille 2025 & [DevLille 2026](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) (talk: Kestra, plugins & AI agents), Belgium JUG Ghent, [Big Data London 2025](https://bigdataldn.com), [Data Days Lille 2026](https://fdelbrayelle.github.io/meetups/datadayslille2026/en/); DevRel: contributed to videos (Python/Go/JS SDK, Gemini/Ollama/OpenAI/Salesforce/VMware plugins), blog posts ([VMware](https://kestra.io/blogs/control-vmware-with-kestra), [infrastructure plugins](https://kestra.io/blogs/infra-automation), [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints), [how Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins)), LinkedIn posts
 
 **Stack:** Java 21+, Micronaut, Gradle, Vue 3, Nuxt 3, Kafka, Elasticsearch, Kubernetes, Docker, GCP, PostgreSQL, GitHub Actions, ArgoCD, Terraform, Grafana
 

@@ -30,8 +30,8 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ## Certifications
 
-- [GCP Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) — [Credential](https://www.credential.net/5aa5d083-f600-4b98-b51b-5771a7ad5878?key=91213c5cc024a76c2b2c6b7746f8e17bcedc825c2014f7806da6d40d68593d76)
-- [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) — [Credential](https://www.credential.net/0174e9d2-01e0-4a0f-ba14-09e422afbb8b?key=8f5de6e92912aa8a99a313d766af4a279615f0f3acd4ea48c23189c2765aa41e)
+- [GCP Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) — [Credential](https://www.credly.com/badges/a4bb8f42-ed80-44be-9e22-415ba7043651/public_url) *(expired May 18, 2024)*
+- [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) — [Credential](https://www.credly.com/badges/9c23295a-8d64-4c7d-bdb2-5be856b35893/public_url) *(expired Dec 15, 2024)*
 - TOEIC 840 (English, 2011)
 - Japanese Language Proficiency Test N2 / JLPT N2 (2014)
 - Kanji Kentei Level 5 (2010)

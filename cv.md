@@ -38,6 +38,34 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ---
 
+## Talks
+
+- [🦸 Supercharge your workflows: Building a 100% AI-generated Kestra plugin](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/)
+- [GDPR for developers](https://github.com/fdelbrayelle/talk-gdpr-for-developers) — [DevFest Lille 2022](https://www.youtube.com/watch?v=wkbQ6Ec4qXY), Malt Tech Days 2023
+- [REST, gRPC, GraphQL, Webhooks: in which situations?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks) — [Sunny Tech 2022](https://www.youtube.com/watch?v=EajuaPWdESo), [Voxxed Days Luxembourg 2022](https://www.youtube.com/watch?v=xMTlq7PvPYU), [Touraine Tech 2022](https://www.youtube.com/watch?v=s5qRho_FIyc)
+- [Micronaut and Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus) *(internal, Gfi)*
+- [Kubernetes](https://github.com/fdelbrayelle/midi-tech-k8s) *(internal, Gfi)*
+- [Vue.js](https://github.com/fdelbrayelle/midi-tech-vuejs) *(internal, Gfi)*
+- [JHipster](https://github.com/fdelbrayelle/midi-tech-jhipster) *(internal, Gfi)*
+- [After Java 8](https://github.com/fdelbrayelle/midi-tech-java-news) *(internal, Gfi)*
+
+---
+
+## Blog posts
+
+- [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) — kestra.io (April 2026)
+- [How Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) — kestra.io (April 2026)
+- [Control VMware with Kestra](https://kestra.io/blogs/control-vmware-with-kestra) — kestra.io (2025)
+- [Infrastructure automation with Kestra](https://kestra.io/blogs/infra-automation) — kestra.io (2025)
+- [GCP Professional Cloud Architect certification](https://blog.ippon.fr/2022/08/03/gcp-professional-cloud-architect/) — blog.ippon.fr (2022)
+- [Testing the nua.ge IaaS public cloud](https://blog.ippon.fr/2022/02/25/test-du-cloud-public-iaas-de-nua-ge/) — blog.ippon.fr (2022)
+- [Liquibase in a GCP init container](https://blog.ippon.fr/2021/11/24/liquibase-dans-un-init-container-sur-gcp/) — blog.ippon.fr (2021)
+- [Creating a JHipster module: contributing to open source](https://blog.ippon.fr/2021/05/31/creer-un-module-jhipster-une-facon-de-contribuer-a-lopen-source-2/) — blog.ippon.fr (2021)
+- [Kafka and JHipster? It's possible!](https://blog.ippon.fr/2021/03/10/kafka-et-jhipster-cest-possible/) — blog.ippon.fr (2021)
+- [How to improve the developer experience (DevX)?](https://welovedevs.com/fr/articles/comment-ameliorer-lexperience-du-developpeur-devx/) — WeLoveDevs (2021)
+
+---
+
 ## Experience
 
 ### Kestra — Lead Software Engineer

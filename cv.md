@@ -88,7 +88,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 *Ecosystem*
 
-- **Tooling:** Full ownership of non-plugin integrations — [GitHub Actions](https://github.com/kestra-io/github-actions), [kestractl](https://github.com/kestra-io/kestractl), [libs for scripts](https://github.com/kestra-io/libs), [plugins-devtools](https://github.com/kestra-io/plugins-devtools), [client SDK](https://github.com/kestra-io/client-sdk), [Terraform provider](https://github.com/kestra-io/terraform-provider-kestra), [VS Code extension](https://github.com/kestra-io/vscode-kestra)
+- **Tooling:** Full ownership of non-plugin integrations — [GitHub Actions](https://github.com/kestra-io/github-actions), [kestractl](https://github.com/kestra-io/kestractl), [libs for scripts](https://github.com/kestra-io/libs), [plugins-devtools](https://github.com/kestra-io/plugins-devtools), [client SDK](https://github.com/kestra-io/client-sdk), [Terraform provider](https://github.com/kestra-io/terraform-provider-kestra), [VS Code extension](https://github.com/kestra-io/vscode-kestra), [Agent Skills](https://github.com/kestra-io/agent-skills)
 
 *Scope & Impact*
 

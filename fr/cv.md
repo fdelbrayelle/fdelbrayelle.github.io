@@ -88,7 +88,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 *Écosystème*
 
-- **Outillage :** Responsabilité complète des intégrations non-plugins — [GitHub Actions](https://github.com/kestra-io/github-actions), [kestractl](https://github.com/kestra-io/kestractl), [libs pour les scripts](https://github.com/kestra-io/libs), [plugins-devtools](https://github.com/kestra-io/plugins-devtools), [client SDK](https://github.com/kestra-io/client-sdk), [provider Terraform](https://github.com/kestra-io/terraform-provider-kestra), [extension VS Code](https://github.com/kestra-io/vscode-kestra)
+- **Outillage :** Responsabilité complète des intégrations non-plugins — [GitHub Actions](https://github.com/kestra-io/github-actions), [kestractl](https://github.com/kestra-io/kestractl), [libs pour les scripts](https://github.com/kestra-io/libs), [plugins-devtools](https://github.com/kestra-io/plugins-devtools), [client SDK](https://github.com/kestra-io/client-sdk), [provider Terraform](https://github.com/kestra-io/terraform-provider-kestra), [extension VS Code](https://github.com/kestra-io/vscode-kestra), [Agent Skills](https://github.com/kestra-io/agent-skills)
 
 *Périmètre & Impact*
 

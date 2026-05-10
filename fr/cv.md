@@ -30,7 +30,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ## Certifications
 
-- [Kestra Fundamentals](https://academy.kestra.io/) — [Certificate](Kestra%20Fundamentals-certificate.pdf) *(10 mai 2026)*
+- [Kestra Fundamentals](https://academy.kestra.io/) — [Certificate](/Kestra%20Fundamentals-certificate.pdf) *(10 mai 2026)*
 - [GCP Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) — [Badge](https://www.credly.com/badges/a4bb8f42-ed80-44be-9e22-415ba7043651/public_url) *(expirée le 18 mai 2024)*
 - [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) — [Badge](https://www.credly.com/badges/9c23295a-8d64-4c7d-bdb2-5be856b35893/public_url) *(expirée le 15 déc. 2024)*
 - TOEIC 840 (anglais, 2011)

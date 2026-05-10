@@ -30,6 +30,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ## Certifications
 
+- [Kestra Fundamentals](Kestra%20Fundamentals-certificate.pdf) *(May 10, 2026)*
 - [GCP Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect) — [Badge](https://www.credly.com/badges/a4bb8f42-ed80-44be-9e22-415ba7043651/public_url) *(expired May 18, 2024)*
 - [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer) — [Badge](https://www.credly.com/badges/9c23295a-8d64-4c7d-bdb2-5be856b35893/public_url) *(expired Dec 15, 2024)*
 - TOEIC 840 (English, 2011)

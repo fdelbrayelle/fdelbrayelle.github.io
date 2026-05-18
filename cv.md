@@ -54,6 +54,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ## Blog posts
 
+- [Kestra MCP: Live Documentation Access for AI Coding Agents](https://kestra.io/blogs/kestra-mcp-docs) — kestra.io (2026)
 - [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) — kestra.io (April 2026)
 - [How Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) — kestra.io (April 2026)
 - [Control VMware with Kestra](https://kestra.io/blogs/control-vmware-with-kestra) — kestra.io (2025)
@@ -93,10 +94,10 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 *Scope & Impact*
 
-- **AI Enablement:** Led adoption of AI in engineering: co-authored AI Coding Agent Guidelines (internal), built [Engineering AI Hub](https://github.com/kestra-io/engineering-ai-hub); public MCP for plugins & blueprints ([blog post](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints))
+- **AI Enablement:** Led adoption of AI in engineering: co-authored AI Coding Agent Guidelines (internal), built [Engineering AI Hub](https://github.com/kestra-io/engineering-ai-hub); public MCP for plugins & blueprints ([blog post](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints)) and docs ([Kestra MCP: Live Documentation Access for AI Coding Agents](https://kestra.io/blogs/kestra-mcp-docs))
 - **Product:** Acted as technical product partner, aligning roadmap and priorities with Product; org-wide scope — main interface between plugin ecosystem and every team (Engineering, Sales, Customer Success, DevRel, Product); contributed to [docs](https://github.com/kestra-io/docs); [hundreds of issues handled](https://github.com/search?q=assignee%3Afdelbrayelle+org%3Akestra-io&type=issues) (Hacktoberfest, regular events, Pylon tickets)
 - **Leadership:** Structured team: priorities, dashboards, workload split, mentoring, onboarding docs; contributed to hiring 3 engineers (including 1 for the squad); built partnerships (Conapi GmbH, WeScale)
-- **Evangelism:** Conferences: DevLille 2025 & [DevLille 2026](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) (talk: Kestra, plugins & AI agents), [Big Data London 2025](https://bigdataldn.com), [Data Days Lille 2026](https://fdelbrayelle.github.io/meetups/datadayslille2026/en/); DevRel: contributed to videos (Python/Go/JS SDK, Gemini/Ollama/OpenAI/Salesforce/VMware plugins), blog posts ([VMware](https://kestra.io/blogs/control-vmware-with-kestra), [infrastructure plugins](https://kestra.io/blogs/infra-automation), [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints), [how Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins)), LinkedIn posts
+- **Evangelism:** Conferences: DevLille 2025 & [DevLille 2026](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) (talk: Kestra, plugins & AI agents), [Big Data London 2025](https://bigdataldn.com), [Data Days Lille 2026](https://fdelbrayelle.github.io/meetups/datadayslille2026/en/); DevRel: contributed to videos (Python/Go/JS SDK, Gemini/Ollama/OpenAI/Salesforce/VMware plugins), blog posts ([VMware](https://kestra.io/blogs/control-vmware-with-kestra), [infrastructure plugins](https://kestra.io/blogs/infra-automation), [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints), [Kestra MCP: Live Documentation Access for AI Coding Agents](https://kestra.io/blogs/kestra-mcp-docs), [how Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins)), LinkedIn posts
 
 **Stack:** Java 21+, Micronaut, Gradle, Vue 3, Nuxt 3, Kafka, Elasticsearch, Kubernetes, Docker, GCP, PostgreSQL, GitHub Actions, ArgoCD, Terraform, Grafana
 

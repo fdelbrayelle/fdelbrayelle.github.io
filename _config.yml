@@ -160,7 +160,7 @@ content:
         caption: Since May 2025
         link: www.kestra.io
         description: | # this will include new lines to allow paragraphs
-          <img alt="Kestra logo" src="images/kestra_logo.png" style="width: 300px;" />
+          <img alt="Kestra logo" src="images/kestra_logo.svg" style="width: 300px;" />
           <p style="font-style: italic; margin-top: 25px;">Fully remote</p>
           <p style="font-weight: bold;">Plugins &amp; Ecosystem Squad</p>
           <p><strong>Context:</strong>

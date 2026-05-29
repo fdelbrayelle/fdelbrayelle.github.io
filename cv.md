@@ -57,6 +57,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 - [Kestra MCP: Live Documentation Access for AI Coding Agents](https://kestra.io/blogs/kestra-mcp-docs) — kestra.io (2026)
 - [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) — kestra.io (April 2026)
 - [How Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) — kestra.io (April 2026)
+- [How we stopped managing plugin releases by hand](https://medium.com/kestra-engineering/how-we-stopped-managing-plugin-releases-by-hand-bce0ad23a43a) — medium.com (2026)
 - [Control VMware with Kestra](https://kestra.io/blogs/control-vmware-with-kestra) — kestra.io (2025)
 - [Infrastructure automation with Kestra](https://kestra.io/blogs/infra-automation) — kestra.io (2025)
 - [GCP Professional Cloud Architect certification](https://blog.ippon.fr/2022/08/03/gcp-professional-cloud-architect/) — blog.ippon.fr (2022)

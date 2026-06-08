@@ -54,6 +54,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ## Blog posts
 
+- [Kestra Plugins & AI Ecosystem](https://kestra.io/blogs/kestra-plugins-ai-ecosystem) — kestra.io (2026)
 - [Kestra MCP: Live Documentation Access for AI Coding Agents](https://kestra.io/blogs/kestra-mcp-docs) — kestra.io (2026)
 - [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) — kestra.io (April 2026)
 - [How Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) — kestra.io (April 2026)

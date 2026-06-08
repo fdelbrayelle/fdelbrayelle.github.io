@@ -54,6 +54,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ## Articles de blog
 
+- [Plugins Kestra & écosystème IA](https://kestra.io/blogs/kestra-plugins-ai-ecosystem) — kestra.io (2026)
 - [Kestra MCP : accès en direct à la documentation pour les agents IA de codage](https://kestra.io/blogs/kestra-mcp-docs) — kestra.io (2026)
 - [MCP pour plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) — kestra.io (avril 2026)
 - [Comment Kestra livre ses plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) — kestra.io (avril 2026)

@@ -41,7 +41,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ## Talks
 
-- [🦸 Des super-pouvoirs pour vos workflows : Créer un plugin Kestra 100% généré par l'IA](https://github.com/fdelbrayelle/workflow-superpowers) ([DevLille](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/))
+- 🦸 Des super-pouvoirs pour vos workflows : Créer un plugin Kestra 100% généré par l'IA — [DevLille](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) - [Slides + Démo](https://github.com/fdelbrayelle/workflow-superpowers) - Vidéo
 - [RGPD pour les développeurs](https://github.com/fdelbrayelle/talk-gdpr-for-developers) — [DevFest Lille 2022](https://www.youtube.com/watch?v=wkbQ6Ec4qXY), Malt Tech Days 2023
 - [REST, gRPC, GraphQL, Webhooks : dans quelles situations ?](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks) — [Sunny Tech 2022](https://www.youtube.com/watch?v=EajuaPWdESo), [Voxxed Days Luxembourg 2022](https://www.youtube.com/watch?v=xMTlq7PvPYU), [Touraine Tech 2022](https://www.youtube.com/watch?v=s5qRho_FIyc)
 - [Micronaut et Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus) *(interne, Gfi)*
@@ -54,7 +54,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ## Articles de blog
 
-- [Plugins Kestra & écosystème IA](https://kestra.io/blogs/kestra-plugins-ai-ecosystem) — kestra.io (juin 2026)
+- Plugins Kestra & écosystème IA — [Kestra blog](https://kestra.io/blogs/kestra-plugins-ai-ecosystem) - [Medium](https://medium.com/kestra-engineering/from-llm-providers-to-vector-databases-67fb359fadfc) (juin 2026)
 - Kestra MCP : accès en direct à la documentation pour les agents IA de codage — [Kestra blog](https://kestra.io/blogs/kestra-mcp-docs) - [Medium](https://medium.com/kestra-engineering/kestra-mcp-live-documentation-access-for-ai-coding-agents-f355105eaed2) (mai 2026)
 - MCP pour plugins & blueprints — [Kestra blog](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) - [Medium](https://medium.com/kestra-engineering/kestra-mcp-a-live-plugin-and-blueprint-catalog-for-ai-coding-agents-4afdc7e77e1f) (avril 2026)
 - Comment Kestra livre ses plugins — [Kestra blog](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) - [Medium](https://medium.com/kestra-engineering/how-we-stopped-managing-plugin-releases-by-hand-bce0ad23a43a) (avril 2026)

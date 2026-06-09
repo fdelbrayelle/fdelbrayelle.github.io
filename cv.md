@@ -55,11 +55,10 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 ## Blog posts
 
 - [Kestra Plugins & AI Ecosystem](https://kestra.io/blogs/kestra-plugins-ai-ecosystem) — kestra.io (2026)
-- [Kestra MCP: Live Documentation Access for AI Coding Agents](https://kestra.io/blogs/kestra-mcp-docs) — kestra.io (2026)
-- [MCP for plugins & blueprints](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) — kestra.io (April 2026)
-- [How Kestra ships plugins](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) — kestra.io (April 2026)
-- [How we stopped managing plugin releases by hand](https://medium.com/kestra-engineering/how-we-stopped-managing-plugin-releases-by-hand-bce0ad23a43a) — medium.com (2026)
-- [Control VMware with Kestra](https://kestra.io/blogs/control-vmware-with-kestra) — kestra.io (2025)
+- Kestra MCP: Live Documentation Access for AI Coding Agents — [Kestra blog](https://kestra.io/blogs/kestra-mcp-docs) | [Medium](https://medium.com/kestra-engineering/kestra-mcp-live-documentation-access-for-ai-coding-agents-f355105eaed2) (2026)
+- MCP for plugins & blueprints — [Kestra blog](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) | [Medium](https://medium.com/kestra-engineering/kestra-mcp-a-live-plugin-and-blueprint-catalog-for-ai-coding-agents-4afdc7e77e1f) (April 2026)
+- How Kestra ships plugins — [Kestra blog](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins) | [Medium](https://medium.com/kestra-engineering/how-we-stopped-managing-plugin-releases-by-hand-bce0ad23a43a) (April 2026)
+- Control VMware with Kestra — [Kestra blog](https://kestra.io/blogs/control-vmware-with-kestra) | [Medium](https://medium.com/kestra-engineering/orchestrate-vmware-without-the-legacy-automation-layer-e3acbd13caa0) (2025)
 - [Infrastructure automation with Kestra](https://kestra.io/blogs/infra-automation) — kestra.io (2025)
 - [GCP Professional Cloud Architect certification](https://blog.ippon.fr/2022/08/03/gcp-professional-cloud-architect/) — blog.ippon.fr (2022)
 - [Testing the nua.ge IaaS public cloud](https://blog.ippon.fr/2022/02/25/test-du-cloud-public-iaas-de-nua-ge/) — blog.ippon.fr (2022)

@@ -1,7 +1,7 @@
 ---
 layout: clean
 title: "François Delbrayelle — CV"
-description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,500+ plugins (+150%, doubled in 9 months) in 13 months. 7,000+ GitHub contributions. GCP Professional Cloud Architect certified."
+description: "Staff Software Engineer. Lead Software Engineer at Kestra. 15+ years in Java, cloud-native architecture, and open-source. Grew Kestra plugin ecosystem from 600 to 1,500+ plugins (+150%, doubled in 9 months) in 13 months. 8,000+ GitHub contributions. GCP Professional Cloud Architect certified."
 lang: en
 permalink: /cv/
 ---
@@ -83,7 +83,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 *Plugins*
 
-- **Plugin Hub Growth:** Grew [plugin ecosystem from 600 to 1,500+](https://kestra.io/plugins) in 13 months (+150%, doubled in 9 months) across [170+ plugin repositories](https://github.com/orgs/kestra-io/repositories?q=plugin) (OSS & EE); [7,000+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org; structured squad ownership, priorities, discovery and delivery
+- **Plugin Hub Growth:** Grew [plugin ecosystem from 600 to 1,500+](https://kestra.io/plugins) in 13 months (+150%, doubled in 9 months) across [170+ plugin repositories](https://github.com/orgs/kestra-io/repositories?q=plugin) (OSS & EE); [8,000+ GitHub contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests) across the Kestra org; structured squad ownership, priorities, discovery and delivery
 - **Reliability at Scale:** Improved most used plugins (FS, Debezium, JDBC, Scripts, AWS, GCP, Azure, Serdes, Git, EE Git, EE Kubernetes, Docker, Terraform, Slack, AMQP, MinIO, [core plugins](https://kestra.io/plugins/core)…); reduced Kubernetes EE test suite from 2h15 to 15 min; re-enabled and added/fixed hundreds of tests across hundreds of plugins; introduced daily CI pipeline against kestra:develop
 - **Developer Experience & Release Velocity:** Built [plugins-devtools](https://github.com/kestra-io/plugins-devtools) to automate dev, testing, and releases; introduced continuous automated releases and automated versioning across 1,500+ plugins; contributed to [plugin developer guide](https://kestra.io/docs/plugin-developer-guide); dogfooding Kestra for plugin automation ([LinkedIn post](https://www.linkedin.com/posts/fdelbrayelle_kestra-opensource-dataengineering-activity-7447888978512498688-bfBr), [blog post](https://kestra.io/blogs/2026-04-27-how-kestra-ships-plugins))
 - **Architecture & Platform:** Co-designed Plugin Metadata & Releases API ([api.kestra.io](https://github.com/kestra-io/api.kestra.io)) architecture; drove performance improvements; shipped [NamespaceSync](https://github.com/kestra-io/plugin-git/pull/177) & [TenantSync](https://github.com/kestra-io/plugin-git/pull/180) for Git Sync (OSS & EE); covered EE features: [versioned plugins](https://kestra.io/docs/enterprise/instance/versioned-plugins), [secrets manager](https://kestra.io/docs/enterprise/governance/secrets-manager), [log shipper](https://kestra.io/docs/enterprise/governance/logshipper), [task runners](https://kestra.io/docs/task-runners), [storage](https://kestra.io/docs/concepts/storage); contribution to Kestra core: [AI Copilot (Speech-to-Text)](https://github.com/kestra-io/kestra/pull/14174), [AI Copilot (Kestra MCP support)](https://github.com/kestra-io/kestra/pull/16104)
@@ -272,7 +272,7 @@ Legacy mail-order/phone order management app (FORCE project). TMA: bug fixes and
 
 ## Open Source
 
-- Kestra plugins: [github.com/kestra-io](https://github.com/kestra-io) ([7,000+ contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests))
+- Kestra plugins: [github.com/kestra-io](https://github.com/kestra-io) ([8,000+ contributions](https://github.com/search?q=author%3Afdelbrayelle+org%3Akestra-io&type=pullrequests))
 - JHipster Kafka module: [generator-jhipster-kafka](https://github.com/fdelbrayelle/generator-jhipster-kafka) (stream leader)
 - DevFest Lille 2022: CFP reviewer (no deliberation rights), community ambassador
 

@@ -41,7 +41,7 @@ My job has changed dramatically since 2022, and even more so since 2025 with the
 
 ## Talks
 
-- 🦸 Superpowers for your Workflows: Creating a 100% AI-Generated Kestra Plugin — [DevLille](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) - [Slides + Demo](https://github.com/fdelbrayelle/workflow-superpowers) - Video
+- 🦸 Superpowers for your Workflows: Creating a 100% AI-Generated Kestra Plugin — [DevLille](https://devlille.fr/talk-page-136143e9-347b-4884-b21c-ef9cd6caab40/) - [Slides + Demo](https://github.com/fdelbrayelle/workflow-superpowers) - [Video](https://www.youtube.com/watch?v=ndfp1CH-nTM)
 - GDPR for developers — [DevFest Lille 2022](https://www.youtube.com/watch?v=wkbQ6Ec4qXY), Malt Tech Days 2023 - [Slides + Demo](https://github.com/fdelbrayelle/talk-gdpr-for-developers)
 - REST, gRPC, GraphQL, Webhooks: in which situations? — [Sunny Tech 2022](https://www.youtube.com/watch?v=EajuaPWdESo), [Voxxed Days Luxembourg 2022](https://www.youtube.com/watch?v=xMTlq7PvPYU), [Touraine Tech 2022](https://www.youtube.com/watch?v=s5qRho_FIyc) - [Slides + Demo](https://github.com/fdelbrayelle/talk-rest-grpc-graphql-webhooks)
 - [Micronaut and Quarkus](https://github.com/fdelbrayelle/midi-tech-micronaut-quarkus) *(internal, Gfi)*

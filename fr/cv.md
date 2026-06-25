@@ -54,6 +54,7 @@ Mon métier a fortement changé depuis 2022, et surtout depuis 2025 avec l'essor
 
 ## Articles de blog
 
+- Ingénierie du contexte pour la squad Plugins — [Kestra blog](https://kestra.io/blogs/context-engineering-plugins-squad) (juin 2026)
 - Plugins Kestra & écosystème IA — [Kestra blog](https://kestra.io/blogs/kestra-plugins-ai-ecosystem) - [Medium](https://medium.com/kestra-engineering/from-llm-providers-to-vector-databases-67fb359fadfc) (juin 2026)
 - Kestra MCP : accès en direct à la documentation pour les agents IA de codage — [Kestra blog](https://kestra.io/blogs/kestra-mcp-docs) - [Medium](https://medium.com/kestra-engineering/kestra-mcp-live-documentation-access-for-ai-coding-agents-f355105eaed2) (mai 2026)
 - MCP pour plugins & blueprints — [Kestra blog](https://kestra.io/blogs/2026-04-30-kestra-mcp-plugins-blueprints) - [Medium](https://medium.com/kestra-engineering/kestra-mcp-a-live-plugin-and-blueprint-catalog-for-ai-coding-agents-4afdc7e77e1f) (avril 2026)
